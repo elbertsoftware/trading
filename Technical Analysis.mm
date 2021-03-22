@@ -454,7 +454,7 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#66cc00" CREATED="1616047271969" ID="ID_728727637" MODIFIED="1616372607658" TEXT="Uncommon Gaps">
+<node BACKGROUND_COLOR="#66cc00" CREATED="1616047271969" ID="ID_728727637" MODIFIED="1616394988113" TEXT="Uncommon Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -706,7 +706,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1616301715971" ID="ID_1905999712" MODIFIED="1616378528011" TEXT="Missing 1 Shadow">
+<node CREATED="1616301715971" ID="ID_1905999712" MODIFIED="1616395083603" TEXT="Missing 1 Shadow">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1064,6 +1064,88 @@
 </node>
 </node>
 </node>
+<node CREATED="1616394283420" ID="ID_270532452" MODIFIED="1616394900620" TEXT="3 Soldiers or 3 Crows">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Strong indicator of uptrend (3 soldiers) or downtrend (3 crows)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;6. Three Soldiers and Crows&quot; for examples</font>
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+<node BACKGROUND_COLOR="#66cc00" CREATED="1616394937549" ID="ID_1763419638" MODIFIED="1616395253379" TEXT="3 Soldiers">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Three long green bars
+      </li>
+      <li>
+        Consistently all in a row
+      </li>
+      <li>
+        Continuation of the uptrend
+      </li>
+      <li>
+        Stronger indicator:&#160;&#160;Top wick short, Close at or near High
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;6. Three Soldiers and Crows&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#ff6666" CREATED="1616395010503" ID="ID_1936144506" MODIFIED="1616395192948" TEXT="3 Crows">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Three long red bars
+      </li>
+      <li>
+        Consistently all in a row
+      </li>
+      <li>
+        Continuation of the downtrend
+      </li>
+      <li>
+        Stronger indicator: Bottom wick short, Close at or near Low
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;6. Three Soldiers and Crows&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1615950111610" POSITION="right" TEXT="Indicators">
@@ -1123,6 +1205,7 @@
 <linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-157;-11;" ID="Arrow_ID_448903205" SOURCE="ID_728727637" STARTARROW="Default" STARTINCLINATION="-123;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1616395686889" ID="ID_971930778" MODIFIED="1616395695738" TEXT="Trend Lines"/>
 <node CREATED="1615849824664" ID="ID_1207721204" MODIFIED="1615950111610" TEXT="Breakouts &amp; Retracements">
 <richcontent TYPE="NOTE"><html>
   <head>
