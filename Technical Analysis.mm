@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ff9999" CREATED="1615842217381" ID="ID_684720905" MODIFIED="1616296167125" TEXT="Technical Analysis">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1615842217381" ID="ID_684720905" MODIFIED="1616393022448" TEXT="Technical Analysis">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -329,7 +329,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1616383830667" TEXT="Example">
+<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1616393034594" TEXT="Example">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -340,7 +340,7 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="707;35;" ID="Arrow_ID_1909157134" STARTARROW="Default" STARTINCLINATION="162;401;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="707;35;" ID="Arrow_ID_1909157134" STARTARROW="Default" STARTINCLINATION="197;392;"/>
 </node>
 </node>
 </node>
@@ -481,8 +481,7 @@
       <font color="#cc0000">Check out subfolder &quot;1. Gaps&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-157;-11;" ID="Arrow_ID_448903205" STARTARROW="Default" STARTINCLINATION="-123;0;"/>
 <node CREATED="1616048207385" ID="ID_771397887" MODIFIED="1616124628952" TEXT="Breakaway Gaps">
 <richcontent TYPE="NOTE"><html>
@@ -612,8 +611,7 @@
       <font color="#cc0000">Very strong indicator but rare</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616135812491" ID="ID_1903339506" MODIFIED="1616135827937" TEXT="Sell: New Downward Trend"/>
 <node CREATED="1616135828533" ID="ID_701097653" MODIFIED="1616135838601" TEXT="Buy: New Upward Trend"/>
 </node>
@@ -649,8 +647,7 @@
       <font color="#cc0000">Check out subfolder &quot;2. Doji&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616300513093" ID="ID_1686460627" MODIFIED="1616301396287" TEXT="Dragonfly T">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -677,8 +674,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616301119351" ID="ID_618146886" MODIFIED="1616371653181" TEXT="Gravestone &#x2534;">
 <richcontent TYPE="NOTE"><html>
@@ -706,8 +702,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -738,8 +733,7 @@
       <font color="#cc0000">Check out subfolder &quot;3. Missing Shadow&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616301724354" ID="ID_752245593" MODIFIED="1616383546747" TEXT="Shaven Top">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -773,8 +767,7 @@
       <font color="#cc0000">Check out subfolder &quot;3. Missing Shadow&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616378305127" ID="ID_533088417" MODIFIED="1616378536283" TEXT="Hammer">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -805,8 +798,7 @@
       &#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616378311396" ID="ID_1368340403" MODIFIED="1616378624306" TEXT="Hanging Man">
 <richcontent TYPE="NOTE"><html>
@@ -832,8 +824,7 @@
       <font color="#cc0000">Check out subfolder &quot;3. Missing Shadow&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1616301732082" ID="ID_170680045" MODIFIED="1616383551876" TEXT="Shaven Bottom">
@@ -869,8 +860,7 @@
       <font color="#cc0000">Check out subfolder &quot;3. Missing Shadow&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_170680045" ENDARROW="Default" ENDINCLINATION="-114;-9;" ID="Arrow_ID_266264527" SOURCE="ID_336470447" STARTARROW="None" STARTINCLINATION="-91;-19;"/>
 </node>
 </node>
@@ -885,8 +875,7 @@
       <font color="#cc0000">Check out subfolder &quot;4. Harami &amp; Engulfing&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616381051137" ID="ID_1593574433" MODIFIED="1616381904582" TEXT="Harami (Pregnant">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -923,8 +912,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616380935446" ID="ID_683311823" MODIFIED="1616382183947" TEXT="Engulfing">
 <richcontent TYPE="NOTE"><html>
@@ -973,8 +961,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1616380867286" ID="ID_336470447" MODIFIED="1616383626503" TEXT="Shooting Star &amp; Windows">
@@ -987,8 +974,7 @@
       <font color="#cc0000">Check out subfolder &quot;5. Shooting Star &amp; Window&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_170680045" ENDARROW="Default" ENDINCLINATION="-114;-9;" ID="Arrow_ID_266264527" STARTARROW="None" STARTINCLINATION="-91;-19;"/>
 <node CREATED="1616382493069" ID="ID_439841694" MODIFIED="1616383633491" TEXT="Shooting Star">
 <richcontent TYPE="NOTE"><html>
@@ -1011,8 +997,7 @@
       <font color="#cc0000">Check out subfolder &quot;5. Shooting Star &amp; Window&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616382502613" ID="ID_104352221" MODIFIED="1616383721184" TEXT="Window">
 <richcontent TYPE="NOTE"><html>
@@ -1024,8 +1009,7 @@
       <font color="#cc0000">Check out subfolder &quot;5. Shooting Star &amp; Window&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616382786591" ID="ID_208530290" MODIFIED="1616383772836" TEXT="Rising Window">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1050,8 +1034,7 @@
       <font color="#cc0000">Check out subfolder &quot;5. Shooting Star &amp; Window&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616382794511" ID="ID_1549706870" MODIFIED="1616383816460" TEXT="Falling Window">
 <richcontent TYPE="NOTE"><html>
@@ -1077,8 +1060,7 @@
       <font color="#cc0000">Check out subfolder &quot;5. Shooting Star &amp; Window&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1086,7 +1068,7 @@
 </node>
 <node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1615950111610" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1616383830667" TEXT="Volume">
+<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1616393034594" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1137,7 +1119,7 @@
     </ol>
   </body>
 </html></richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="707;35;" ID="Arrow_ID_1909157134" SOURCE="ID_1416400058" STARTARROW="Default" STARTINCLINATION="162;401;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="707;35;" ID="Arrow_ID_1909157134" SOURCE="ID_1416400058" STARTARROW="Default" STARTINCLINATION="197;392;"/>
 <linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-157;-11;" ID="Arrow_ID_448903205" SOURCE="ID_728727637" STARTARROW="Default" STARTINCLINATION="-123;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
