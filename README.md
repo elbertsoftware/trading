@@ -1,2 +1,2 @@
-# trading
+# Trading
 Trading Course and Group Notes
