@@ -1217,7 +1217,7 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1616426816043" ID="ID_1297278830" MODIFIED="1616451834210" TEXT="Uptrend Supporting Line">
+<node CREATED="1616426816043" ID="ID_1297278830" MODIFIED="1616570286409" TEXT="Uptrend Supporting Line">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1232,6 +1232,9 @@
       </li>
       <li>
         As long as new Highs are being made, redraw the line to connect the lowest Low before the last High
+      </li>
+      <li>
+        Try to have 3 touches at least
       </li>
       <li>
         When prices stop making new Highs, stop drawing
@@ -1313,7 +1316,7 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1616450493246" ID="ID_1391258540" MODIFIED="1616453239242" TEXT="Downtrend Resistance Line">
+<node CREATED="1616450493246" ID="ID_1391258540" MODIFIED="1616570306617" TEXT="Downtrend Resistance Line">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1328,6 +1331,9 @@
       </li>
       <li>
         As long as new Lows are being made, redraw the line to connect the Highest High before the last Low
+      </li>
+      <li>
+        Try to have 3 tourches at least
       </li>
       <li>
         When prices stop making new Lows, stop drawing
