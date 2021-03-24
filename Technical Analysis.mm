@@ -1205,7 +1205,425 @@
 <linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-157;-11;" ID="Arrow_ID_448903205" SOURCE="ID_728727637" STARTARROW="Default" STARTINCLINATION="-123;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1616395686889" ID="ID_971930778" MODIFIED="1616395695738" TEXT="Trend Lines"/>
+<node CREATED="1616395686889" ID="ID_971930778" MODIFIED="1616426944366" TEXT="Trend Lines">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1616426816043" ID="ID_1297278830" MODIFIED="1616451834210" TEXT="Uptrend Supporting Line">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Drawing:
+    </p>
+    <ol>
+      <li>
+        Start at Lowest Low and connect to the next lowest Low that precedes a new High
+      </li>
+      <li>
+        As long as new Highs are being made, redraw the line to connect the lowest Low before the last High
+      </li>
+      <li>
+        When prices stop making new Highs, stop drawing
+      </li>
+      <li>
+        Extend the line at the same slope into the future
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#339900">Supporting Line Entry Rule:</font>
+    </p>
+    <ol>
+      <li>
+        Buy on the 2nd or 3rd touch or nearly touch of the Low wich on the supporting line
+      </li>
+      <li>
+        Incorporate other candlestick patterns and indicators
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Supporting Line Exit Rule:</font>
+    </p>
+    <ol>
+      <li>
+        Sell as soon as possible after the Low wick falls below the supporting line (trend broken)
+      </li>
+      <li>
+        Incorporate other candlestick patterns and indicators
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1616563076951" ID="ID_298508061" MODIFIED="1616565878599" TEXT="Supporting Line  Break">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        If Close is below the supporting trend line, may be ok to hang in there since it might just temporary profit taking
+      </li>
+      <li>
+        Adjust Stop-Loss order to lock in profits
+      </li>
+      <li>
+        Adjust total money commited to the trade:
+      </li>
+    </ol>
+    <ul>
+      <li>
+        Sell some but not all to reduce risk and lock in some profit
+      </li>
+      <li>
+        Sell all later, on a more definite sell signal
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1616450493246" ID="ID_1391258540" MODIFIED="1616453239242" TEXT="Downtrend Resistance Line">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Drawing:
+    </p>
+    <ol>
+      <li>
+        Start at Highest High and connect to the next Highest High that precedes a new Low
+      </li>
+      <li>
+        As long as new Lows are being made, redraw the line to connect the Highest High before the last Low
+      </li>
+      <li>
+        When prices stop making new Lows, stop drawing
+      </li>
+      <li>
+        Extend the line at the same slope into the future
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#339900">Resistance Line Entry Rule (Options only):</font>
+    </p>
+    <ol>
+      <li>
+        Buy (PUT BUY) on the 2nd or 3rd touch or nearly touch of the High wick on the resistance line
+      </li>
+      <li>
+        Incorporate other candlestick patterns and indicators
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Resistence Line Exit Rule (Options only):</font>
+    </p>
+    <ol>
+      <li>
+        Sell (CLOSE PUT BUY POSITION) as soon as possible after the High wick raises above the resistance line (trend broken)
+      </li>
+      <li>
+        Incorporate other candlestick patterns and indicators
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1616563295947" ID="ID_1526197067" MODIFIED="1616567306641" TEXT="Resistance Line Break">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Will it become a new uptrend? Buyers (Bulls) have broken through
+      </li>
+      <li>
+        Wait for 2nd or 3rd touch bo buy into the new uptrend (orange line)
+      </li>
+      <li>
+        Sell Short at #2 or #3 touch of the Resistance Line
+      </li>
+      <li>
+        Close Short-Position at Resistance Line Breakout (book profits)
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines/19. Stratey - Resistance Line Break&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1616562232053" ID="ID_1240716516" MODIFIED="1616563316797" TEXT="False Trend Line Breaks">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Did the breakout occur as part of the range or did the final Close break it as well?
+      </li>
+      <li>
+        Close breakage means less likely to be random or noice related
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Use Volume:
+    </p>
+    <ol>
+      <li>
+        High volume or volume spike often accompanies the end of a strong trend: Buying or selling frenzy
+      </li>
+      <li>
+        Steep volume decline shows overall interest is waning and may signal a breakout
+      </li>
+      <li>
+        Steady volume then less likely for a breakout but be wary as any cross of a trendline is always significant
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Use other indicators:
+    </p>
+    <ol>
+      <li>
+        Use to confirm or possibly disregard the breakout
+      </li>
+      <li>
+        Using multiple indicators is always sound nice but at times can give conflicting signals:
+      </li>
+    </ol>
+    <ul>
+      <li>
+        &#160;Give more weight to certain indicators
+      </li>
+      <li>
+        Look at your risk profile, like less risk then if breakout occurs, just get out
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node BACKGROUND_COLOR="#ff6666" CREATED="1616563727880" ID="ID_1178252240" MODIFIED="1616568071299" TEXT="1-2-3 Rule">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Supporting line broken
+      </li>
+      <li>
+        Test of higher High
+      </li>
+      <li>
+        Previous significant Low:
+      </li>
+    </ol>
+    <ul>
+      <li>
+        Broken: Sell defininately
+      </li>
+      <li>
+        Confirm: Trend is over
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines/21. Stratey - 1-2-3 Rule&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#ff6666" CREATED="1616567967599" ID="ID_47062153" MODIFIED="1616569435193" TEXT="Filter Strategy">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A Filter is simply a modification of any trading indicator: Set a<font color="#cc0000">&#160;pre-determined</font>&#160; rule on action to take when certain conditions are met
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Filter with Trend Line:
+    </p>
+    <ol>
+      <li>
+        Amount (%) of the break, before taking action
+      </li>
+      <li>
+        Duration (time) of the break, before taking action
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Examples:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Supporting Line Filter:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;+ Amount:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Price range has to break the supporting line by 10%, sell
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Close has to break the supporting line by 5%, sell
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;+ Duration:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;- Allow one full break of supporting line but not two
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616563356009" TEXT="Channel">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Drawing:
+    </p>
+    <ol>
+      <li>
+        Sinply draw Supporing and Resistance lines together on the same chart
+      </li>
+      <li>
+        Take note of which one is the <b><font color="#cc0000">predominant</font></b>&#160;trend
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Uptrend:
+    </p>
+    <ol>
+      <li>
+        Sell at Resistance line
+      </li>
+      <li>
+        Buy at Supporting line
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Options only:
+    </p>
+    <ol>
+      <li>
+        Buy (PUT BUY) at Resistance line
+      </li>
+      <li>
+        Sell (CLOSE PUT BUY POSITION) at Supporting line
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1615849824664" ID="ID_1207721204" MODIFIED="1615950111610" TEXT="Breakouts &amp; Retracements">
 <richcontent TYPE="NOTE"><html>
   <head>
