@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ff9999" CREATED="1615842217381" ID="ID_684720905" MODIFIED="1616812033584" TEXT="Technical Analysis">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1615842217381" ID="ID_684720905" MODIFIED="1616819447815" TEXT="Technical Analysis">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -36,7 +36,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615934672539" FOLDED="true" ID="ID_1241195952" MODIFIED="1616814761613" POSITION="right" TEXT="OHLC">
+<node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1616840794582" POSITION="right" TEXT="OHLC">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615946114715" ID="ID_104849619" MODIFIED="1615950111612" TEXT="Parts">
@@ -329,7 +329,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1616393034594" TEXT="Example">
+<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1616840878184" TEXT="Example">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -397,7 +397,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1616047231508" FOLDED="true" ID="ID_1619754521" MODIFIED="1616814766685" POSITION="right" TEXT="Gaps">
+<node CREATED="1616047231508" ID="ID_1619754521" MODIFIED="1616840797547" POSITION="right" TEXT="Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -617,7 +617,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" FOLDED="true" ID="ID_705980829" MODIFIED="1616814770421" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1616840800885" POSITION="right" TEXT="Candlesticks">
 <node CREATED="1616298735430" ID="ID_1361277791" MODIFIED="1616303718483" TEXT="Doji">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -876,7 +876,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1616381051137" ID="ID_1593574433" MODIFIED="1616381904582" TEXT="Harami (Pregnant">
+<node CREATED="1616381051137" ID="ID_1593574433" MODIFIED="1616826020631" TEXT="Harami (Pregnant)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1147,7 +1147,7 @@
 </node>
 <node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1615950111610" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1616393034594" TEXT="Volume">
+<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1616840878184" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1235,8 +1235,7 @@
       <font color="#cc0000">Check out subfolder &quot;7. Trend Lines&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616426816043" ID="ID_1297278830" MODIFIED="1616570286409" TEXT="Uptrend Supporting Line">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1587,7 +1586,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616571002927" TEXT="Channel">
+<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616840891727" TEXT="Channel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1640,6 +1639,7 @@
     </p>
   </body>
 </html></richcontent>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="69;0;" ID="Arrow_ID_1800480624" SOURCE="ID_779642546" STARTARROW="None" STARTINCLINATION="69;0;"/>
 </node>
 </node>
 <node CREATED="1616814732618" ID="ID_1609801206" MODIFIED="1616815149842" TEXT="Patterns">
@@ -1652,9 +1652,8 @@
       <font color="#cc0000">Check out subfolder &quot;8. &quot;Patterns&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1616814880611" ID="ID_268401058" MODIFIED="1616818630343" TEXT="Triangle">
+</html></richcontent>
+<node CREATED="1616814880611" ID="ID_268401058" MODIFIED="1616819487839" STYLE="bubble" TEXT="Triangle">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1701,9 +1700,71 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1616814907871" ID="ID_67509844" MODIFIED="1616814963828" TEXT="Flag"/>
-<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616814956937" TEXT="Rectangle"/>
-<node CREATED="1616814923791" ID="ID_506251433" MODIFIED="1616814949139" TEXT="Dead Cat Bounce"/>
+<node CREATED="1616814907871" ID="ID_67509844" MODIFIED="1616835489610" TEXT="Flag">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Typical it is caused by an event or bad news
+      </li>
+      <li>
+        Volume makes up the flag pole as the volume spike up
+      </li>
+      <li>
+        A Flag (rectangle) or Pennant (Triangle) is established the temporary trend (sharp reversal) against the original trend
+      </li>
+      <li>
+        Eventually the security returns to its original trend after the event/bad news settled down&#160;
+      </li>
+      <li>
+        Buy in at the pole and sell as soon as the flag reach near the original trend line
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616840906710" TEXT="Rectangle">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Just parallel Support and Resistance lines, aka Channels
+    </p>
+  </body>
+</html>
+</richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="69;0;" ID="Arrow_ID_1800480624" STARTARROW="None" STARTINCLINATION="69;0;"/>
+</node>
+<node CREATED="1616814923791" ID="ID_506251433" MODIFIED="1616842218936" TEXT="Dead Cat Bounce">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Start with big Breakaway Gap (25% to 70% gap in price)
+      </li>
+      <li>
+        Then another Breakaway Gap in other direction (rare)
+      </li>
+      <li>
+        Buy in at the second gap (on the Bounce). It is short term trade, and get ready to...
+      </li>
+      <li>
+        ... sell out before it reaches the price at the first Breakaway Gap where it will return to its original trend
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1616814973762" ID="ID_542127982" MODIFIED="1616814983779" TEXT="Cup with Handle"/>
 <node CREATED="1616814984696" ID="ID_292278357" MODIFIED="1616814989850" TEXT="Reversal"/>
 <node CREATED="1616815021578" ID="ID_1528668136" MODIFIED="1616815027477" TEXT="Double Bottom"/>
@@ -1819,7 +1880,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#009966" CREATED="1615850350986" FOLDED="true" ID="ID_1625678265" MODIFIED="1616814786086" POSITION="left" TEXT="Fundamental Analysis">
+<node BACKGROUND_COLOR="#009966" CREATED="1615850350986" ID="ID_1625678265" MODIFIED="1616840815739" POSITION="left" TEXT="Fundamental Analysis">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615850535751" ID="ID_957719759" MODIFIED="1615950111608" TEXT="Earning Report">
 <font NAME="SansSerif" SIZE="12"/>
@@ -1892,7 +1953,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615849325633" FOLDED="true" ID="ID_1613524815" MODIFIED="1616814791525" POSITION="left" TEXT="Time Frame">
+<node CREATED="1615849325633" ID="ID_1613524815" MODIFIED="1616840817768" POSITION="left" TEXT="Time Frame">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1942,7 +2003,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615869981736" FOLDED="true" ID="ID_1083419706" MODIFIED="1616814793453" POSITION="left" TEXT="Market Sentiment">
+<node CREATED="1615869981736" ID="ID_1083419706" MODIFIED="1616840819539" POSITION="left" TEXT="Market Sentiment">
 <linktarget COLOR="#ff0033" DESTINATION="ID_1083419706" ENDARROW="Default" ENDINCLINATION="-43;-251;" ID="Arrow_ID_857843581" SOURCE="ID_1321762182" STARTARROW="Default" STARTINCLINATION="-205;-26;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615870003025" ID="ID_1724346662" MODIFIED="1615950111613" TEXT="Bollinger Band">
