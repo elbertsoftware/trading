@@ -1586,7 +1586,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616840891727" TEXT="Channel">
+<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616847799876" TEXT="Channel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1727,7 +1727,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616840906710" TEXT="Rectangle">
+<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616847799876" TEXT="Rectangle">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1765,7 +1765,37 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1616814973762" ID="ID_542127982" MODIFIED="1616814983779" TEXT="Cup with Handle"/>
+<node CREATED="1616814973762" ID="ID_542127982" MODIFIED="1616848190649" TEXT="Cup with Handle">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Uptrend with <i>medium volume</i>
+      </li>
+      <li>
+        A cup with <i>lower volume</i>
+      </li>
+      <li>
+        Cup should not be overly deep below the SMA (Simple Moving Average)
+      </li>
+      <li>
+        Horizontal handle with <b><i>higher volume</i></b>
+      </li>
+      <li>
+        The movement should be above SMA
+      </li>
+      <li>
+        Longer &quot;U&quot; shaped cup is more predictable than a &quot;V&quot; shaped cup
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+<linktarget COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" SOURCE="ID_1574234014" STARTARROW="Default" STARTINCLINATION="-8;-18;"/>
+</node>
 <node CREATED="1616814984696" ID="ID_292278357" MODIFIED="1616814989850" TEXT="Reversal"/>
 <node CREATED="1616815021578" ID="ID_1528668136" MODIFIED="1616815027477" TEXT="Double Bottom"/>
 <node CREATED="1616815037328" ID="ID_707541405" MODIFIED="1616815044679" TEXT="Double Top"/>
@@ -1809,7 +1839,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615842259661" FOLDED="true" ID="ID_1574234014" MODIFIED="1616814778827" POSITION="right" TEXT="MA (Moving Average)">
+<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1616847784485" POSITION="right" TEXT="MA (Moving Average)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1820,6 +1850,7 @@
     </p>
   </body>
 </html></richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" STARTARROW="Default" STARTINCLINATION="-8;-18;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615842275720" ID="ID_1733555371" MODIFIED="1615950111609" TEXT="Crossover">
 <richcontent TYPE="NOTE"><html>
