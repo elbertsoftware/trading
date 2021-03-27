@@ -1654,8 +1654,53 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1616814867661" ID="ID_688379962" MODIFIED="1616814875240" TEXT="Continuation"/>
-<node CREATED="1616814880611" ID="ID_268401058" MODIFIED="1616814969260" TEXT="Triangle"/>
+<node CREATED="1616814880611" ID="ID_268401058" MODIFIED="1616818630343" TEXT="Triangle">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ascending Triangle:
+    </p>
+    <ol>
+      <li>
+        Draw a horizontal Resistance line above the top Highs: Higher Highs have not made
+      </li>
+      <li>
+        Buy at 3rd touch of Support line for strong confirmation (2nd touch must be required to confirm the formation)
+      </li>
+      <li>
+        Sell some when it is about to break the Resistance line
+      </li>
+      <li>
+        Likely it will break pass the Resistance line, so carry some to the next Uptrend
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Descending Triangle - <b><font color="#cc0000">Options/Sell Short</font></b>:
+    </p>
+    <ol>
+      <li>
+        Draw a horizontal Support line below the bottom Lows: Lower Lows have not made
+      </li>
+      <li>
+        Buy (PUT BUY) at 3rd touch of Resistance line for strong confirmation (2nd touch must be required to confirm the formation)
+      </li>
+      <li>
+        Sell (CLOSE PUT BUY POSITION) some when it is about to break the Support line
+      </li>
+      <li>
+        Likely it will break pass the Support line, so carry some to the next Downtrend
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1616814907871" ID="ID_67509844" MODIFIED="1616814963828" TEXT="Flag"/>
 <node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616814956937" TEXT="Rectangle"/>
 <node CREATED="1616814923791" ID="ID_506251433" MODIFIED="1616814949139" TEXT="Dead Cat Bounce"/>
