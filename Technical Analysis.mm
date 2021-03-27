@@ -1586,7 +1586,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616847799876" TEXT="Channel">
+<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616851185679" TEXT="Channel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1639,7 +1639,7 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="69;0;" ID="Arrow_ID_1800480624" SOURCE="ID_779642546" STARTARROW="None" STARTINCLINATION="69;0;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" SOURCE="ID_779642546" STARTARROW="None" STARTINCLINATION="211;-37;"/>
 </node>
 </node>
 <node CREATED="1616814732618" ID="ID_1609801206" MODIFIED="1616815149842" TEXT="Patterns">
@@ -1653,6 +1653,7 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1616849312090" ID="ID_525602336" MODIFIED="1616849381221" TEXT="Continuation">
 <node CREATED="1616814880611" ID="ID_268401058" MODIFIED="1616819487839" STYLE="bubble" TEXT="Triangle">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1697,8 +1698,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616814907871" ID="ID_67509844" MODIFIED="1616835489610" TEXT="Flag">
 <richcontent TYPE="NOTE"><html>
@@ -1724,10 +1724,9 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616847799876" TEXT="Rectangle">
+<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616851185678" TEXT="Rectangle">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1737,9 +1736,8 @@
       Just parallel Support and Resistance lines, aka Channels
     </p>
   </body>
-</html>
-</richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="69;0;" ID="Arrow_ID_1800480624" STARTARROW="None" STARTINCLINATION="69;0;"/>
+</html></richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" STARTARROW="None" STARTINCLINATION="211;-37;"/>
 </node>
 <node CREATED="1616814923791" ID="ID_506251433" MODIFIED="1616842218936" TEXT="Dead Cat Bounce">
 <richcontent TYPE="NOTE"><html>
@@ -1762,8 +1760,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616814973762" ID="ID_542127982" MODIFIED="1616848190649" TEXT="Cup with Handle">
 <richcontent TYPE="NOTE"><html>
@@ -1792,14 +1789,125 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" SOURCE="ID_1574234014" STARTARROW="Default" STARTINCLINATION="-8;-18;"/>
 </node>
-<node CREATED="1616814984696" ID="ID_292278357" MODIFIED="1616814989850" TEXT="Reversal"/>
-<node CREATED="1616815021578" ID="ID_1528668136" MODIFIED="1616815027477" TEXT="Double Bottom"/>
-<node CREATED="1616815037328" ID="ID_707541405" MODIFIED="1616815044679" TEXT="Double Top"/>
-<node CREATED="1616815048322" ID="ID_1922530400" MODIFIED="1616815074974" TEXT="Head &amp; Shoulders"/>
+</node>
+<node CREATED="1616849383619" ID="ID_1327981578" MODIFIED="1616849389622" TEXT="Reversal">
+<node CREATED="1616815021578" ID="ID_1528668136" MODIFIED="1616851404522" TEXT="Double Bottom W">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Looks like a letter W
+      </li>
+      <li>
+        Retest of a Low
+      </li>
+      <li>
+        Predicts Breakout to the UP side under certain conditions:
+      </li>
+    </ol>
+    <ul>
+      <li>
+        Minimum 10 days between the Lows, could be 2-3 months
+      </li>
+      <li>
+        Variation between the Lows no more than 4%
+      </li>
+      <li>
+        Center UP move minimum 10% from the Lower of the two bottoms
+      </li>
+      <li>
+        Price must be move ABOVE the confirmation line
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1616815037328" ID="ID_707541405" MODIFIED="1616851376643" TEXT="Double Top M">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Looks like a letter M
+      </li>
+      <li>
+        Retest of a High
+      </li>
+      <li>
+        Predicts Breakout to the DOWN side under certain conditions:
+      </li>
+    </ol>
+    <ul>
+      <li>
+        Minimum 10 days between the Lows, could be 2-3 months
+      </li>
+      <li>
+        Variation between the Lows no more than 4%
+      </li>
+      <li>
+        Center DOWN move minimum 10% from the Higher of the two tops
+      </li>
+      <li>
+        Price must be move BELOW the confirmation line
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1616815048322" ID="ID_1922530400" MODIFIED="1616852186719" TEXT="Head &amp; Shoulders (Triple Top)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Looks like Head and Shoulders of a person, aka. Triple-Top
+      </li>
+      <li>
+        See Suppport line Breaks
+      </li>
+      <li>
+        See Reserved Down Trend
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1616852020362" ID="ID_861980552" MODIFIED="1616852197616" TEXT="Reversed Head &amp; Shoulders (Triple Bottom)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Looks like UPSIDE DOWN Head and Shoulders of a person, aka. Triple-Bottom
+      </li>
+      <li>
+        See Resistance line Breaks
+      </li>
+      <li>
+        See Reserved Up Trend
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node CREATED="1615849824664" ID="ID_1207721204" MODIFIED="1615950111610" TEXT="Breakouts &amp; Retracements">
 <richcontent TYPE="NOTE"><html>
