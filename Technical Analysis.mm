@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ff9999" CREATED="1615842217381" ID="ID_684720905" MODIFIED="1616819447815" TEXT="Technical Analysis">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1615842217381" ID="ID_684720905" MODIFIED="1616907455196" TEXT="Technical Analysis">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -36,7 +36,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1616840794582" POSITION="right" TEXT="OHLC">
+<node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1616999433569" POSITION="right" TEXT="OHLC">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615946114715" ID="ID_104849619" MODIFIED="1615950111612" TEXT="Parts">
@@ -329,7 +329,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1616840878184" TEXT="Example">
+<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1616999459283" TEXT="Example">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -340,7 +340,7 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="707;35;" ID="Arrow_ID_1909157134" STARTARROW="Default" STARTINCLINATION="197;392;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="578;0;" ID="Arrow_ID_1909157134" STARTARROW="Default" STARTINCLINATION="68;386;"/>
 </node>
 </node>
 </node>
@@ -397,7 +397,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1616047231508" ID="ID_1619754521" MODIFIED="1616840797547" POSITION="right" TEXT="Gaps">
+<node CREATED="1616047231508" ID="ID_1619754521" MODIFIED="1616999432215" POSITION="right" TEXT="Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -617,7 +617,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1616840800885" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1616999428902" POSITION="right" TEXT="Candlesticks">
 <node CREATED="1616298735430" ID="ID_1361277791" MODIFIED="1616303718483" TEXT="Doji">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1145,9 +1145,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1615950111610" POSITION="right" TEXT="Indicators">
+<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1616999425878" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1616840878184" TEXT="Volume">
+<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1616999459283" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1198,7 +1198,7 @@
     </ol>
   </body>
 </html></richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="707;35;" ID="Arrow_ID_1909157134" SOURCE="ID_1416400058" STARTARROW="Default" STARTINCLINATION="197;392;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="578;0;" ID="Arrow_ID_1909157134" SOURCE="ID_1416400058" STARTARROW="Default" STARTINCLINATION="68;386;"/>
 <linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-157;-11;" ID="Arrow_ID_448903205" SOURCE="ID_728727637" STARTARROW="Default" STARTINCLINATION="-123;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -1586,7 +1586,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616851185679" TEXT="Channel">
+<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616999466302" TEXT="Channel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1639,7 +1639,7 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" SOURCE="ID_779642546" STARTARROW="None" STARTINCLINATION="211;-37;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" SOURCE="ID_779642546" STARTARROW="None" STARTINCLINATION="102;-11;"/>
 </node>
 </node>
 <node CREATED="1616814732618" ID="ID_1609801206" MODIFIED="1616815149842" TEXT="Patterns">
@@ -1726,7 +1726,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616851185678" TEXT="Rectangle">
+<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616999466302" TEXT="Rectangle">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1737,7 +1737,7 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" STARTARROW="None" STARTINCLINATION="211;-37;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" STARTARROW="None" STARTINCLINATION="102;-11;"/>
 </node>
 <node CREATED="1616814923791" ID="ID_506251433" MODIFIED="1616842218936" TEXT="Dead Cat Bounce">
 <richcontent TYPE="NOTE"><html>
@@ -1826,8 +1826,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1616815037328" ID="ID_707541405" MODIFIED="1616851376643" TEXT="Double Top M">
@@ -1862,8 +1861,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616815048322" ID="ID_1922530400" MODIFIED="1616852186719" TEXT="Head &amp; Shoulders (Triple Top)">
 <richcontent TYPE="NOTE"><html>
@@ -1883,10 +1881,9 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1616852020362" ID="ID_861980552" MODIFIED="1616852197616" TEXT="Reversed Head &amp; Shoulders (Triple Bottom)">
+<node CREATED="1616852020362" ID="ID_861980552" MODIFIED="1616907455201" TEXT="Reversed Head &amp; Shoulders (Triple Bottom)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1947,34 +1944,258 @@
 </node>
 </node>
 </node>
-<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1616847784485" POSITION="right" TEXT="MA (Moving Average)">
+<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1617031194518" POSITION="right" TEXT="MA (Moving Average)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      1. Trend is beginning
+      Criteria to choose MA:
+    </p>
+    <ol>
+      <li>
+        Most sensitive to recent price moves: SMA, WMA, EMA, KAMA
+      </li>
+      <li>
+        Time frame:<br />Shorter time frame MA responds quicker to new conditions<br />Longer time frame reduces errors
+      </li>
+    </ol>
+    <p>
+      
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" STARTARROW="Default" STARTINCLINATION="-8;-18;"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1615842275720" ID="ID_1733555371" MODIFIED="1615950111609" TEXT="Crossover">
+<node CREATED="1616907774679" ID="ID_176322901" MODIFIED="1616997746648" TEXT="SMA (Simple MA)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Calculates the average EQUALLY of a selected range of prices
+      </li>
+      <li>
+        Usually closing prices
+      </li>
+      <li>
+        By the number of periods in that range
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1615842275720" ID="ID_1733555371" MODIFIED="1616909240871" TEXT="Crossover">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Using <font color="#0066ff"><b>Daily MA(50)</b></font>
+      </li>
+      <li>
+        <b><font color="#66cc00">Buy</font></b>: When price crosses <b><font color="#66cc00">ABOVE</font></b>&#160;the MA line
+      </li>
+      <li>
+        <b><font color="#cc0033">Sell</font></b>: When price crosses <b><font color="#cc0033">BELOW</font></b>&#160;the MA line
+      </li>
+      <li>
+        Not perfect because of: outliers; false signals of breakouts
+      </li>
+      <li>
+        Whipsaws effect causes increasing broker fees, especially in algorithmic trading:
+      </li>
+    </ol>
+    <ul>
+      <li>
+        Most common in a sideway market
+      </li>
+      <li>
+        Can get a lot of buy and sell signals with a frequent crossing period
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1615842298200" ID="ID_1316263612" MODIFIED="1616999473454" TEXT="Whipsaws">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      4. A trend is ending and may reverse
+      Use Filters to &quot;filter out&quot; valid Buy/Sell signals from false ones:
     </p>
+    <ol>
+      <li>
+        Time: Price has to remain above/below the Crossover point for X number of periods
+      </li>
+      <li>
+        Extend: Price has to surpass the MA value by X%
+      </li>
+      <li>
+        Volume: Crossover has to be accompanied by a significant rise in volume
+      </li>
+      <li>
+        Extreme Sentiment: Looking at wich (range) of a candle stick<br />Uptrend: the Low has to surpass the MA, not just the Close<br />Downtrend: the High has be under the MA, not just the Close<br />
+      </li>
+    </ol>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="118;-8;" ID="Arrow_ID_1423119080" SOURCE="ID_335297622" STARTARROW="Default" STARTINCLINATION="216;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1615842298200" ID="ID_1316263612" MODIFIED="1615950111609" TEXT="Whipsaws">
-<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1616996050693" ID="ID_1732738001" MODIFIED="1616996457179" TEXT="Decision Making">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Alternative to Crossover
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Call end to the trend when:
+    </p>
+    <ol>
+      <li>
+        Uptrend: MA today is less than yesterday
+      </li>
+      <li>
+        Downtrend: MA today is higher than yesterday
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Can call the end of a trend faster than the Crossover rule
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1616997471726" ID="ID_10127478" MODIFIED="1616998167811" TEXT="WMA (Weighted MA)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Calculates the average by putting some WEIGHTS MORE ON RECENT DATA in a selected range of prices
+      </li>
+      <li>
+        Usually closing prices
+      </li>
+      <li>
+        By the number of periods in that range
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1616997633210" ID="ID_661889823" MODIFIED="1616998193556" TEXT="EMA (Exponential MA)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Calculates the average by putting stronger WEIGHTS ON RECENT DATA (compared to WMA) in a selected range of prices
+      </li>
+      <li>
+        Usually closing prices
+      </li>
+      <li>
+        By the number of periods in that range
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1616997658554" ID="ID_335297622" MODIFIED="1616999473454" TEXT="AMA (Adaptive MA)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Push Pull: Short time frame to identify beginning of trend quickly and long as necessary to avoid constant buy/sell activity (whipsaws)
+      </li>
+      <li>
+        Sometimes want small number of days and sometimes high number of days...but you do not want to force it because not sure which is right?
+      </li>
+      <li>
+        Adaptive MA use complex and automated calculations to do this by detrending the series to make the current price most important
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="118;-8;" ID="Arrow_ID_1423119080" STARTARROW="Default" STARTINCLINATION="216;0;"/>
+<node CREATED="1616998712127" ID="ID_422356093" MODIFIED="1616998904625" TEXT="KAMA (Kaufman AMA)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        &quot;10&quot; is the number of periods for Efficiency Ration (ER)
+      </li>
+      <li>
+        &quot;2&quot; is the number of periods for the fastest EMA constant
+      </li>
+      <li>
+        &quot;30&quot; is the number of periods for the slowest EMA constant
+      </li>
+    </ol>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1617031196115" ID="ID_457383189" MODIFIED="1617031849990" TEXT="Multi MAs">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#009900">Buy</font></b>: when <b><font color="#0066ff">shorter</font></b>&#160;MA line crosses <b><font color="#0066ff">longer</font></b>&#160; MA on the downside (going to be <b><font color="#0066ff">Above</font></b>)
+    </p>
+    <p>
+      <b><font color="#cc0033">Sell</font></b>: when <b><font color="#0066ff">shorter</font></b>&#160;MA line crosses <b><font color="#0066ff">longer</font></b>&#160;MA on the downside (going to be <b><font color="#0066ff">Below</font></b>)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      More &quot;Daylight&quot; (space between the 2 MAs), more confidence the signal is correct
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1615950111608" POSITION="right" TEXT="Momentum">
