@@ -2197,6 +2197,125 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1617032845303" ID="ID_26114584" MODIFIED="1617046210091" TEXT="MACD">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      MACD = Moving Average Convergence Divergence
+    </p>
+    <p>
+      Real Advantage is MACD tells <b><font color="#ff9900">EARLIER</font></b>&#160;what is happening to the Trend than Crossover Rule from SMA vs. Price and from Multiple MAs
+    </p>
+    <p>
+      Settings: EPA (Exponential Moving Averages) of 26 and 12 days
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Convergence (Coming Together):
+    </p>
+    <ol>
+      <li>
+        Indicates the trend may be coming to an end
+      </li>
+      <li>
+        Can be an early warning signal
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Divergence (Going Apart or More &quot;Daylight&quot;):
+    </p>
+    <ol>
+      <li>
+        Current trend safe from Crossover (Reversal)
+      </li>
+      <li>
+        At least for a few more periods
+      </li>
+      <li>
+        However, abnormally wide divergences are not sustainable and can be a warning that prices have reached an extreme (Peak/Bottom)
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617047168998" ID="ID_1450506019" MODIFIED="1617047181605" TEXT="&quot;Magic&quot; MAs">
+<node CREATED="1617047190863" ID="ID_1823146542" MODIFIED="1617047246970" TEXT="20 days">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Number of trading days per month
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617047201557" ID="ID_831401472" MODIFIED="1617047290169" TEXT="5 days">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Number of trading days per week
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617047208780" ID="ID_176250888" MODIFIED="1617047366486" TEXT="50 days">
+<arrowlink COLOR="#ff0033" DESTINATION="ID_689776620" ENDARROW="Default" ENDINCLINATION="-45;0;" ID="Arrow_ID_1512802905" STARTARROW="Default" STARTINCLINATION="-45;0;"/>
+<node CREATED="1617047402543" ID="ID_883937433" MODIFIED="1617047861490" TEXT="Death Cross">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      When the MA(50) crossing <b><font color="#ff9900">BELOW</font></b>&#160;the MA(200): Wider Bear market
+    </p>
+    <ol>
+      <li>
+        No statistical advantage over any other crossing pattern. Actually, since longer time periods could be more of a lag
+      </li>
+      <li>
+        Traders recognize a Death Cross so may be a self-fulfilling prophesy
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617047580924" ID="ID_1957340388" MODIFIED="1617047850617" TEXT="Golden Cross">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      When the MA(50) crossing <b><font color="#ff9900">ABOVE</font></b>&#160;the MA(200): Wider Bull market
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1617047213173" ID="ID_1276332823" MODIFIED="1617047216266" TEXT="100 days"/>
+<node CREATED="1617047217030" ID="ID_689776620" MODIFIED="1617047366488" TEXT="200 days">
+<linktarget COLOR="#ff0033" DESTINATION="ID_689776620" ENDARROW="Default" ENDINCLINATION="-45;0;" ID="Arrow_ID_1512802905" SOURCE="ID_176250888" STARTARROW="Default" STARTINCLINATION="-45;0;"/>
+</node>
+</node>
 </node>
 <node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1615950111608" POSITION="right" TEXT="Momentum">
 <richcontent TYPE="NOTE"><html>
