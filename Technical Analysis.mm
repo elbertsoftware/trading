@@ -36,7 +36,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1616999433569" POSITION="right" TEXT="OHLC">
+<node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1617154151217" POSITION="right" TEXT="OHLC">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615946114715" ID="ID_104849619" MODIFIED="1615950111612" TEXT="Parts">
@@ -329,7 +329,7 @@
     </ul>
   </body>
 </html></richcontent>
-<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1616999459283" TEXT="Example">
+<node BACKGROUND_COLOR="#cccc00" CREATED="1615950381392" ID="ID_1416400058" MODIFIED="1617154306734" TEXT="Example">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -340,7 +340,7 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="578;0;" ID="Arrow_ID_1909157134" STARTARROW="Default" STARTINCLINATION="68;386;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="617;0;" ID="Arrow_ID_1909157134" STARTARROW="Default" STARTINCLINATION="107;439;"/>
 </node>
 </node>
 </node>
@@ -397,7 +397,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1616047231508" ID="ID_1619754521" MODIFIED="1616999432215" POSITION="right" TEXT="Gaps">
+<node CREATED="1616047231508" ID="ID_1619754521" MODIFIED="1617154157095" POSITION="right" TEXT="Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -454,7 +454,7 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#66cc00" CREATED="1616047271969" FOLDED="true" ID="ID_728727637" MODIFIED="1616814753501" TEXT="Uncommon Gaps">
+<node BACKGROUND_COLOR="#66cc00" CREATED="1616047271969" ID="ID_728727637" MODIFIED="1617154310209" TEXT="Uncommon Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -482,7 +482,7 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-157;-11;" ID="Arrow_ID_448903205" STARTARROW="Default" STARTINCLINATION="-123;0;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-140;-10;" ID="Arrow_ID_448903205" STARTARROW="Default" STARTINCLINATION="-106;0;"/>
 <node CREATED="1616048207385" ID="ID_771397887" MODIFIED="1616124628952" TEXT="Breakaway Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -617,7 +617,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1616999428902" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1617154158246" POSITION="right" TEXT="Candlesticks">
 <node CREATED="1616298735430" ID="ID_1361277791" MODIFIED="1616303718483" TEXT="Doji">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1145,9 +1145,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1616999425878" POSITION="right" TEXT="Indicators">
+<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1617154172344" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1616999459283" TEXT="Volume">
+<node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1617154310210" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1198,8 +1198,8 @@
     </ol>
   </body>
 </html></richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="578;0;" ID="Arrow_ID_1909157134" SOURCE="ID_1416400058" STARTARROW="Default" STARTINCLINATION="68;386;"/>
-<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-157;-11;" ID="Arrow_ID_448903205" SOURCE="ID_728727637" STARTARROW="Default" STARTINCLINATION="-123;0;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="None" ENDINCLINATION="617;0;" ID="Arrow_ID_1909157134" SOURCE="ID_1416400058" STARTARROW="Default" STARTINCLINATION="107;439;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_986236043" ENDARROW="Default" ENDINCLINATION="-140;-10;" ID="Arrow_ID_448903205" SOURCE="ID_728727637" STARTARROW="Default" STARTINCLINATION="-106;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1616395686889" ID="ID_971930778" MODIFIED="1616814743906" TEXT="Trend Lines">
@@ -1586,7 +1586,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1616999466302" TEXT="Channel">
+<node BACKGROUND_COLOR="#dede00" CREATED="1616452491638" ID="ID_1076805451" MODIFIED="1617154317845" TEXT="Channel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1639,10 +1639,10 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" SOURCE="ID_779642546" STARTARROW="None" STARTINCLINATION="102;-11;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" SOURCE="ID_779642546" STARTARROW="None" STARTINCLINATION="119;-18;"/>
 </node>
 </node>
-<node CREATED="1616814732618" ID="ID_1609801206" MODIFIED="1616815149842" TEXT="Patterns">
+<node CREATED="1616814732618" ID="ID_1609801206" MODIFIED="1617154273893" TEXT="Patterns">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1652,7 +1652,8 @@
       <font color="#cc0000">Check out subfolder &quot;8. &quot;Patterns&quot; for examples</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1616849312090" ID="ID_525602336" MODIFIED="1616849381221" TEXT="Continuation">
 <node CREATED="1616814880611" ID="ID_268401058" MODIFIED="1616819487839" STYLE="bubble" TEXT="Triangle">
 <richcontent TYPE="NOTE"><html>
@@ -1726,7 +1727,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1616999466302" TEXT="Rectangle">
+<node CREATED="1616814915115" ID="ID_779642546" MODIFIED="1617154317845" TEXT="Rectangle">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1737,7 +1738,7 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" STARTARROW="None" STARTINCLINATION="102;-11;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1076805451" ENDARROW="Default" ENDINCLINATION="134;0;" ID="Arrow_ID_1800480624" STARTARROW="None" STARTINCLINATION="119;-18;"/>
 </node>
 <node CREATED="1616814923791" ID="ID_506251433" MODIFIED="1616842218936" TEXT="Dead Cat Bounce">
 <richcontent TYPE="NOTE"><html>
@@ -1762,7 +1763,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1616814973762" ID="ID_542127982" MODIFIED="1616848190649" TEXT="Cup with Handle">
+<node CREATED="1616814973762" ID="ID_542127982" MODIFIED="1617154329838" TEXT="Cup with Handle">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1790,7 +1791,7 @@
     </ol>
   </body>
 </html></richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" SOURCE="ID_1574234014" STARTARROW="Default" STARTINCLINATION="-8;-18;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" SOURCE="ID_1574234014" STARTARROW="Default" STARTINCLINATION="-5;-20;"/>
 </node>
 </node>
 <node CREATED="1616849383619" ID="ID_1327981578" MODIFIED="1616849389622" TEXT="Reversal">
@@ -1906,45 +1907,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1615849824664" ID="ID_1207721204" MODIFIED="1615950111610" TEXT="Breakouts &amp; Retracements">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Breakouts: New Trend
-    </p>
-    <p>
-      Retracement aka Pullback: Temporary
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      4. A trend is ending and may reverse
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1615849850211" ID="ID_1131973359" MODIFIED="1615950111609" TEXT="Sideway Trends">
-<font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1615849889858" ID="ID_1342152139" MODIFIED="1615950111609" TEXT="Upward Trends">
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-<node BACKGROUND_COLOR="#ffffff" CREATED="1615849896721" ID="ID_227500339" MODIFIED="1615950111609" TEXT="Downward Trends">
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-<node BACKGROUND_COLOR="#ff6666" CREATED="1615868377780" ID="ID_1927630786" MODIFIED="1615950111609" TEXT="Stochastic Oscillator">
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-<node CREATED="1615947473405" ID="ID_637098941" MODIFIED="1615950111609" TEXT="Volume">
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-</node>
-<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1617031194518" POSITION="right" TEXT="MA (Moving Average)">
+<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1617154329838" POSITION="right" TEXT="MA (Moving Average)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1967,7 +1931,7 @@
   </body>
 </html>
 </richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" STARTARROW="Default" STARTINCLINATION="-8;-18;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" STARTARROW="Default" STARTINCLINATION="-5;-20;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1616907774679" ID="ID_176322901" MODIFIED="1616997746648" TEXT="SMA (Simple MA)">
 <richcontent TYPE="NOTE"><html>
@@ -2025,7 +1989,7 @@
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1615842298200" ID="ID_1316263612" MODIFIED="1616999473454" TEXT="Whipsaws">
+<node CREATED="1615842298200" ID="ID_1316263612" MODIFIED="1617154323389" TEXT="Whipsaws">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2051,7 +2015,7 @@
   </body>
 </html>
 </richcontent>
-<linktarget COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="118;-8;" ID="Arrow_ID_1423119080" SOURCE="ID_335297622" STARTARROW="Default" STARTINCLINATION="216;0;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="121;-2;" ID="Arrow_ID_1423119080" SOURCE="ID_335297622" STARTARROW="Default" STARTINCLINATION="216;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1616996050693" ID="ID_1732738001" MODIFIED="1616996457179" TEXT="Decision Making">
@@ -2133,7 +2097,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1616997658554" ID="ID_335297622" MODIFIED="1616999473454" TEXT="AMA (Adaptive MA)">
+<node CREATED="1616997658554" ID="ID_335297622" MODIFIED="1617154323389" TEXT="AMA (Adaptive MA)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2153,7 +2117,7 @@
   </body>
 </html>
 </richcontent>
-<arrowlink COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="118;-8;" ID="Arrow_ID_1423119080" STARTARROW="Default" STARTINCLINATION="216;0;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="121;-2;" ID="Arrow_ID_1423119080" STARTARROW="Default" STARTINCLINATION="216;0;"/>
 <node CREATED="1616998712127" ID="ID_422356093" MODIFIED="1616998904625" TEXT="KAMA (Kaufman AMA)">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2317,21 +2281,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1615950111608" POSITION="right" TEXT="Momentum">
+<node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1617153829848" POSITION="right" TEXT="Momentum">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      2. A trend is strong or weak
-    </p>
-    <p>
-      4. A trend is ending and may reverse
+      Momentum is the speed of a price change
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1617154609290" ID="ID_5820406" MODIFIED="1617154622212" TEXT="ROC (Rate Of Change)"/>
 </node>
 <node CREATED="1615872292824" ID="ID_1912008869" MODIFIED="1615950111608" POSITION="right" TEXT="RSI (Relative Strength Index)">
 <richcontent TYPE="NOTE"><html>
