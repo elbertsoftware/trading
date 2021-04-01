@@ -617,7 +617,53 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1617154158246" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1617242664522" POSITION="right" TEXT="Candlesticks">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Use traditional candle stick on low volatility and/or large timeframes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Heikin Ashi is similar to standard candle stick
+    </p>
+    <p>
+      It is helpful when trading VOLATILE instruments on SMALL timeframe
+    </p>
+    <p>
+      Since it helps effectively filter out market noise, false breakouts, and entry points
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Heikin Ashi formula:
+    </p>
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        Open = (Previous Open + Previous Close) / 2: In regular candles, the open level is at the close of the previous candle (if there is no gap in the market). In Heikin Ashi, a new candlestick opens at the middle level, between the opening and closing of the previous one.
+      </li>
+      <li>
+        Close = (Close + Open + High + Low) / 4: Average value between low, high, open and close of the current candle.
+      </li>
+      <li>
+        High = The highest value of a recent high, open, or close.
+      </li>
+      <li>
+        Low = The lowest value of the recent low, open or close.
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1616298735430" ID="ID_1361277791" MODIFIED="1616303718483" TEXT="Doji">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2295,21 +2341,12 @@
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1617154609290" ID="ID_5820406" MODIFIED="1617154622212" TEXT="ROC (Rate Of Change)"/>
-</node>
-<node CREATED="1615872292824" ID="ID_1912008869" MODIFIED="1615950111608" POSITION="right" TEXT="RSI (Relative Strength Index)">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      3. A trend is retracing but will likely resume
-    </p>
-  </body>
-</html></richcontent>
+<node CREATED="1615872292824" ID="ID_1912008869" MODIFIED="1617155643457" TEXT="RSI (Relative Strength Index)">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1615950111608" POSITION="right" TEXT="ATR (Average True Range)">
+<node CREATED="1617155609562" ID="ID_874655572" MODIFIED="1617155626216" TEXT="Stochastic Oscillator"/>
+</node>
+<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617155603665" POSITION="right" TEXT="ATR (Average True Range)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2319,7 +2356,8 @@
       5. A security price is in a trading range
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node BACKGROUND_COLOR="#009966" CREATED="1615850350986" ID="ID_1625678265" MODIFIED="1616840815739" POSITION="left" TEXT="Fundamental Analysis">
@@ -2337,7 +2375,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615873942066" FOLDED="true" ID="ID_303863435" MODIFIED="1616814788165" POSITION="left" TEXT="Signals">
+<node CREATED="1615873942066" ID="ID_303863435" MODIFIED="1617157436303" POSITION="left" TEXT="Signals">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615873957260" ID="ID_1767122831" MODIFIED="1615950111607" TEXT="Crossovers">
 <richcontent TYPE="NOTE"><html>
@@ -2408,7 +2446,31 @@
 </html></richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" SOURCE="ID_1241195952" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1615849470840" ID="ID_803867737" MODIFIED="1615950111614" TEXT="Day Traders">
+<node BACKGROUND_COLOR="#cc00cc" CREATED="1617157507552" ID="ID_1326345172" MODIFIED="1617157807409" TEXT="Scalpers (Arbitrage)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Trading by minutes
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#ff00ff" CREATED="1615849470840" ID="ID_803867737" MODIFIED="1617157793799" TEXT="Day Traders">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Trading by minutes to hours
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615849481108" ID="ID_1469340120" MODIFIED="1615950111614" TEXT="3 or 5 minutes">
 <font NAME="SansSerif" SIZE="12"/>
@@ -2417,7 +2479,33 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615849548108" ID="ID_289117767" MODIFIED="1615950111614" TEXT="Active Traders">
+<node BACKGROUND_COLOR="#ff66ff" CREATED="1617157599879" ID="ID_1392188192" MODIFIED="1617157837845" TEXT="Swing Traders">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Trading by hours to days
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#6666ff" CREATED="1615849548108" ID="ID_289117767" MODIFIED="1617158020344" TEXT="Position (Active) Traders">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Trading by days to weeks
+    </p>
+  </body>
+</html>
+</richcontent>
+<arrowlink DESTINATION="ID_289117767" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1079727898" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_289117767" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1079727898" SOURCE="ID_289117767" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615849556231" ID="ID_1028330184" MODIFIED="1615950111613" TEXT="Days">
 <font NAME="SansSerif" SIZE="12"/>
@@ -2429,7 +2517,31 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615849569100" ID="ID_868973307" MODIFIED="1615950111613" TEXT="Buy &amp; Hold">
+<node BACKGROUND_COLOR="#9999ff" CREATED="1617157696995" ID="ID_587558104" MODIFIED="1617157900124" TEXT="Investment Timing Traders">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Trading by weeks to months
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#66ccff" CREATED="1615849569100" ID="ID_868973307" MODIFIED="1617158064652" TEXT="Buy &amp; Hold Investors">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Entry without much exits
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615849575702" ID="ID_215040844" MODIFIED="1615950111613" TEXT="Watching Short List">
 <font NAME="SansSerif" SIZE="12"/>
