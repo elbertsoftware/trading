@@ -2596,5 +2596,54 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
+<node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1617242871754" POSITION="left" TEXT="Trading View Platform">
+<node CREATED="1617242882590" ID="ID_1106811271" MODIFIED="1617243125142" TEXT="Candlesticks">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Type a number in main view, to specify timeframe:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      s: second
+    </p>
+    <p>
+      m: minute
+    </p>
+    <p>
+      h: hour
+    </p>
+    <p>
+      d: day
+    </p>
+    <p>
+      M: month
+    </p>
+    <p>
+      R: ticks/points
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1617242915134" ID="ID_883874020" MODIFIED="1617243133863" TEXT="Range View">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      50R to show by range of 50 ticks or points
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 </node>
 </map>
