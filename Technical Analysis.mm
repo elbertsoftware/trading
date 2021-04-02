@@ -2597,7 +2597,21 @@
 </node>
 </node>
 <node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1617242871754" POSITION="left" TEXT="Trading View Platform">
-<node CREATED="1617242882590" ID="ID_1106811271" MODIFIED="1617243125142" TEXT="Candlesticks">
+<node CREATED="1617343105952" ID="ID_253611846" MODIFIED="1617343112838" TEXT="Top Toolbar">
+<node CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617343235099" TEXT="Symbol">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Where to change security symbol
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617243251350" ID="ID_1512798208" MODIFIED="1617273862812" TEXT="Timeframe">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2616,10 +2630,10 @@
       m: minute
     </p>
     <p>
-      h: hour
+      H: hour
     </p>
     <p>
-      d: day
+      D: day
     </p>
     <p>
       M: month
@@ -2628,8 +2642,54 @@
       R: ticks/points
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node CREATED="1617242882590" ID="ID_1106811271" MODIFIED="1617273852252" TEXT="Candles">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Use traditional candle stick on low volatility and/or large timeframes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Heikin Ashi is similar to standard candle stick
+    </p>
+    <p>
+      It is helpful when trading VOLATILE instruments on SMALL timeframe
+    </p>
+    <p>
+      Since it helps effectively filter out market noise, false breakouts, and entry points
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Heikin Ashi formula:
+    </p>
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        Open = (Previous Open + Previous Close) / 2: In regular candles, the open level is at the close of the previous candle (if there is no gap in the market). In Heikin Ashi, a new candlestick opens at the middle level, between the opening and closing of the previous one.
+      </li>
+      <li>
+        Close = (Close + Open + High + Low) / 4: Average value between low, high, open and close of the current candle.
+      </li>
+      <li>
+        High = The highest value of a recent high, open, or close.
+      </li>
+      <li>
+        Low = The lowest value of the recent low, open or close.
+      </li>
+    </ol>
+  </body>
+</html></richcontent>
 <node CREATED="1617242915134" ID="ID_883874020" MODIFIED="1617243133863" TEXT="Range View">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2640,9 +2700,198 @@
       50R to show by range of 50 ticks or points
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1617243377567" ID="ID_1201326391" MODIFIED="1617243413236" TEXT="Compare / Add Symbol"/>
+<node CREATED="1617273820502" ID="ID_770843397" MODIFIED="1617274567059" TEXT="Indicators &amp; Strategies">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Indicators:
+    </p>
+    <ol>
+      <li>
+        Click on the ... to merge indicator pane to another one or main chart
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Strategies:
+    </p>
+    <ol>
+      <li>
+        Have green up and red down arrow symbol next to their names
+      </li>
+      <li>
+        Used to backtest a strategy
+      </li>
+    </ol>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617275157989" ID="ID_1233812831" MODIFIED="1617275214338" TEXT="Financials">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Fundamental materials:
+    </p>
+    <ol>
+      <li>
+        Ratio
+      </li>
+      <li>
+        Reports
+      </li>
+      <li>
+        etc.
+      </li>
+    </ol>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617275288562" ID="ID_1843571231" MODIFIED="1617275416098" TEXT="Templates">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Save current settings:
+    </p>
+    <ol>
+      <li>
+        Indicators
+      </li>
+      <li>
+        Timeframe
+      </li>
+      <li>
+        Symbols
+      </li>
+      <li>
+        etc.
+      </li>
+    </ol>
+    <p>
+      to a template which can be reloaded later
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617275445377" ID="ID_1457117817" MODIFIED="1617275749441" TEXT="Alerts">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Webhook option can be used to integrate with algorithmic trading system
+      </li>
+      <li>
+        SMS, Email
+      </li>
+      <li>
+        etc.
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617329768838" ID="ID_1291444996" MODIFIED="1617333361182" TEXT="Bar Replay">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Use to replay historical data
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      A workaround to load additional past data passed the TradingView default limit:
+    </p>
+    <ol>
+      <li>
+        Alt-G to bring up Go-to
+      </li>
+      <li>
+        Navigate to earlist bar
+      </li>
+      <li>
+        Click on it to force TradingView load more data
+      </li>
+    </ol>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617333364739" ID="ID_286530930" MODIFIED="1617333551678" TEXT="Undo &amp; Redo">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Move back and forth between visited locations
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617343039464" ID="ID_309035632" MODIFIED="1617344223821" TEXT="Chart Options">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Change chart layout
+    </p>
+    <p>
+      Use its sync capability to analyzing multiple charts with the same symbol, different timeframes (intervals), timeline, crosshair, and DRAWING TOOLS
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
+<node CREATED="1617344459856" ID="ID_97848479" MODIFIED="1617344469256" TEXT="Chart Settings"/>
+</node>
+<node CREATED="1617346028680" ID="ID_1637842746" MODIFIED="1617346037629" TEXT="Right Toolbar"/>
+<node CREATED="1617344328624" ID="ID_1106892845" MODIFIED="1617344382081" TEXT="Mouse">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ctrl + Drag with Crosshair: Select
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617344385648" ID="ID_1926042564" MODIFIED="1617344406769" TEXT="Shortcuts">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Alt + G: Goto specific time
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
