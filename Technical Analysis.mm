@@ -2459,7 +2459,7 @@
 </html>
 </richcontent>
 </node>
-<node BACKGROUND_COLOR="#ff00ff" CREATED="1615849470840" ID="ID_803867737" MODIFIED="1617157793799" TEXT="Day Traders">
+<node BACKGROUND_COLOR="#ff00ff" CREATED="1615849470840" FOLDED="true" ID="ID_803867737" MODIFIED="1617418522349" TEXT="Day Traders">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2492,7 +2492,7 @@
 </html>
 </richcontent>
 </node>
-<node BACKGROUND_COLOR="#6666ff" CREATED="1615849548108" ID="ID_289117767" MODIFIED="1617158020344" TEXT="Position (Active) Traders">
+<node BACKGROUND_COLOR="#6666ff" CREATED="1615849548108" FOLDED="true" ID="ID_289117767" MODIFIED="1617418524881" TEXT="Position (Active) Traders">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2530,7 +2530,7 @@
 </html>
 </richcontent>
 </node>
-<node BACKGROUND_COLOR="#66ccff" CREATED="1615849569100" ID="ID_868973307" MODIFIED="1617158064652" TEXT="Buy &amp; Hold Investors">
+<node BACKGROUND_COLOR="#66ccff" CREATED="1615849569100" FOLDED="true" ID="ID_868973307" MODIFIED="1617418526753" TEXT="Buy &amp; Hold Investors">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3026,7 +3026,142 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#3399ff" CREATED="1617418283404" ID="ID_1071593058" MODIFIED="1617418351169" TEXT="Drawing Tools"/>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617418283404" FOLDED="true" ID="ID_1071593058" MODIFIED="1617440329068" TEXT="Drawing Tools">
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617419342124" ID="ID_820887774" MODIFIED="1617439639522" STYLE="fork" TEXT="Cursor Options">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617419820433" ID="ID_1538402242" MODIFIED="1617439639521" STYLE="fork" TEXT="Line Tools">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617437703108" ID="ID_765568715" MODIFIED="1617439639521" STYLE="fork" TEXT="Complex Tools">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617437829680" ID="ID_1795093254" MODIFIED="1617439639521" STYLE="fork" TEXT="Geometric Shapes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617438165194" ID="ID_296252799" MODIFIED="1617439639520" STYLE="fork" TEXT="Text Tools">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617438219728" ID="ID_112889092" MODIFIED="1617439639520" STYLE="fork" TEXT="Advanced Patterns">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617438326951" ID="ID_1360815556" MODIFIED="1617439639520" STYLE="fork" TEXT="Trade Management">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617438476487" ID="ID_1319495698" MODIFIED="1617439639519" STYLE="fork" TEXT="Symbols &amp; Icons">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617438516289" ID="ID_1642650619" MODIFIED="1617439676462" STYLE="fork" TEXT="Measuring Tool">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Good tool to calculate differences in price and percentage
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617438720908" ID="ID_130909394" MODIFIED="1617440320745" STYLE="fork" TEXT="Zoom Tools">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Drag a rectangle to view the particular chart
+    </p>
+    <p>
+      Click Zoom out to reset to normal chart
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617438908286" ID="ID_1601840904" MODIFIED="1617440320745" STYLE="fork" TEXT="Snap Toggle">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Use it with other drawing tools to snap start/end points to candlesticks
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617439602776" ID="ID_1884716461" MODIFIED="1617440320744" STYLE="fork" TEXT="Drawing Mode Lock">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Turn on: to keep the selected drawing tool for placing multiple of them
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617439866690" ID="ID_736171302" MODIFIED="1617440320744" STYLE="fork" TEXT="Lock All Drawings">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Lock all drawings have been placed on the chart
+    </p>
+    <p>
+      Individual drawing locking can be done via right mouse click or its properties bar
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617440073204" ID="ID_735349645" MODIFIED="1617440320744" STYLE="fork" TEXT="Hide Drawings / Indicators">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Temporary hide all drawings
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617440252645" ID="ID_1845941285" MODIFIED="1617440320743" STYLE="fork" TEXT="Sync Drawings">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Sync drawings across multiple panels in the layout if they have the same symbol
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617440112958" ID="ID_893366520" MODIFIED="1617440320743" STYLE="fork" TEXT="Delete Drawings">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
 <node CREATED="1617344328624" ID="ID_1106892845" MODIFIED="1617344382081" TEXT="Mouse">
 <richcontent TYPE="NOTE"><html>
   <head>
