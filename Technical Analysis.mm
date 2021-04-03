@@ -30,13 +30,7 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1615842361452" ID="ID_534360570" MODIFIED="1615950111614" POSITION="left" TEXT="Paper Trading">
-<font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1615842378565" ID="ID_1370438754" MODIFIED="1615950111614" TEXT="Backtesting">
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-<node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1617154151217" POSITION="right" TEXT="OHLC">
+<node CREATED="1615934672539" FOLDED="true" ID="ID_1241195952" MODIFIED="1617447211582" POSITION="right" TEXT="OHLC">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615946114715" ID="ID_104849619" MODIFIED="1615950111612" TEXT="Parts">
@@ -397,7 +391,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1616047231508" ID="ID_1619754521" MODIFIED="1617154157095" POSITION="right" TEXT="Gaps">
+<node CREATED="1616047231508" FOLDED="true" ID="ID_1619754521" MODIFIED="1617447214705" POSITION="right" TEXT="Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -617,7 +611,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1617242664522" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" FOLDED="true" ID="ID_705980829" MODIFIED="1617447217301" POSITION="right" TEXT="Candlesticks">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1191,7 +1185,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1617154172344" POSITION="right" TEXT="Indicators">
+<node CREATED="1615947384914" FOLDED="true" ID="ID_1681672627" MODIFIED="1617447263281" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1617154310210" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
@@ -1954,7 +1948,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1617154329838" POSITION="right" TEXT="MA (Moving Average)">
+<node CREATED="1615842259661" FOLDED="true" ID="ID_1574234014" MODIFIED="1617447266758" POSITION="right" TEXT="MA (Moving Average)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2360,7 +2354,7 @@
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#009966" CREATED="1615850350986" ID="ID_1625678265" MODIFIED="1616840815739" POSITION="left" TEXT="Fundamental Analysis">
+<node BACKGROUND_COLOR="#009966" CREATED="1615850350986" FOLDED="true" ID="ID_1625678265" MODIFIED="1617447269449" POSITION="left" TEXT="Fundamental Analysis">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615850535751" ID="ID_957719759" MODIFIED="1615950111608" TEXT="Earning Report">
 <font NAME="SansSerif" SIZE="12"/>
@@ -2375,7 +2369,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615873942066" ID="ID_303863435" MODIFIED="1617157436303" POSITION="left" TEXT="Signals">
+<node CREATED="1615873942066" FOLDED="true" ID="ID_303863435" MODIFIED="1617447326740" POSITION="left" TEXT="Signals">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615873957260" ID="ID_1767122831" MODIFIED="1615950111607" TEXT="Crossovers">
 <richcontent TYPE="NOTE"><html>
@@ -2393,7 +2387,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615873968617" ID="ID_88546558" MODIFIED="1615950111607" TEXT="Meeting a Range Limit">
+<node CREATED="1615873968617" FOLDED="true" ID="ID_88546558" MODIFIED="1617447233205" TEXT="Meeting a Range Limit">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3162,7 +3156,7 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617445286502" FOLDED="true" ID="ID_1399453824" MODIFIED="1617447110282" TEXT="Bottom Tabs">
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617445286502" FOLDED="true" ID="ID_1399453824" MODIFIED="1617447319589" TEXT="Bottom Tabs">
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617445408129" ID="ID_133094073" MODIFIED="1617447106214" STYLE="fork" TEXT="Screeners">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3218,6 +3212,9 @@
 </html>
 </richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<node CREATED="1615842378565" ID="ID_1370438754" MODIFIED="1615950111614" TEXT="Backtesting">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617446277240" ID="ID_183700326" MODIFIED="1617447106213" STYLE="fork" TEXT="Trading Panel">
 <richcontent TYPE="NOTE"><html>
@@ -3232,17 +3229,879 @@
 </html>
 </richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<node CREATED="1615842361452" ID="ID_534360570" MODIFIED="1615950111614" TEXT="Paper Trading">
+<font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ff6600" CREATED="1617344385648" ID="ID_1926042564" MODIFIED="1617447145835" TEXT="Hot Keys">
+</node>
+<node BACKGROUND_COLOR="#ff6600" CREATED="1617344385648" ID="ID_1926042564" MODIFIED="1617451787686" TEXT="Hot Keys">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Alt + G: Goto specific time
+      <font color="#000000" size="2">https://www.tradingview.com/support/shortcuts/</font>
     </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><u><font color="#ff9900">CHART</font></u></b>
+    </p>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Open indicators</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">/</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Load Chart Layout</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">.</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Save Chart Layout</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">S</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Change symbol</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Symbol</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Change interval&#160;</font><font color="rgb(120, 123, 134)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 18 18" width="18" height="18" fill="none" style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; margin-left: 8px; line-height: 24px"><path stroke="currentColor" d="M8 8.5h1.5V14" style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; margin-left: 8px; line-height: 24px"></path><circle fill="currentColor" cx="9" cy="5" r="1" style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; margin-left: 8px; line-height: 24px"></circle><path stroke="currentColor" d="M16.5 9a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0z" style="margin-top: 5px; margin-right: 0px; margin-bottom: 5px; margin-left: 8px; line-height: 24px"></path></svg></font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Number</font><font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">,</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move chart 1 bar to the left</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        <path stroke="currentColor" d="M6.5 13.5H22m-15.5 0L10 17m-3.5-3.5L10 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        </path>
+        </svg>
+        </font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move chart 1 bar to the right</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        <path stroke="currentColor" d="M21.5 13.5H6m15.5 0L18 17m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        </path>
+        </svg>
+        </font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Replay play/pause</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 21.5V6m0 15.5L11 18m3.5 3.5L18 18" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Replay step forward</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M21.5 13.5H6m15.5 0L18 17m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move further to the left</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M6.5 13.5H22m-15.5 0L10 17m-3.5-3.5L10 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move further to the right</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M21.5 13.5H6m15.5 0L18 17m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <path fill="currentColor" d="M8.707 13l2.647 2.646-.707.708L6.792 12.5l3.853-3.854.708.708L8.707 12H14.5a5.5 5.5 0 0 1 5.5 5.5V19h-1v-1.5a4.5 4.5 0 0 0-4.5-4.5H8.707z" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Undo</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Z</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <path fill="currentColor" d="M18.293 13l-2.647 2.646.707.708 3.854-3.854-3.854-3.854-.707.708L18.293 12H12.5A5.5 5.5 0 0 0 7 17.5V19h1v-1.5a4.5 4.5 0 0 1 4.5-4.5h5.793z" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Redo</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Y</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Switching between charts in multi-charts layout</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Tab</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Tab</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="height: 28px; margin-top: 3px">
+      <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M8.5 7A2.5 2.5 0 0 0 6 9.5V12h1V9.5C7 8.67 7.67 8 8.5 8H11V7H8.5zM6 17v2.5A2.5 2.5 0 0 0 8.5 22H11v-1H8.5A1.5 1.5 0 0 1 7 19.5V17H6zm13.5-9H17V7h2.5A2.5 2.5 0 0 1 22 9.5V12h-1V9.5c0-.83-.67-1.5-1.5-1.5zM22 19.5V17h-1v2.5c0 .83-.67 1.5-1.5 1.5H17v1h2.5a2.5 2.5 0 0 0 2.5-2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Toggle maximize chart</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Enter</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+Click</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Toggle maximize pane</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">DoubleClick</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <path fill="currentColor" fill-rule="evenodd" d="M8.5 6a3.5 3.5 0 0 0-2.926 5.422 8.527 8.527 0 0 1 4.848-4.848A3.482 3.482 0 0 0 8.5 6zM4 9.5c0 1.19.463 2.274 1.218 3.079A8.5 8.5 0 0 0 13.5 23h.5v-1h-.5a7.5 7.5 0 1 1 7.5-7.5v.5h1v-.5a8.53 8.53 0 0 0-.218-1.921 4.5 4.5 0 0 0-6.36-6.36 8.527 8.527 0 0 0-3.843-.001A4.5 4.5 0 0 0 4 9.5zm12.578-2.926a8.527 8.527 0 0 1 4.848 4.848 3.5 3.5 0 0 0-4.848-4.848zM13 14V9h1v6h-4v-1h3zm6 6h-4v1h4v4h1v-4h4v-1h-4v-4h-1v4z" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Add alert</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">A</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="height: 28px; margin-top: 3px">
+      <path stroke="currentColor" d="M5.5 13v-2.5m8.5 11h6.5a2 2 0 0 0 2-2v-9m-17 0v-2c0-1.1.9-2 2-2h13a2 2 0 0 1 2 2v2m-17 0h17" style="height: 28px; margin-top: 3px">
+      </path>
+      <path fill="currentColor" d="M10 4h1v4h-1V4zM17 4h1v4h-1V4z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path stroke="currentColor" d="M4 18.5h7.5m0 0L8 22m3.5-3.5L8 15" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Go to date</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">G</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Add text note for symbol</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">N</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" style="height: 28px; margin-top: 3px">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M11.118 6a.5.5 0 0 0-.447.276L9.809 8H5.5A1.5 1.5 0 0 0 4 9.5v10A1.5 1.5 0 0 0 5.5 21h16a1.5 1.5 0 0 0 1.5-1.5v-10A1.5 1.5 0 0 0 21.5 8h-4.309l-.862-1.724A.5.5 0 0 0 15.882 6h-4.764zm-1.342-.17A1.5 1.5 0 0 1 11.118 5h4.764a1.5 1.5 0 0 1 1.342.83L17.809 7H21.5A2.5 2.5 0 0 1 24 9.5v10a2.5 2.5 0 0 1-2.5 2.5h-16A2.5 2.5 0 0 1 3 19.5v-10A2.5 2.5 0 0 1 5.5 7h3.691l.585-1.17z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5 18a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm0 1a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9z" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Take snapshot</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">S</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Reset chart</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">R</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Invert series scale</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">I</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Enable/disable logarithmic series scale</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">L</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Enable/disable percent series scale</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">P</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="none" fill-rule="evenodd" style="height: 28px; margin-top: 3px">
+      <path stroke="currentColor" d="M13 22.5H5.5a2 2 0 0 1-2-2v-14a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2V14" style="height: 28px; margin-top: 3px">
+      </path>
+      <path stroke="currentColor" stroke-linecap="square" d="M18.5 15.5v8m-4-4h8" style="height: 28px; margin-top: 3px">
+      </path>
+      <path fill="currentColor" d="M7 8h11v1H7zm0 4h11v1H7zm0 4h5v1H7z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Add symbol to watchlist</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">W</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 32px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Focused zoom</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+Mouse wheel</font>
+      </div>
+    </div>
+    <p>
+      <b><u><font color="#ff9900">INDICATORS &amp; DRAWINGS</font></u></b>
+    </p>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Partially erase</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Eraser</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Gann Box fixed increments</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Hold</font><font color="rgb(178, 181, 190)">Shift</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <path fill="currentColor" d="M2 9.75a1.5 1.5 0 0 0-1.5 1.5v5.5a1.5 1.5 0 0 0 1.5 1.5h24a1.5 1.5 0 0 0 1.5-1.5v-5.5a1.5 1.5 0 0 0-1.5-1.5zm0 1h3v2.5h1v-2.5h3.25v3.9h1v-3.9h3.25v2.5h1v-2.5h3.25v3.9h1v-3.9H22v2.5h1v-2.5h3a.5.5 0 0 1 .5.5v5.5a.5.5 0 0 1-.5.5H2a.5.5 0 0 1-.5-.5v-5.5a.5.5 0 0 1 .5-.5z" transform="rotate(-45 14 14)" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Measure tool</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Hold</font><font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+Click</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="none" style="height: 28px; margin-top: 3px">
+      <path stroke="currentColor" d="M8 9.5H6.5a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1V20m-8-1.5h11a1 1 0 0 0 1-1v-11a1 1 0 0 0-1-1h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1z" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Copy selected object</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">C</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Paste object</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">V</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Remove object</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Delete</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Backspace</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">orMouse wheel click</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="evenodd" style="height: 28px; margin-top: 3px">
+      <path fill-rule="nonzero" d="M14 10a2 2 0 0 0-2 2v11H6V12c0-4.416 3.584-8 8-8s8 3.584 8 8v11h-6V12a2 2 0 0 0-2-2zm-3 2a3 3 0 0 1 6 0v10h4V12c0-3.864-3.136-7-7-7s-7 3.136-7 7v10h4V12z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M6.5 18h5v1h-5zm10 0h5v1h-5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Temporary turn on/off magnet mode</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+Move a point</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <path fill="currentColor" fill-rule="evenodd" d="M4.56 14a10.05 10.05 0 00.52.91c.41.69 1.04 1.6 1.85 2.5C8.58 19.25 10.95 21 14 21c3.05 0 5.42-1.76 7.07-3.58A17.18 17.18 0 0023.44 14a9.47 9.47 0 00-.52-.91c-.41-.69-1.04-1.6-1.85-2.5C19.42 8.75 17.05 7 14 7c-3.05 0-5.42 1.76-7.07 3.58A17.18 17.18 0 004.56 14zM24 14l.45-.21-.01-.03a7.03 7.03 0 00-.16-.32c-.11-.2-.28-.51-.5-.87-.44-.72-1.1-1.69-1.97-2.65C20.08 7.99 17.45 6 14 6c-3.45 0-6.08 2-7.8 3.92a18.18 18.18 0 00-2.64 3.84v.02h-.01L4 14l-.45-.21-.1.21.1.21L4 14l-.45.21.01.03a5.85 5.85 0 00.16.32c.11.2.28.51.5.87.44.72 1.1 1.69 1.97 2.65C7.92 20.01 10.55 22 14 22c3.45 0 6.08-2 7.8-3.92a18.18 18.18 0 002.64-3.84v-.02h.01L24 14zm0 0l.45.21.1-.21-.1-.21L24 14zm-10-3a3 3 0 100 6 3 3 0 000-6zm-4 3a4 4 0 118 0 4 4 0 01-8 0z" style="height: 28px; margin-top: 3px">
+      </path>
+      </svg>
+      Hide all drawings</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">H</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Clone a drawing</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+Drag</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Drawings multiselect</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Hold</font><font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+Click</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move a drawing horizontally or vertically</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Drag+</font><font color="rgb(178, 181, 190)">Shift</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move selected drawing left</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        <path stroke="currentColor" d="M6.5 13.5H22m-15.5 0L10 17m-3.5-3.5L10 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        </path>
+        </svg>
+        </font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move selected drawing right</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        <path stroke="currentColor" d="M21.5 13.5H6m15.5 0L18 17m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        </path>
+        </svg>
+        </font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move selected drawing up</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        <path stroke="currentColor" d="M14.5 6.5V22m0-15.5L11 10m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        </path>
+        </svg>
+        </font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Move selected drawing down</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        <path stroke="currentColor" d="M14.5 21.5V6m0 15.5L11 18m3.5 3.5L18 18" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+        </path>
+        </svg>
+        </font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="nonzero" style="height: 28px; margin-top: 3px">
+      <path d="M7.354 21.354l14-14-.707-.707-14 14z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M22.5 7c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM5.5 24c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Trend line</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">T</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="nonzero" style="height: 28px; margin-top: 3px">
+      <path d="M4 15h8.5v-1h-8.5zM16.5 15h8.5v-1h-8.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M14.5 16c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Horizontal line</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">H</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="nonzero" style="height: 28px; margin-top: 3px">
+      <path d="M15 12.5v-8.5h-1v8.5zM14 16.5v8.5h1v-8.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M14.5 16c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Vertical line</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">V</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="nonzero" style="height: 28px; margin-top: 3px">
+      <path d="M4 15h8.5v-1h-8.5zM16.5 15h8.5v-1h-8.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M15 12v-8.5h-1v8.5zM14 16.5v8.5h1v-8.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M14.5 16c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Cross line</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">C</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="nonzero" style="height: 28px; margin-top: 3px">
+      <path d="M3 5h22v-1h-22z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M3 17h22v-1h-22z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M3 11h19.5v-1h-19.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M5.5 23h19.5v-1h-19.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M3.5 24c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM24.5 12c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Fib retracement</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">F</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="nonzero" style="height: 28px; margin-top: 3px">
+      <path d="M7.5 6h13v-1h-13z" id="Line" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M7.5 23h13v-1h-13z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M5 7.5v13h1v-13z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M22 7.5v13h1v-13z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M5.5 7c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM22.5 7c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM22.5 24c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM5.5 24c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Square</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Rectangle+</font><font color="rgb(178, 181, 190)">Shift</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" style="height: 28px; margin-top: 3px">
+      <g fill="currentColor" fill-rule="nonzero" style="height: 28px; margin-top: 3px">
+      <path d="M12.435 6.136c-4.411.589-7.983 3.039-9.085 6.27l.946.323c.967-2.836 4.209-5.059 8.271-5.602l-.132-.991zM3.347 16.584c1.101 3.243 4.689 5.701 9.117 6.283l.13-.991c-4.079-.537-7.335-2.767-8.301-5.613l-.947.321zM16.554 22.865c4.381-.582 7.94-3 9.071-6.2l-.943-.333c-.994 2.811-4.224 5.006-8.26 5.542l.132.991zM25.646 12.394c-1.107-3.225-4.675-5.668-9.078-6.257l-.133.991c4.056.542 7.293 2.76 8.265 5.591l.946-.325z" style="height: 28px; margin-top: 3px">
+      </path>
+      <path d="M14.5 8c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM14.5 24c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM3.5 16c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5zM25.5 16c.828 0 1.5-.672 1.5-1.5s-.672-1.5-1.5-1.5-1.5.672-1.5 1.5.672 1.5 1.5 1.5zm0 1c-1.381 0-2.5-1.119-2.5-2.5s1.119-2.5 2.5-2.5 2.5 1.119 2.5 2.5-1.119 2.5-2.5 2.5z" style="height: 28px; margin-top: 3px">
+      </path>
+      </g>
+      </svg>
+      Circle</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Ellipse+</font><font color="rgb(178, 181, 190)">Shift</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 32px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">45 degrees angle or horizontal</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Trend Line or Channel+</font><font color="rgb(178, 181, 190)">Shift</font>
+      </div>
+    </div>
+    <p>
+      
+    </p>
+    <p>
+      <b><u><font color="#ff9900">WATCHLIST &amp; SCREENER</font></u></b>
+    </p>
+    <div class="section-3K_v8i91 isOpen-3K_v8i91" style="margin-top: 0px; margin-bottom: 0px; margin-right: -16px; margin-left: -16px">
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Next symbol</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+          <path stroke="currentColor" d="M14.5 21.5V6m0 15.5L11 18m3.5 3.5L18 18" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+          </path>
+          </svg>
+          </font><font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Space</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Previous symbol</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+          <path stroke="currentColor" d="M14.5 6.5V22m0-15.5L11 10m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px">
+          </path>
+          </svg>
+          </font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Space</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Flag/unflag symbol</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Enter</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Select all symbols</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">A</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Select next symbol</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 21.5V6m0 15.5L11 18m3.5 3.5L18 18" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 32px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Select previous symbol</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 6.5V22m0-15.5L11 10m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+    </div>
+    <p>
+      <b><u><font color="#ff9900">PINE EDITOR</font></u></b>
+    </p>
+    <div class="section-3K_v8i91 isOpen-3K_v8i91" style="margin-top: 0px; margin-bottom: 0px; margin-right: -16px; margin-left: -16px">
+      <div class="title-3bv4-8ML" style="padding-left: 42px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; font-size: 14px; line-height: 16px; color: rgb(93, 96, 107); text-transform: uppercase">
+        SCRIPT
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">New script</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">I</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Save script</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">S</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Open script</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">O</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Add script to chart</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Enter</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Open pine script reference</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+Click</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Toggle console</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">`</font>
+        </div>
+        GO TO
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Go to word left</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M6.5 13.5H22m-15.5 0L10 17m-3.5-3.5L10 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Go to word right</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M21.5 13.5H6m15.5 0L18 17m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Go to line start</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Home</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Go to line end</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">End</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Go to start</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Home</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Go to end</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">End</font>
+        </div>
+        SELECTION
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Select line start</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Home</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Select line end</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">End</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Select up</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 6.5V22m0-15.5L11 10m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Select down</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 21.5V6m0 15.5L11 18m3.5 3.5L18 18" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+        LINE OPERATIONS
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Remove line</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">D</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Copy lines up</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 6.5V22m0-15.5L11 10m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Copy lines down</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 21.5V6m0 15.5L11 18m3.5 3.5L18 18" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Move lines up</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 6.5V22m0-15.5L11 10m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Move lines down</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 21.5V6m0 15.5L11 18m3.5 3.5L18 18" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Remove to line end</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Delete</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Remove to line start</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Alt</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Backspace</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Remove word left</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Backspace</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Remove word right</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Delete</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Autocomplete</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Space</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Multi-line commenting</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">/</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Indent right</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Tab</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">]</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Indent left</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Tab</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">[</font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px">
+        <font color="rgb(178, 181, 190)">Multi-cursor</font>
+
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Alt+up arrow<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 28 28" width="28" height="28" fill="none" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"><path stroke="currentColor" d="M14.5 6.5V22m0-15.5L11 10m3.5-3.5L18 10" style="display: flex; height: 28px; padding-left: 2px; padding-right: 2px; margin-left: 12px; width: 28px"></path></svg></font>
+        </div>
+      </div>
+      <div class="container-3lDZhNmb smallMarginTop-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 8px; margin-right: 16px; margin-bottom: 32px; margin-left: 16px">
+        <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+          <font color="rgb(120, 123, 134)">or</font><font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">Alt+down arrow</font>
+        </div>
+      </div>
+    </div>
+    <p>
+      <b><u><font color="#ff9900">TRADING</font></u></b>
+    </p>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Place market order to buy</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">B</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Place market order to sell</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Shift</font><font color="rgb(120, 123, 134)">+</font><font color="rgb(178, 181, 190)">S</font>
+      </div>
+    </div>
+    <div class="title-3bv4-8ML" style="padding-left: 42px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; font-size: 14px; line-height: 16px; color: rgb(93, 96, 107); text-transform: uppercase; font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      DOM
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 16px; margin-right: 16px; margin-bottom: 0px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Place limit order</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(120, 123, 134)">Click in the DOM cell</font>
+      </div>
+    </div>
+    <div class="container-3lDZhNmb" style="display: flex; padding-left: 6px; margin-top: 24px; margin-right: 16px; margin-bottom: 32px; margin-left: 16px; color: rgb(197, 203, 206); font-family: Trebuchet MS, roboto, ubuntu, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(19, 23, 34)">
+      <font color="rgb(178, 181, 190)">Place stop order</font>
+
+      <div class="shortcuts-3lDZhNmb" style="display: flex; margin-left: 0; font-size: 14px">
+        <font color="rgb(178, 181, 190)">Ctrl</font><font color="rgb(120, 123, 134)">+Click in the DOM cell</font>
+      </div>
+    </div>
   </body>
 </html>
 </richcontent>
