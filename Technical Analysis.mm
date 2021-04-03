@@ -2597,8 +2597,8 @@
 </node>
 </node>
 <node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1617242871754" POSITION="left" TEXT="Trading View Platform">
-<node CREATED="1617343105952" ID="ID_253611846" MODIFIED="1617343112838" TEXT="Top Toolbar">
-<node CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617343235099" TEXT="Symbol">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" FOLDED="true" ID="ID_253611846" MODIFIED="1617418415624" TEXT="Top Toolbar">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617417465185" STYLE="fork" TEXT="Symbol">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2610,8 +2610,9 @@
   </body>
 </html>
 </richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617243251350" ID="ID_1512798208" MODIFIED="1617273862812" TEXT="Timeframe">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617243251350" ID="ID_1512798208" MODIFIED="1617417465185" STYLE="fork" TEXT="Timeframe">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2643,8 +2644,9 @@
     </p>
   </body>
 </html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617242882590" ID="ID_1106811271" MODIFIED="1617273852252" TEXT="Candles">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617242882590" ID="ID_1106811271" MODIFIED="1617417465185" STYLE="fork" TEXT="Candles">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2690,7 +2692,8 @@
     </ol>
   </body>
 </html></richcontent>
-<node CREATED="1617242915134" ID="ID_883874020" MODIFIED="1617243133863" TEXT="Range View">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<node CREATED="1617242915134" ID="ID_883874020" MODIFIED="1617417465184" TEXT="Range View">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2703,8 +2706,10 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1617243377567" ID="ID_1201326391" MODIFIED="1617243413236" TEXT="Compare / Add Symbol"/>
-<node CREATED="1617273820502" ID="ID_770843397" MODIFIED="1617274567059" TEXT="Indicators &amp; Strategies">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617243377567" ID="ID_1201326391" MODIFIED="1617417465184" STYLE="fork" TEXT="Compare / Add Symbol">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617273820502" ID="ID_770843397" MODIFIED="1617417465184" STYLE="fork" TEXT="Indicators &amp; Strategies">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2734,8 +2739,9 @@
     </ol>
   </body>
 </html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617275157989" ID="ID_1233812831" MODIFIED="1617275214338" TEXT="Financials">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617275157989" ID="ID_1233812831" MODIFIED="1617417465183" STYLE="fork" TEXT="Financials">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2757,8 +2763,9 @@
     </ol>
   </body>
 </html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617275288562" ID="ID_1843571231" MODIFIED="1617275416098" TEXT="Templates">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617275288562" ID="ID_1843571231" MODIFIED="1617417465183" STYLE="fork" TEXT="Templates">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2786,8 +2793,9 @@
     </p>
   </body>
 </html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617275445377" ID="ID_1457117817" MODIFIED="1617275749441" TEXT="Alerts">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617275445377" ID="ID_1457117817" MODIFIED="1617417465182" STYLE="fork" TEXT="Alerts">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2806,8 +2814,9 @@
     </ul>
   </body>
 </html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617329768838" ID="ID_1291444996" MODIFIED="1617333361182" TEXT="Bar Replay">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617329768838" ID="ID_1291444996" MODIFIED="1617417465182" STYLE="fork" TEXT="Bar Replay">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2835,8 +2844,9 @@
     </ol>
   </body>
 </html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617333364739" ID="ID_286530930" MODIFIED="1617333551678" TEXT="Undo &amp; Redo">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617333364739" ID="ID_286530930" MODIFIED="1617417465181" STYLE="fork" TEXT="Undo &amp; Redo">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2847,8 +2857,9 @@
     </p>
   </body>
 </html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617343039464" ID="ID_309035632" MODIFIED="1617344223821" TEXT="Chart Options">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617343039464" ID="ID_309035632" MODIFIED="1617417465180" STYLE="fork" TEXT="Chart Options">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2863,10 +2874,159 @@
   </body>
 </html>
 </richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617344459856" ID="ID_97848479" MODIFIED="1617344469256" TEXT="Chart Settings"/>
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617344459856" ID="ID_97848479" MODIFIED="1617417465179" STYLE="fork" TEXT="Chart Settings">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617346028680" ID="ID_1637842746" MODIFIED="1617346037629" TEXT="Right Toolbar"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617346028680" FOLDED="true" ID="ID_1637842746" MODIFIED="1617418379205" TEXT="Right Toolbar">
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617384179867" ID="ID_1776515588" MODIFIED="1617418376294" STYLE="fork" TEXT="Watch List">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      List of interesting symbols
+    </p>
+    <p>
+      Tag with colors
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617384951670" ID="ID_543918810" MODIFIED="1617418376294" STYLE="fork" TEXT="Alert Info">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      List all alerts have been created
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617414645754" ID="ID_139410270" MODIFIED="1617418376293" STYLE="fork" TEXT="Data Window">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      List of all indicators have been added to TradingView (including showed and hidden ones)
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617414951156" ID="ID_1627755908" MODIFIED="1617418376293" STYLE="fork" TEXT="Hot Lists">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      The results of market scanners: Gainers and Losers on
+    </p>
+    <ol>
+      <li>
+        Volume
+      </li>
+      <li>
+        Percent Change
+      </li>
+      <li>
+        Percent Range
+      </li>
+      <li>
+        Gap
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617415802669" ID="ID_1168756679" MODIFIED="1617418376293" STYLE="fork" TEXT="Economic Calendar">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Economic related events
+      </li>
+      <li>
+        Earning calendars
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617416815418" ID="ID_1356382334" MODIFIED="1617418376293" STYLE="fork" TEXT="My Published Ideas">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617416840037" ID="ID_1033465033" MODIFIED="1617418376292" STYLE="fork" TEXT="Public Chat">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617417165491" ID="ID_1805036078" MODIFIED="1617418376292" STYLE="fork" TEXT="Private Messages">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617417302848" ID="ID_1345145328" MODIFIED="1617418376292" STYLE="fork" TEXT="Ideas Stream">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617417402523" ID="ID_975453191" MODIFIED="1617418376292" STYLE="fork" TEXT="Notifications">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617417519412" ID="ID_1608139958" MODIFIED="1617418376287" STYLE="fork" TEXT="Order Panel">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      List all positions
+    </p>
+    <p>
+      Try TP and SL tools which TradingView provides help to calculate positions
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617417690950" ID="ID_1996711420" MODIFIED="1617418376287" STYLE="fork" TEXT="Depth of Market">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617417735962" ID="ID_1541884555" MODIFIED="1617418376287" STYLE="fork" TEXT="Object Tree">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      List all drawing tools added on the current char
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617418256804" ID="ID_1097964537" MODIFIED="1617418376287" STYLE="fork" TEXT="Help Center">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617418283404" ID="ID_1071593058" MODIFIED="1617418351169" TEXT="Drawing Tools"/>
 <node CREATED="1617344328624" ID="ID_1106892845" MODIFIED="1617344382081" TEXT="Mouse">
 <richcontent TYPE="NOTE"><html>
   <head>
