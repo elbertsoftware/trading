@@ -2597,7 +2597,7 @@
 </node>
 </node>
 <node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1617242871754" POSITION="left" TEXT="Trading View Platform">
-<node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" FOLDED="true" ID="ID_253611846" MODIFIED="1617418415624" TEXT="Top Toolbar">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" FOLDED="true" ID="ID_253611846" MODIFIED="1617446206883" TEXT="Top Toolbar">
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617417465185" STYLE="fork" TEXT="Symbol">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2880,7 +2880,7 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#33ccff" CREATED="1617346028680" FOLDED="true" ID="ID_1637842746" MODIFIED="1617418379205" TEXT="Right Toolbar">
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617346028680" FOLDED="true" ID="ID_1637842746" MODIFIED="1617446195344" TEXT="Right Toolbar">
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617384179867" ID="ID_1776515588" MODIFIED="1617418376294" STYLE="fork" TEXT="Watch List">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3162,20 +3162,79 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node CREATED="1617344328624" ID="ID_1106892845" MODIFIED="1617344382081" TEXT="Mouse">
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617445286502" FOLDED="true" ID="ID_1399453824" MODIFIED="1617447110282" TEXT="Bottom Tabs">
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617445408129" ID="ID_133094073" MODIFIED="1617447106214" STYLE="fork" TEXT="Screeners">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Ctrl + Drag with Crosshair: Select
+      Tools for analyzing different markets: stocks, forex, cryptocurrencies
     </p>
   </body>
 </html>
 </richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
-<node CREATED="1617344385648" ID="ID_1926042564" MODIFIED="1617344406769" TEXT="Shortcuts">
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617445641748" ID="ID_1274789780" MODIFIED="1617447106214" STYLE="fork" TEXT="Text Notes">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Keep trading notes
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617445675062" ID="ID_1311294777" MODIFIED="1617447106214" STYLE="fork" TEXT="Pine Editor">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Create new or edit existing Pine Scripts
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617445780678" ID="ID_1013947790" MODIFIED="1617447106213" STYLE="fork" TEXT="Strategy Tester">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Results returned from an execution of a strategy script
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617446277240" ID="ID_183700326" MODIFIED="1617447106213" STYLE="fork" TEXT="Trading Panel">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Paper and real account trading platforms
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ff6600" CREATED="1617344385648" ID="ID_1926042564" MODIFIED="1617447145835" TEXT="Hot Keys">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3183,6 +3242,19 @@
   <body>
     <p>
       Alt + G: Goto specific time
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#cccccc" CREATED="1617344328624" ID="ID_1106892845" MODIFIED="1617447166903" TEXT="Mouse">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ctrl + Drag with Crosshair: Select
     </p>
   </body>
 </html>
