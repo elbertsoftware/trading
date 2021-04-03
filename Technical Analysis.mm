@@ -3234,14 +3234,14 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ff6600" CREATED="1617344385648" ID="ID_1926042564" MODIFIED="1617451787686" TEXT="Hot Keys">
+<node BACKGROUND_COLOR="#ff6600" CREATED="1617344385648" ID="ID_1926042564" MODIFIED="1617451852710" TEXT="Hot Keys">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#000000" size="2">https://www.tradingview.com/support/shortcuts/</font>
+      <font color="#000000" size="2">https://www.tradingview.com/support/shortcuts</font>
     </p>
     <p>
       
