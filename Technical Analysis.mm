@@ -2321,20 +2321,141 @@
 </node>
 </node>
 </node>
-<node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1617153829848" POSITION="right" TEXT="Momentum">
+<node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1617527804097" POSITION="right" TEXT="Momentum">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Momentum is the speed of a price change
+      Momentum is the speed of a price change aka acceleration
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#0066ff">Divergence</font></b>: Momentum and Price move in opposite directions:
+    </p>
+    <ol>
+      <li>
+        Technically, both are going in the same direction (momentum measures speed), more a failure to confirm the price move
+      </li>
+      <li>
+        Check the example &quot;03.&#160;&#160;ROC - Devergence.png&quot;. In this example, the ROC is still above the zero line (Buy signal), it is just heading down slightly
+      </li>
+      <li>
+        Volume in this example is steady / low, no spike
+      </li>
+    </ol>
+    <p>
+      <b><font color="#0066ff">Momentum: Understanding &amp; Tricky Aspects</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Momentum Displays Speed
+    </p>
+    <p>
+      &#160;&#160;&#160;- When the momentum line is horizontal, may think it has stopped...not so
+    </p>
+    <p>
+      &#160;&#160;&#160;- Actually, acceleration has stopped
+    </p>
+    <p>
+      &#160;&#160;&#160;- When you look at a momentum line your eye will try to line it up price move and think you see a correlation between the indicator and price
+    </p>
+    <p>
+      &#160;&#160;&#160;- With momentum, sometimes that is true but not always
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Momentum sometimes mirrors the price move
+    </p>
+    <p>
+      &#160;&#160;&#160;- Momentum is tracking the closing price, relative to the close a certain number of days back
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Appears to be a smooth price line
+    </p>
+    <p>
+      &#160;&#160;&#160;- The more days in your lookback period, the smoother the line
+    </p>
+    <p>
+      &#160;&#160;&#160;- Unlike the Moving Average it does not include all the days in-between, by omitting the extra information the line gets smoother
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + However, if you have a 1-day price spike, you may see a jump in momentum but later you will see a sudden drop as the data is exclude from the series
+    </p>
+    <p>
+      &#160;&#160;&#160;- The spike situation is where it pays to look at the price bars (Ex, OHLC, Candlestick) and not just momentum as it could be misleading
+    </p>
+    <p>
+      &#160;&#160;&#160;- Some people may use momentum as the primary indicator but usually best if used with another indictor or for confirmation
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Filtering Momentum
+    </p>
+    <p>
+      &#160;&#160;&#160;- Shortening the momentum timeframe (Ex, from 10 to 3 days) will be more responsive to price changes:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* More sensitive
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Will show more buy/sell signals (Whipsaws) causing more frequent trading and potential losses based on false trend signals
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;- Filter with a trading rule:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Example, instead of buying/selling when momentum line simply crosses the Zero line you could say you will take buy/sell action only when the momentum line crossed by more than 2%
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Opportunity cost by delaying for 2% to be in place
     </p>
   </body>
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1617154609290" ID="ID_5820406" MODIFIED="1617154622212" TEXT="ROC (Rate Of Change)"/>
+<node CREATED="1617154609290" ID="ID_5820406" MODIFIED="1617523037813" TEXT="ROC (Rate Of Change)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ol>
+      <li>
+        Zero line equals price X number of periods ago
+      </li>
+      <li>
+        Vertical number line indicates % above or below the zero line
+      </li>
+      <li>
+        <b><font color="#009900">Buy</font></b>: Crosses <b><font color="#009900">above</font></b>&#160;the zero line: signaling uptrend
+      </li>
+      <li>
+        <b><font color="#cc0033">Sell</font></b>: Crosses <b><font color="#cc0033">below</font></b>&#160;the zero line: signaling downtrend
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1615872292824" ID="ID_1912008869" MODIFIED="1617155643457" TEXT="RSI (Relative Strength Index)">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
