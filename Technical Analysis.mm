@@ -2529,7 +2529,69 @@
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1617155609562" ID="ID_874655572" MODIFIED="1617155626216" TEXT="Stochastic Oscillator"/>
+<node CREATED="1617155609562" ID="ID_874655572" MODIFIED="1617534015341" TEXT="Stochastic Oscillator">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Looks not only at the Closing Price but also how near is that Close to the High or Low of the day
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Example: If you have a Close near the High and each High is higher than the day before, not only do you have an Uptrend but an Uptrend that is accelerating
+    </p>
+    <ul>
+      <li>
+        In a rally, prices going up, you expect the price to close near the high of the day
+      </li>
+      <li>
+        In a selloff, prices going down, you expect the price to close new the low of the day
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#cc0033">Overbought Conditions</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Traders think current price rise trend is at an extreme... ready for a turnaround so want to take profit now!
+    </p>
+    <p>
+      + <b><font color="#cc0033">Overbought</font></b>&#160;indicated when Stochastic Oscillator crosses <b><font color="#cc0033">above</font></b>&#160; the <b><font color="#cc0033">80%</font></b>&#160;line
+    </p>
+    <p>
+      + <b><font color="#cc0033">Sell</font></b>: When <b><font color="#cc0033">%K</font></b>&#160;crosses <b><font color="#cc0033">below</font></b>&#160;<b><font color="#cc0033">%D</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#009900">Oversold Conditions</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Traders think current price fall is at an extreme, few sellers and price relatively cheap...ready for a turnaround so buyers coming back in
+    </p>
+    <p>
+      + <b><font color="#009900">Oversold</font></b>&#160;indicated when Stochastic Oscillator crosses <b><font color="#009900">below</font></b>&#160; the <b><font color="#009900">20%</font></b>&#160;line
+    </p>
+    <p>
+      + <b><font color="#009900">Buy</font></b>: When <b><font color="#009900">%K</font></b>&#160;crosses <b><font color="#009900">above</font></b>&#160;<b><font color="#009900">%D</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617155603665" POSITION="right" TEXT="ATR (Average True Range)">
 <richcontent TYPE="NOTE"><html>
