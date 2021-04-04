@@ -2456,7 +2456,77 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1615872292824" ID="ID_1912008869" MODIFIED="1617155643457" TEXT="RSI (Relative Strength Index)">
+<node CREATED="1615872292824" ID="ID_1912008869" MODIFIED="1617529562051" TEXT="RSI (Relative Strength Index)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      RSI is much faster than ROC to signal an impending price change:
+    </p>
+    <ol>
+      <li>
+        Good tool for profit taking
+      </li>
+      <li>
+        Less reliable for buy/sell signals
+      </li>
+      <li>
+        Many use other indicators for buy/sell then use RSI to confirm
+      </li>
+      <li>
+        RSI uses averages over several days rather single price points so it reduces whipsaw effects compared to ROC
+      </li>
+      <li>
+        <b><font color="#009900">Buy</font></b>: Crosses <b><font color="#009900">below</font></b>&#160;the <b><font color="#009900">30%</font></b>&#160;line (<b><font color="#cc0033">oversold</font></b>)
+      </li>
+      <li>
+        <b><font color="#cc0033">Sell</font></b>: Crosses <b><font color="#cc0033">above</font></b>&#160;the <b><font color="#cc0033">70%</font></b>&#160;line (<b><font color="#009900">overbought</font></b>)
+      </li>
+    </ol>
+    <p>
+      <b><font color="#0066ff">What Does RSI Tell Us?</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Overbought Conditions
+    </p>
+    <p>
+      &#160;&#160;&#160;- Traders think current price rise trend is at an extreme... ready for a turnaround so want to take profit now!
+    </p>
+    <p>
+      &#160;&#160;&#160;- Overbought when RSI crosses above the 70% line
+    </p>
+    <p>
+      &#160;&#160;&#160;- Use as primary or good as a confirming indicator
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Oversold Conditions
+    </p>
+    <p>
+      &#160;&#160;&#160;- Traders think current price fall is at an extreme, few sellers and price relatively cheap...ready for a turnaround so buyers coming back in
+    </p>
+    <p>
+      &#160;&#160;&#160;- Oversold when RSI crosses below the 30% line
+    </p>
+    <p>
+      &#160;&#160;&#160;- Use as primary or good as a confirming indicator
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b>Note:</b>&#160;when trends are strong, stocks can be overbought/oversold for longer periods of time
+    </p>
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1617155609562" ID="ID_874655572" MODIFIED="1617155626216" TEXT="Stochastic Oscillator"/>
