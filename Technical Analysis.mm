@@ -611,7 +611,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1617582018921" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" FOLDED="true" ID="ID_705980829" MODIFIED="1617603425412" POSITION="right" TEXT="Candlesticks">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1185,7 +1185,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1617582036534" POSITION="right" TEXT="Indicators">
+<node CREATED="1615947384914" FOLDED="true" ID="ID_1681672627" MODIFIED="1617603428071" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1617154310210" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
@@ -1948,7 +1948,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1617582056253" POSITION="right" TEXT="MA (Moving Average)">
+<node CREATED="1615842259661" FOLDED="true" ID="ID_1574234014" MODIFIED="1617603431180" POSITION="right" TEXT="MA (Moving Average)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2905,7 +2905,7 @@
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1617599836601" ID="ID_1358444407" MODIFIED="1617602614606" TEXT="Bollinger Bands">
+<node CREATED="1617599836601" ID="ID_1358444407" MODIFIED="1617603389523" TEXT="Bollinger Bands">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2939,6 +2939,23 @@
     </p>
     <ol>
       <li>
+        A price touching or slightly breaking a band is a continuation signal of a trend
+      </li>
+      <li>
+        During an uptrend &#8220;Walking Up The Band&quot; the prices are hugging the top line<br />+ When exhausted (failure to reach higher highs), then...<br />+ Price will move down towards the center (Moving Average) and possibly beyond it.
+      </li>
+      <li>
+        Opposite for &quot;Walking Down The Band&quot;
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#0066ff">Walking &amp; Squeezing</font></b>
+    </p>
+    <ol>
+      <li>
         When bands contract that can show traders are indecisive, not willing to go to new highs or new lows either
       </li>
       <li>
@@ -2949,7 +2966,101 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1617599865778" ID="ID_677901973" MODIFIED="1617599874679" TEXT="Fibonacci"/>
+<node CREATED="1617599865778" ID="ID_677901973" MODIFIED="1617647839136" TEXT="Fibonacci">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">Big idea: Identifying pullbacks (Retracements)</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      In trading the key numbers are (not all numbers are truly Fibonacci):
+    </p>
+    <ul>
+      <li>
+        100%: represents High price to create the Fibonacci Retracement
+      </li>
+      <li>
+        76.4%: is 100% - 23.6% which developed over time by Fibonacci trading supporters
+      </li>
+      <li>
+        <b><font color="#ff6600">61.8%</font></b>
+      </li>
+      <li>
+        50%: based on Dow Theory saying a trend has a good chance of continuing once there has been a 50% retracement
+      </li>
+      <li>
+        <b><font color="#ff6600">38.2%</font></b>
+      </li>
+      <li>
+        <b><font color="#ff6600">23.6%</font></b>
+      </li>
+      <li>
+        0%: represents Low price to create the Fibonacci Retracement
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#0066ff">Trading Fibonacci Theory</font></b>
+    </p>
+    <ol>
+      <li>
+        If a security has shot up over a period of days and starts to pull back, there will be support at the Fibonacci levels below the high.
+      </li>
+      <li>
+        Likewise, if a stock has fallen and bounces back up, you'd see resistance at the Fibonacci levels.
+      </li>
+      <li>
+        Using concept of Support and Resistance lines and setting those at Fibonacci levels
+      </li>
+      <li>
+        The deeper the move, the stronger the Fibonacci Indicator
+      </li>
+      <li>
+        Best used to Confirm with another Indicator by overlaying Fibonacci on the chart
+      </li>
+      <li>
+        Fibonacci Retracement should be matched up with the timeframe work best for different trading styles
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <b>This indicator is hotly debated in the trading world:</b>
+    </p>
+    <ul>
+      <li>
+        Some people love it
+      </li>
+      <li>
+        Some say don't like
+      </li>
+      <li>
+        Some say it has almost mystical qualities
+      </li>
+      <li>
+        People say more of an advanced indicator
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-14;27;" ID="Arrow_ID_968318467" STARTARROW="Default" STARTINCLINATION="-295;22;"/>
+</node>
 </node>
 <node BACKGROUND_COLOR="#009966" CREATED="1615850350986" FOLDED="true" ID="ID_1625678265" MODIFIED="1617581699188" POSITION="left" TEXT="Fundamental Analysis">
 <font NAME="SansSerif" SIZE="12"/>
@@ -3024,7 +3135,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615849325633" FOLDED="true" ID="ID_1613524815" MODIFIED="1617581701864" POSITION="left" TEXT="Time Frame">
+<node CREATED="1615849325633" ID="ID_1613524815" MODIFIED="1617606338542" POSITION="left" TEXT="Time Frame">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3033,11 +3144,16 @@
     <p>
       Longer time frame, more established trend
     </p>
+    <p>
+      Fibonacci Retracement should be matched up with the timeframe work best for different trading styles
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" SOURCE="ID_1241195952" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-14;27;" ID="Arrow_ID_968318467" SOURCE="ID_677901973" STARTARROW="Default" STARTINCLINATION="-295;22;"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node BACKGROUND_COLOR="#cc00cc" CREATED="1617157507552" ID="ID_1326345172" MODIFIED="1617157807409" TEXT="Scalpers (Arbitrage)">
+<node BACKGROUND_COLOR="#cc00cc" CREATED="1617157507552" ID="ID_1326345172" MODIFIED="1617606074561" TEXT="Scalpers (Arbitrage)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3046,11 +3162,16 @@
     <p>
       Trading by minutes
     </p>
+    <p>
+      Try to scalp very tiny changes in the fluctuations of the prices
+    </p>
   </body>
 </html>
 </richcontent>
+<node CREATED="1617605940757" ID="ID_35291863" MODIFIED="1617605953374" TEXT="Seconds"/>
+<node CREATED="1617605955582" ID="ID_694022184" MODIFIED="1617605959074" TEXT="Minutes"/>
 </node>
-<node BACKGROUND_COLOR="#ff00ff" CREATED="1615849470840" FOLDED="true" ID="ID_803867737" MODIFIED="1617418522349" TEXT="Day Traders">
+<node BACKGROUND_COLOR="#ff00ff" CREATED="1615849470840" ID="ID_803867737" MODIFIED="1617605915449" TEXT="Day Traders">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3120,6 +3241,7 @@
   </body>
 </html>
 </richcontent>
+<node CREATED="1617605975839" ID="ID_687425732" MODIFIED="1617605990587" TEXT="1 to 12 Months"/>
 </node>
 <node BACKGROUND_COLOR="#66ccff" CREATED="1615849569100" ID="ID_868973307" MODIFIED="1617536568832" TEXT="Buy &amp; Hold Investors">
 <richcontent TYPE="NOTE"><html>
