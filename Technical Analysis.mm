@@ -30,7 +30,7 @@
 </html>
 </richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1615934672539" FOLDED="true" ID="ID_1241195952" MODIFIED="1617447211582" POSITION="right" TEXT="OHLC">
+<node CREATED="1615934672539" FOLDED="true" ID="ID_1241195952" MODIFIED="1617581670410" POSITION="right" TEXT="OHLC">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615946114715" ID="ID_104849619" MODIFIED="1615950111612" TEXT="Parts">
@@ -391,7 +391,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1616047231508" FOLDED="true" ID="ID_1619754521" MODIFIED="1617447214705" POSITION="right" TEXT="Gaps">
+<node CREATED="1616047231508" FOLDED="true" ID="ID_1619754521" MODIFIED="1617581672156" POSITION="right" TEXT="Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -611,7 +611,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" FOLDED="true" ID="ID_705980829" MODIFIED="1617447217301" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1617582018921" POSITION="right" TEXT="Candlesticks">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1185,7 +1185,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615947384914" FOLDED="true" ID="ID_1681672627" MODIFIED="1617447263281" POSITION="right" TEXT="Indicators">
+<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1617582036534" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1617154310210" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
@@ -1948,7 +1948,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615842259661" FOLDED="true" ID="ID_1574234014" MODIFIED="1617447266758" POSITION="right" TEXT="MA (Moving Average)">
+<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1617582056253" POSITION="right" TEXT="MA (Moving Average)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2321,7 +2321,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1617527804097" POSITION="right" TEXT="Momentum">
+<node CREATED="1615872139120" ID="ID_803173065" MODIFIED="1617581691660" POSITION="right" TEXT="Momentum">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2592,8 +2592,270 @@
 </html>
 </richcontent>
 </node>
+<node BACKGROUND_COLOR="#ff66ff" CREATED="1617534510962" ID="ID_367347183" MODIFIED="1617535185554" TEXT="RSI vs. Stochastic">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Strength:
+    </p>
+    <ul>
+      <li>
+        Stochastic: <b><font color="#0066ff">Best for choppy or sideway markets</font></b>: not great for trend identification, it may cause pre-mature exists
+      </li>
+      <li>
+        RSI: <font color="#0066ff"><b>Best for trending markets</b></font>
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Stochastic Oscillator and Relative Strength Index (RSI) are both:
+    </p>
+    <ul>
+      <li>
+        Widely used
+      </li>
+      <li>
+        Momentum Oscillators (0-100%)
+      </li>
+      <li>
+        Looking at overbought and oversold securities
+      </li>
+      <li>
+        Simple to use
+      </li>
+      <li>
+        Good to use to confirm other indicators
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Big difference Is In Underlying Philosophy (Calculation)
+    </p>
+    <ul>
+      <li>
+        The Stochastic Oscillator is predicated on the assumption that closing prices should close near the same direction as the current trend.
+      </li>
+      <li>
+        The RSIlis designed to measure the speed (Acceleration/Deacceleration) of price movements
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617155603665" POSITION="right" TEXT="ATR (Average True Range)">
+</node>
+<node CREATED="1617582125096" ID="ID_1955237427" MODIFIED="1617597662468" POSITION="right" TEXT="Volatility">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">Degrees (types) of Volatility (Variance):</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Abnormally Low: just before a turning point
+    </p>
+    <p>
+      + Abnormally High: at the first big thrust of a new trend
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + <b><font color="#00cc33">Type 1: Low Variance + Trending:</font></b>&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;- Very orderly, easily see the trend
+    </p>
+    <p>
+      &#160;&#160;&#160;- Best trade with highest probability for profit and lowest probability of a loss:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Better able to project the future price movement with more confidence than with a high volatility security
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Generally, hold a low volatility with trending for longer periods of time, reducing trading fees
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + <b><font color="#cccc00">Type 2: Low Variance + No Trending:</font></b><font color="#cccc00">&#160;</font>
+    </p>
+    <p>
+      &#160;&#160;&#160;- Very orderly, moving sideways, no trend
+    </p>
+    <p>
+      &#160;&#160;&#160;- Should not trade it
+    </p>
+    <p>
+      &#160;&#160;&#160;- No basis for expectation of a gain
+    </p>
+    <p>
+      &#160;&#160;&#160;- Look for better alternatives
+    </p>
+    <p>
+      &#160;&#160;&#160;- Exceptions: still no trend emerging but if bars (Trading Range) start to contract or widen that is a powerful signal that a breakout (New Trend) may be coming. Use other tools like candlestick patterns to guess the direction<br />
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + <b><font color="#00cc33">Type 3: High Variance + Trending:</font></b>&#160;
+    </p>
+    <p>
+      &#160;&#160;&#160;- Not orderly at all
+    </p>
+    <p>
+      &#160;&#160;&#160;- Trend there but not as clear or possibly as strong
+    </p>
+    <p>
+      &#160;&#160;&#160;- Can trade it, it is a trend, but increased volatility increases the potential for loss
+    </p>
+    <p>
+      &#160;&#160;&#160;- Understand that and adjust settings for execute a Stop-Loss order sooner
+    </p>
+    <p>
+      &#160;&#160;&#160;- If in a trading range, with established support and resistance levels, you can buy or sell as you approach a level
+    </p>
+    <p>
+      &#160;&#160;&#160;- Still trending but with more volatility as it moves in the direction of the trend
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + <b><font color="#cc0033">Type 4: High Variance + No Trending:</font></b><font color="#cc0033">&#160;</font>
+    </p>
+    <p>
+      &#160;&#160;&#160;- Not orderly at all
+    </p>
+    <p>
+      &#160;&#160;&#160;- No trend... so hard to predict the next price move
+    </p>
+    <p>
+      &#160;&#160;&#160;- Don't trade it!
+    </p>
+    <p>
+      &#160;&#160;- Look for something much better... something that is trending
+    </p>
+    <p>
+      &#160;&#160;&#160;- Alternative, narrow the time frame down to an intraday time frame, say 15 or 60 minute bars, and look for tradeable swings to get in and out of
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Day Trading
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Swing-Trading
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Simply a measure of price variation:
+    </p>
+    <p>
+      &#160;&#160;&#160;- High / Low over a period of time or variation away from a fixed measure
+    </p>
+    <p>
+      &#160;&#160;&#160;- Higher volatility means Higher Risk / Higher Reward
+    </p>
+    <p>
+      &#160;&#160;&#160;- Some traders like more volatile securities
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Want potential for more reward
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* More possible outcomes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + A change in volatility implies a change in the expected price range to come
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + A non-volatile security delivers a narrower range of possible outcomes than a volatile security:<br />&#160;&#160;&#160;- Ex, technology stock is generally much more volatile than a utility stock
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + The main reason to look at volatility Is to reflect the changing probability of a gain or loss
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + How Does Volatility Arise
+    </p>
+    <p>
+      &#160;&#160;&#160;- Think of volatility in terms of crowd sentiment
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Volatility rises when Traders get excited about a new move... price going to new high or new lows
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* The start of anew move is when you see higher price Highs and lower Lows
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;- Volatility tends to be:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Abnormally low just before a turning point
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* Abnormally high at the first big thrust of a new trend
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;As always, nothing is 100% perfect &quot;Noise&quot;
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Trading style matters with volatility in terms of how you look at it:
+    </p>
+    <p>
+      &#160;&#160;&#160;- Risk / Reward
+    </p>
+    <p>
+      &#160;&#160;&#160;- Timeframe: longer the time, smoother the volatility
+    </p>
+    <p>
+      &#160;&#160;&#160;- Focus of investments: Ex, technology stocks and cryptocurrency tends to attract people who like or are comfortable with volatility
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Trading mechanics: Ex, Stop-Loss level setting
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617155603665" TEXT="ATR (Average True Range)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2603,11 +2865,11 @@
       5. A security price is in a trading range
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#009966" CREATED="1615850350986" FOLDED="true" ID="ID_1625678265" MODIFIED="1617447269449" POSITION="left" TEXT="Fundamental Analysis">
+</node>
+<node BACKGROUND_COLOR="#009966" CREATED="1615850350986" FOLDED="true" ID="ID_1625678265" MODIFIED="1617581699188" POSITION="left" TEXT="Fundamental Analysis">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615850535751" ID="ID_957719759" MODIFIED="1615950111608" TEXT="Earning Report">
 <font NAME="SansSerif" SIZE="12"/>
@@ -2680,7 +2942,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615849325633" ID="ID_1613524815" MODIFIED="1616840817768" POSITION="left" TEXT="Time Frame">
+<node CREATED="1615849325633" FOLDED="true" ID="ID_1613524815" MODIFIED="1617581701864" POSITION="left" TEXT="Time Frame">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2739,7 +3001,7 @@
 </html>
 </richcontent>
 </node>
-<node BACKGROUND_COLOR="#6666ff" CREATED="1615849548108" FOLDED="true" ID="ID_289117767" MODIFIED="1617418524881" TEXT="Position (Active) Traders">
+<node BACKGROUND_COLOR="#6666ff" CREATED="1615849548108" ID="ID_289117767" MODIFIED="1617536566277" TEXT="Position (Active) Traders">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2777,7 +3039,7 @@
 </html>
 </richcontent>
 </node>
-<node BACKGROUND_COLOR="#66ccff" CREATED="1615849569100" FOLDED="true" ID="ID_868973307" MODIFIED="1617418526753" TEXT="Buy &amp; Hold Investors">
+<node BACKGROUND_COLOR="#66ccff" CREATED="1615849569100" ID="ID_868973307" MODIFIED="1617536568832" TEXT="Buy &amp; Hold Investors">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2804,7 +3066,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615869981736" ID="ID_1083419706" MODIFIED="1616840819539" POSITION="left" TEXT="Market Sentiment">
+<node CREATED="1615869981736" FOLDED="true" ID="ID_1083419706" MODIFIED="1617581704812" POSITION="left" TEXT="Market Sentiment">
 <linktarget COLOR="#ff0033" DESTINATION="ID_1083419706" ENDARROW="Default" ENDINCLINATION="-43;-251;" ID="Arrow_ID_857843581" SOURCE="ID_1321762182" STARTARROW="Default" STARTINCLINATION="-205;-26;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615870003025" ID="ID_1724346662" MODIFIED="1615950111613" TEXT="Bollinger Band">
@@ -2844,7 +3106,7 @@
 </node>
 </node>
 <node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1617242871754" POSITION="left" TEXT="Trading View Platform">
-<node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" FOLDED="true" ID="ID_253611846" MODIFIED="1617446206883" TEXT="Top Toolbar">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" FOLDED="true" ID="ID_253611846" MODIFIED="1617581711869" TEXT="Top Toolbar">
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617417465185" STYLE="fork" TEXT="Symbol">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3127,7 +3389,7 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#33ccff" CREATED="1617346028680" FOLDED="true" ID="ID_1637842746" MODIFIED="1617446195344" TEXT="Right Toolbar">
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617346028680" FOLDED="true" ID="ID_1637842746" MODIFIED="1617581713094" TEXT="Right Toolbar">
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617384179867" ID="ID_1776515588" MODIFIED="1617418376294" STYLE="fork" TEXT="Watch List">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3273,7 +3535,7 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#3399ff" CREATED="1617418283404" FOLDED="true" ID="ID_1071593058" MODIFIED="1617440329068" TEXT="Drawing Tools">
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617418283404" FOLDED="true" ID="ID_1071593058" MODIFIED="1617581715202" TEXT="Drawing Tools">
 <node BACKGROUND_COLOR="#3399ff" CREATED="1617419342124" ID="ID_820887774" MODIFIED="1617439639522" STYLE="fork" TEXT="Cursor Options">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
@@ -3409,7 +3671,7 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617445286502" FOLDED="true" ID="ID_1399453824" MODIFIED="1617447319589" TEXT="Bottom Tabs">
+<node BACKGROUND_COLOR="#3366ff" CREATED="1617445286502" FOLDED="true" ID="ID_1399453824" MODIFIED="1617581718749" TEXT="Bottom Tabs">
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617445408129" ID="ID_133094073" MODIFIED="1617447106214" STYLE="fork" TEXT="Screeners">
 <richcontent TYPE="NOTE"><html>
   <head>
