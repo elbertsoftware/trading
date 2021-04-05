@@ -2855,19 +2855,101 @@
   </body>
 </html>
 </richcontent>
-<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617155603665" TEXT="ATR (Average True Range)">
+<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617599772910" TEXT="ATR (Average True Range)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      5. A security price is in a trading range
+      <font color="#0066ff">CONFIRMATION INDICATOR, NOT THE MAJOR ONE</font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Good way to look at volatility is over the average High and Low over a period of time:
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Trading range
+    </p>
+    <p>
+      + Range Expansion
+    </p>
+    <p>
+      &#160;&#160;&#160;- High/Low getting farther apart
+    </p>
+    <p>
+      &#160;&#160;&#160;- Volatility is rising
+    </p>
+    <p>
+      &#160;&#160;&#160;- Higer Reward...Higher Risk
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Range Contraction
+    </p>
+    <p>
+      &#160;&#160;&#160;- High/Low getting closer together
+    </p>
+    <p>
+      &#160;&#160;&#160;- Volatility is reducing
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1617599836601" ID="ID_1358444407" MODIFIED="1617602614606" TEXT="Bollinger Bands">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">Simple But Powerful Calculation &amp; Chart</font></b>
+    </p>
+    <ol>
+      <li>
+        20-day Simple Moving Average (SMA) of closing prices
+      </li>
+      <li>
+        With a band on either side that is 2 standard deviations from the SMA
+      </li>
+      <li>
+        Bands show relative Highs and Lows incontext of the Moving Average
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      In effect, the bands are moving standard deviations
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#0066ff">Walking Up or Down The Band </font></b>
+    </p>
+    <ol>
+      <li>
+        When bands contract that can show traders are indecisive, not willing to go to new highs or new lows either
+      </li>
+      <li>
+        The narrowing of the trading range, Bollinger Bands gets closer together, is called The Squeeze, and implies an impending breakout (Higher/Lower). Get ready, something may be about to happen (New trend)
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617599865778" ID="ID_677901973" MODIFIED="1617599874679" TEXT="Fibonacci"/>
 </node>
 <node BACKGROUND_COLOR="#009966" CREATED="1615850350986" FOLDED="true" ID="ID_1625678265" MODIFIED="1617581699188" POSITION="left" TEXT="Fundamental Analysis">
 <font NAME="SansSerif" SIZE="12"/>
