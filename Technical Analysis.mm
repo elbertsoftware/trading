@@ -3062,135 +3062,6 @@
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-7;59;" ID="Arrow_ID_968318467" STARTARROW="Default" STARTINCLINATION="-285;0;"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#339900" CREATED="1617650288186" ID="ID_1299652299" MODIFIED="1617688683071" POSITION="right" TEXT="Combo">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Should pick a primary indicator (finding opportunity), then use another indicator as secondary confirmation (confirming the primary is good too) since it is less likely for false signal and avoids conflict among multiple tools
-    </p>
-    <p>
-      3rd and 4ht confirmation tools might be OK but no more than 4
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      + <b><font color="#0066ff">&#160;</font></b><font color="#000000">Should not measure the same &quot;thing&quot;, they should be in different categories / families (Moving Average, Momentum, Volatility, Candlestick Patterns) </font>
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      + Choose ahead of time:
-    </p>
-    <p>
-      &#160;&#160;&#160;- How much ephsis you put on your Secondary Indicator
-    </p>
-    <p>
-      &#160;&#160;&#160;- Put strengh measure behind that 2nd Indicator:
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;* <b><font color="#009900">Green</font></b>: Go-Take action
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;* <b><font color="#cc0033">Red</font></b>: Stop-Confirmation not approved
-    </p>
-    <p>
-      &#160;&#160;&#160;&#160;&#160;* <b><font color="#ffcc00">Yellow</font></b>: Warning
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      + Be disciplined, follow the plan
-    </p>
-    <p>
-      &#160;&#160;&#160;- Once you establish your &quot;Rules&quot;, don't change change them to make something fit
-    </p>
-    <p>
-      &#160;&#160;&#160;- Don't change parameters, like timeframe, to make things fit
-    </p>
-    <p>
-      &#160;&#160;&#160;- Can adjust the plan later and that would be the <b><u>new plan</u></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-<node BACKGROUND_COLOR="#ffcc00" CREATED="1617686439222" ID="ID_1372163944" MODIFIED="1617686968533" TEXT="Unusual Opportunities">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      + Gap
-    </p>
-    <p>
-      + Candlestick patterns
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      Be disciplined but should look at another indicator to confirm is not a bad idea:
-    </p>
-    <p>
-      + Wait for the trend developed
-    </p>
-    <p>
-      + Put extra money to follow the opportunity as an separate plan from your original plan
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node CREATED="1617688343417" ID="ID_353743595" MODIFIED="1617688378111" TEXT="MA Crossover + RSI + BB"/>
-<node CREATED="1617688381257" ID="ID_1380484591" MODIFIED="1617688710287" TEXT="Patterns + RSI + MACD"/>
-<node CREATED="1617688542344" ID="ID_853798811" MODIFIED="1617688721335" TEXT="Patterns + Ascending Triangles or Flag + Volume"/>
-<node CREATED="1617688578946" ID="ID_160667665" MODIFIED="1617688728085" TEXT="Patterns + Moving Average"/>
-<node CREATED="1617689204725" ID="ID_783873146" MODIFIED="1617689412449" TEXT="Conquistador">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Rules Based Trading: Multiple Time Frames To Confirm &quot;Conquistador&quot; (Author Bruce Babcock)
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      <b><font color="#00cc00">Buy when</font></b>:
-    </p>
-    <ul>
-      <li>
-        Todays Close is above the 10-day Moving Average (MA)
-      </li>
-      <li>
-        Todays 10-day MA is over the 10-day MA ten days ago and
-      </li>
-      <li>
-        Todays Close Is above the Close 40 days ago
-      </li>
-    </ul>
-    <p>
-      
-    </p>
-    <p>
-      Goal: Staying out of a sideways market
-    </p>
-    <p>
-      Downside: Out of the market a lot more
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 <node BACKGROUND_COLOR="#009966" CREATED="1615850350986" ID="ID_1625678265" MODIFIED="1617688827154" POSITION="left" TEXT="Fundamental Analysis">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615850535751" ID="ID_957719759" MODIFIED="1615950111608" TEXT="Earning Report">
@@ -3438,7 +3309,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1617688827184" POSITION="left" TEXT="Trading View Platform">
+<node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" FOLDED="true" ID="ID_1648067558" MODIFIED="1617776162349" POSITION="left" TEXT="Trading View Platform">
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" ID="ID_253611846" MODIFIED="1617688827191" TEXT="Top Toolbar">
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617417465185" STYLE="fork" TEXT="Symbol">
 <richcontent TYPE="NOTE"><html>
@@ -4966,6 +4837,399 @@
   </body>
 </html>
 </richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#9966ff" CREATED="1617776091830" ID="ID_1336633593" MODIFIED="1617776134953" POSITION="left" TEXT="Trading Strategy">
+<node BACKGROUND_COLOR="#339900" CREATED="1617650288186" ID="ID_1299652299" MODIFIED="1617776190494" TEXT="Measurements">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Should pick a primary indicator (finding opportunity), then use another indicator as secondary confirmation (confirming the primary is good too) since it is less likely for false signal and avoids conflict among multiple tools
+    </p>
+    <p>
+      3rd and 4ht confirmation tools might be OK but no more than 4
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + <b><font color="#0066ff">&#160;</font></b><font color="#000000">Should not measure the same &quot;thing&quot;, they should be in different categories / families (Moving Average, Momentum, Volatility, Candlestick Patterns) </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Choose ahead of time:
+    </p>
+    <p>
+      &#160;&#160;&#160;- How much ephsis you put on your Secondary Indicator
+    </p>
+    <p>
+      &#160;&#160;&#160;- Put strengh measure behind that 2nd Indicator:
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* <b><font color="#009900">Green</font></b>: Go-Take action
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* <b><font color="#cc0033">Red</font></b>: Stop-Confirmation not approved
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;* <b><font color="#ffcc00">Yellow</font></b>: Warning
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Be disciplined, follow the plan
+    </p>
+    <p>
+      &#160;&#160;&#160;- Once you establish your &quot;Rules&quot;, don't change change them to make something fit
+    </p>
+    <p>
+      &#160;&#160;&#160;- Don't change parameters, like timeframe, to make things fit
+    </p>
+    <p>
+      &#160;&#160;&#160;- Can adjust the plan later and that would be the <b><u>new plan</u></b>
+    </p>
+  </body>
+</html></richcontent>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1617686439222" ID="ID_1372163944" MODIFIED="1617686968533" TEXT="Unusual Opportunities">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      + Gap
+    </p>
+    <p>
+      + Candlestick patterns
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Be disciplined but should look at another indicator to confirm is not a bad idea:
+    </p>
+    <p>
+      + Wait for the trend developed
+    </p>
+    <p>
+      + Put extra money to follow the opportunity as an separate plan from your original plan
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617688343417" ID="ID_353743595" MODIFIED="1617688378111" TEXT="MA Crossover + RSI + BB"/>
+<node CREATED="1617688381257" ID="ID_1380484591" MODIFIED="1617688710287" TEXT="Patterns + RSI + MACD"/>
+<node CREATED="1617688542344" ID="ID_853798811" MODIFIED="1617688721335" TEXT="Patterns + Ascending Triangles or Flag + Volume"/>
+<node CREATED="1617688578946" ID="ID_160667665" MODIFIED="1617688728085" TEXT="Patterns + Moving Average"/>
+<node CREATED="1617689204725" ID="ID_783873146" MODIFIED="1617689412449" TEXT="Conquistador">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Rules Based Trading: Multiple Time Frames To Confirm &quot;Conquistador&quot; (Author Bruce Babcock)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#00cc00">Buy when</font></b>:
+    </p>
+    <ul>
+      <li>
+        Todays Close is above the 10-day Moving Average (MA)
+      </li>
+      <li>
+        Todays 10-day MA is over the 10-day MA ten days ago and
+      </li>
+      <li>
+        Todays Close Is above the Close 40 days ago
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Goal: Staying out of a sideways market
+    </p>
+    <p>
+      Downside: Out of the market a lot more
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node BACKGROUND_COLOR="#339900" CREATED="1617786145795" ID="ID_238778624" MODIFIED="1617787243545" TEXT="RSI + Stochastic + MACD">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Timeframe: 1D
+    </p>
+    <p>
+      RSI(7,close)
+    </p>
+    <p>
+      Stochastic(14,3,3)
+    </p>
+    <p>
+      MACD(12,26,close,9)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Buy: OK signal from ALL 3 indicators:
+    </p>
+    <ol>
+      <li>
+        RSI <b><u>above</u></b>&#160;50-line
+      </li>
+      <li>
+        Stochastic <b><u>above</u></b>&#160;50-line
+      </li>
+      <li>
+        MACD line <b><u>above</u></b>&#160;Signal line
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <b>Sell: </b>ONE or MORE indicators show <b><u>opposite</u></b>&#160;sign
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#999999" CREATED="1617776199169" ID="ID_1857100699" MODIFIED="1617785394302" TEXT="Selective Trading Timing">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      $500 You Have Designated Total For An Individual Trade:
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        $200: Indicator #1 and #2 met
+      </li>
+      <li>
+        $100: Indicator #3 met
+      </li>
+      <li>
+        $100: Indicator #4 met
+      </li>
+      <li>
+        $100: Indicator #5 met
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Get indication that the Trend Is Ending...you exit all <b><u><font color="#cc0033">at once</font></u></b>&#160; to protect your gain
+    </p>
+  </body>
+</html>
+</richcontent>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1857100699" ENDARROW="Default" ENDINCLINATION="102;0;" ID="Arrow_ID_1020900555" SOURCE="ID_1380232285" STARTARROW="None" STARTINCLINATION="102;0;"/>
+</node>
+<node BACKGROUND_COLOR="#ff3333" CREATED="1617776530663" ID="ID_1369495998" MODIFIED="1617781235458" TEXT="Setup Trading">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">How it works:</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Identify Candlestick Setup Fast
+    </p>
+    <p>
+      &#160;&#160;&#160;- Big move in first few minutes
+    </p>
+    <p>
+      &#160;&#160;&#160;- Buy in early
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Followed by additional move in the same direction
+    </p>
+    <p>
+      &#160;&#160;&#160;- Others come in as demand keeps rising
+    </p>
+    <p>
+      &#160;&#160;
+    </p>
+    <p>
+      + Sell:
+    </p>
+    <p>
+      &#160;&#160;&#160;- In early and out early
+    </p>
+    <p>
+      &#160;&#160;&#160;- Do over and over
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#0066ff">Setup Trading: Good candicate for automation</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Set Predetermined Trading Rules
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + <b><font color="#009900">Buy:</font></b>
+    </p>
+    <p>
+      &#160;&#160;&#160;- Establish Price Range in first X minutes of trading (Ex $100 - $105)
+    </p>
+    <p>
+      &#160;&#160;&#160;- Get in when above range at a predetermined target ($107)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + <b><font color="#cc0033">Sell: </font></b>
+    </p>
+    <p>
+      &#160;&#160;&#160;- May not get a sell signal
+    </p>
+    <p>
+      &#160;&#160;&#160;- May stay for few minutes, few hours, or by the end of the day
+    </p>
+    <p>
+      &#160;&#160;&#160;- Predetermined profit amount: X% of profit and reasonable Stop-Loss
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1617779838427" ID="ID_992993245" MODIFIED="1617780264355" TEXT="Guerilla">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">Guerilla Setup Trading</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Follow news announcements that people will react to: Use TradingView Calendar feature
+    </p>
+    <p>
+      &#160;&#160;&#160;- Earnings Announcements
+    </p>
+    <p>
+      &#160;&#160;&#160;- Government Policy Announcements
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Watch market response:
+    </p>
+    <p>
+      &#160;&#160;&#160;- Only indicator is the price
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Immediately pounce!
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Get out in a few minutes
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      + Sometimes can do this multiple times on the same announcement as the market processes the news
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#00ccff" CREATED="1617781163914" ID="ID_1838155814" MODIFIED="1617784843850" TEXT="Trade Management">
+<node CREATED="1617784824458" ID="ID_1855780483" MODIFIED="1617784861329" TEXT="Risk Profile">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Conservative
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617784863320" ID="ID_1380232285" MODIFIED="1617788302643" TEXT="Trading Plan">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">5&#160;Key Steps:</font></b>
+    </p>
+    <ol>
+      <li>
+        Determine if a trend exists
+      </li>
+      <li>
+        Rule for opening a position. Ex: By when the 20-day SMA crosses the 200-day SMA and I confirm that with the MACD
+      </li>
+      <li>
+        Manage money at risk by scaling up or down: Increase funds in currently winning trades and withdraw from the poorer performers. Ex: Selective Trading Timing
+      </li>
+      <li>
+        Establish rule for closing a position. Set Stop-Loss and Target-Profit. Ex: Sell everything when price crosses below the 20-day SMA
+      </li>
+      <li>
+        Do it again: new security or re-entry the same one
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1857100699" ENDARROW="Default" ENDINCLINATION="102;0;" ID="Arrow_ID_1020900555" STARTARROW="None" STARTINCLINATION="102;0;"/>
+</node>
 </node>
 </node>
 </node>
