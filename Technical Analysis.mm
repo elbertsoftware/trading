@@ -5230,6 +5230,331 @@
 </richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1857100699" ENDARROW="Default" ENDINCLINATION="102;0;" ID="Arrow_ID_1020900555" STARTARROW="None" STARTINCLINATION="102;0;"/>
 </node>
+<node CREATED="1617846811800" ID="ID_1505071590" MODIFIED="1617848094082" TEXT="Maximize Profit">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">Set A% of The Range Target</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        Figure out the average high-low range over certain number of trading periods (Ex, 20-days, X hours, Y weeks)
+      </li>
+      <li>
+        Using Indicators, assume you are trying to buy in at or near the low end of the range
+      </li>
+      <li>
+        Determine % of the range want to reach to capture profit (Ex, 50%). Since buying at low end more upside
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      Example:
+    </p>
+    <p>
+      * Over 20 periods High is $150 and Low is $130
+    </p>
+    <p>
+      * Range is $20 = (150-130)
+    </p>
+    <p>
+      * 50% of the range is $10 (20*.50)
+    </p>
+    <p>
+      * Sell at $140 ($130+$10)
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Benefit: Have a clear sell target
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Challenge:
+    </p>
+    <p>
+      * Range can widen (Aimed to low) or narrow (target to ambitious)
+    </p>
+    <p>
+      * Temporary pullback, that does not cause a Stop-Loss, can make your range goal harder to hit
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#0066ff">Measured Move Patterns</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        Some Indicator patterns have built in forecasting (Ascending triangle, Support/Resistance Lines)
+      </li>
+      <li>
+        Set target price based on the pattern continuation
+      </li>
+      <li>
+        Benefit: Indicator driven
+      </li>
+      <li>
+        Challenge: Limited to those patterns
+      </li>
+    </ol>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1617848550621" ID="ID_1519456286" MODIFIED="1617874494042" TEXT="Mimimize Loss">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#0066ff">Stop-Loss Order</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        It is an <b><u>order</u></b>&#160;you put in place with a trading platform to <b><u>automatically</u></b>&#160;exit a trade if it goes <b><u>against</u></b>&#160;you by a <b><u>certain amount</u></b>
+      </li>
+      <li>
+        It is your input of an amount <b><u>below the current market price</u></b>&#160;(Buyers)
+      </li>
+      <li>
+        It is placed at the <b><u>same time</u></b>&#160;you place your buy order
+      </li>
+      <li>
+        Always put Stop-Loss except in holding long position optionally
+      </li>
+      <li>
+        Stop-Loss should be adjusted along with market watch
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      <b><font color="#0066ff">Stop-Loss Strategies</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      1). <b><font color="#ff9900">2% Rules</font></b>&#160;(popularized in the book &quot;The Way of the Turtle&quot; by Curtis Faith
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;+ Stop a loss when it reaches 2% of starting equity (available to trade):
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- Trading equity or Investment Capital
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;+ Does not sound like much but if trading many securities over short time frames, it can add up fast
+    </p>
+    <p>
+      &#160;
+    </p>
+    <p>
+      Ex: You have $10,000 starting equity =&gt; 2% = $200
+    </p>
+    <p>
+      You can afford to lose and would set your Stop-Loss at a $200 loss on each trade
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      2). <b><font color="#ff9900">Risk Reward Ratio </font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;+ Relationship of expected gain to expected loss: the higher the Risk/Reward ratio, the more desirable the trade
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Ex: Security is priced at $50
+    </p>
+    <ul>
+      <li>
+        Indicators say potential gain is to price of $75 (Make +$25)
+      </li>
+      <li>
+        Set stop at % below initial price. Let say you are willing to lose 20% = $10 loss (50*.2)
+      </li>
+      <li>
+        Set Stop-Loss at $40 ($50-$10)
+      </li>
+      <li>
+        In essence, willing to lose $10 in order to make $25
+      </li>
+      <li>
+        Ratio is thus $25 reward: $10 risk or <b>2.5 : 1</b>&#160;(Yes, actually backwards...should be called Reward Risk ratio)
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Be conservative in using this type of ratio. Emphasize downside risk more
+    </p>
+    <p>
+      Can be complex to calculate
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      3). <b><font color="#ff9900">Maximum Adverse Excursion (MAE)</font></b><font color="#000000">&#160;- Developed by John Sweeney </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#000000">Looking at worst-case loss that can occur over trade's timeframe </font>
+    </p>
+    <ul>
+      <li>
+        <font color="#000000">Calculate the biggest change in the High-Low range over a fixed period (Ex, 20 days) that matches your usual holding period </font>
+      </li>
+      <li>
+        <font color="#000000">Get results from Back testing Systems on your trading platform </font>
+      </li>
+      <li>
+        <font color="#000000">Use a %or fixed amount to set the stop loss </font>
+      </li>
+      <li>
+        <font color="#000000">Opposite is the Maximum Favorable Excursion (MFE). Can be used for profit taking targets</font>
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      4). <b><font color="#ff9900">Trailing Stops </font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      You raise the Stop-Loss price as you make profits
+    </p>
+    <ul>
+      <li>
+        % basis or fixed amount
+      </li>
+      <li>
+        Frequently (Daily?) updating to capture some profit. Ex, raise stop to cover 80% of the previous days gain
+      </li>
+      <li>
+        Key is to keep the Stops updated to protect gains and guard against losses at the same time
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Benefit:
+    </p>
+    <ul>
+      <li>
+        Highly protective
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Downside:
+    </p>
+    <ul>
+      <li>
+        Frequent updating takes time
+      </li>
+      <li>
+        Random &quot;Noise&quot; activity can activate your stop and get you out before you want
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      5). <b><font color="#ff9900">Last 3-Day Rule </font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Very basic but follows along the line of Indicators and market sentiment as well:
+    </p>
+    <ul>
+      <li>
+        Idea is that if your analysis works, trend identified, you should start seeing some profit right away. If not, then time to get out.
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      You exit if the Price passes the lowest Low of the last 3 days.
+    </p>
+    <ul>
+      <li>
+        Uptrend would be a series of higher Highs that does not seem to be happening
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      6). <b><font color="#ff9900">Pattern Stops</font></b>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Indicator Patterns are telling you where to put stops
+    </p>
+    <p>
+      Breaking of support or resistance lines
+    </p>
+    <p>
+      Like using for Profit Target, just opposite
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Example,
+    </p>
+    <p>
+      Buy near a Support Level (Anticipate price rise) but put a Stop Loss below the Support price line in case downward trend breaks through that level
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
