@@ -5555,7 +5555,158 @@
 </html>
 </richcontent>
 </node>
+<node CREATED="1617874565035" ID="ID_1947280979" MODIFIED="1617875700554" TEXT="Adjust Position">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Changing the amount of investing in an existing position when the asset goes up or down
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      1). <b><font color="#0066ff">Scaling In (Increase Position):</font></b>
+    </p>
+    <ul>
+      <li>
+        Adding more money to a position
+      </li>
+      <li>
+        Increase risk and reward
+      </li>
+      <li>
+        Risk appetite changed
+      </li>
+      <li>
+        Pyramiding:<br />- Have some built-in profits already<br />- Add funds and adjust Stop-Loss to protect gains<br />
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      2). <b><font color="#0066ff">Scaling Out (Reduce Position):</font></b>
+    </p>
+    <ul>
+      <li>
+        Taking&#160;money out of a position
+      </li>
+      <li>
+        Reduces risk, maybe miss out
+      </li>
+      <li>
+        Money management
+      </li>
+      <li>
+        Reduces exposure prior to a big news announcement
+      </li>
+      <li>
+        Use money for another more attractive trade
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
+<node CREATED="1617875680936" ID="ID_912552923" MODIFIED="1617875908290" TEXT="Track Results">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>It's Your Scorecard:</b>
+    </p>
+    <ul>
+      <li>
+        Are You Winning or Losing
+      </li>
+      <li>
+        Win/Loss %
+      </li>
+      <li>
+        Actual Money Amounts
+      </li>
+      <li>
+        Give enough time or number of trades for validity
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <b>Track Every Trade:</b>
+    </p>
+    <ul>
+      <li>
+        Gives You Data
+      </li>
+      <li>
+        Outlier trade outside your norm track separately
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1617876609178" ID="ID_1441307469" MODIFIED="1617878288551" TEXT="Expectancy Ratio">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Based on each set of indicators you are using
+    </p>
+    <p>
+      How much can you expect to make on each trade
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="#0066ff">Expectancy Ratio</font>&#160;= [<font color="#009900">(Average Profit Per Winning Trade)</font>&#160;x <font color="#009900">(Winning Trade %)</font>] - [<font color="#cc0033">(Average Loss Per Losing Trade)</font>&#160;x <font color="#cc0033">(Losing Trade %)</font>]
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Example:
+    </p>
+    <ol>
+      <li>
+        Indicator Set #1: <font color="#009900">($800 x 35%)</font>&#160;- <font color="#cc0033">($400 x 65%)</font>&#160;= $280 - $260 = <font color="#0066ff">$20</font>
+      </li>
+      <li>
+        Indicator Set #2: <font color="#009900">($600 x 55%)</font>&#160;- <font color="#cc0033">($300 x 45%)</font>&#160;= $330 - $135 = <font color="#0066ff">$195</font>
+      </li>
+    </ol>
+    <p>
+      
+    </p>
+    <p>
+      If I make trades using Indicator Set #2:
+    </p>
+    <ul>
+      <li>
+        100 trades: I can expect to make $19,500
+      </li>
+      <li>
+        300 trades: I can expect to make $58,500
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1617878293514" ID="ID_203135624" MODIFIED="1617878312480" TEXT="Order Type"/>
 </node>
 </node>
 </map>
