@@ -5706,7 +5706,351 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffcc00" CREATED="1617878293514" ID="ID_203135624" MODIFIED="1617878312480" TEXT="Order Type"/>
+<node BACKGROUND_COLOR="#ffcc00" CREATED="1617878293514" ID="ID_203135624" MODIFIED="1617878312480" TEXT="Order Type">
+<node BACKGROUND_COLOR="#33ff00" CREATED="1617954474926" ID="ID_1121117939" MODIFIED="1617954508156" TEXT="Buy Order">
+<node BACKGROUND_COLOR="#cc99ff" CREATED="1617946650624" ID="ID_396064639" MODIFIED="1617958358516" TEXT="Market Order">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        The simplest and most common
+      </li>
+      <li>
+        Indicates you are willing to take whatever price is presented to you when your order is executed
+      </li>
+      <li>
+        Can be a <b><u>little higher or lower than expected</u></b>
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<linktarget COLOR="#ff0033" DESTINATION="ID_396064639" ENDARROW="Default" ENDINCLINATION="186;0;" ID="Arrow_ID_1615585542" SOURCE="ID_526334180" STARTARROW="None" STARTINCLINATION="186;0;"/>
+</node>
+<node BACKGROUND_COLOR="#ff66ff" CREATED="1617946765703" ID="ID_1090208818" MODIFIED="1617958386045" TEXT="Limit Order">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Allows you to limit either the maximum price you will pay or the minimum price you are willing to accept when buying or selling a security:
+    </p>
+    <ul>
+      <li>
+        The primary difference between a market order and a limit order is that a limit order may not be executed if the targeted limit price is never reached
+      </li>
+      <li>
+        Limit orders are executed in the order in which they are received. Possibly order not executed if price hits the limit target and then moves above/below it quickly before order executed
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+<linktarget COLOR="#ff0033" DESTINATION="ID_1090208818" ENDARROW="Default" ENDINCLINATION="188;0;" ID="Arrow_ID_391080523" SOURCE="ID_119897448" STARTARROW="None" STARTINCLINATION="188;0;"/>
+</node>
+<node CREATED="1617949117386" ID="ID_1282720240" MODIFIED="1617949314464" TEXT="AON (All-Or-None)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Want to purchase a substantial amount of a security, it may take a while for the order to be fully completed and so you might end up paying different prices for different parts of the order.
+      </li>
+      <li>
+        An all-or-none (AON) order, requires the security to be purchased in a single transaction or not at all.
+      </li>
+      <li>
+        However, that also means your order may not be executed at all if there are not enough shares available to fulfill it.
+      </li>
+      <li>
+        Order stays open until you cancel it or it is executed
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617949341334" ID="ID_1948443302" MODIFIED="1617949645199" TEXT="FOK (Fill-Or-Kill)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        A fill-or-kill (FOK) order must be <b><u>filled immediately in its entirety</u></b>&#160;or it is killed (canceled).
+      </li>
+      <li>
+        Thus, fill-or-kill (FOK) orders may never be partially executed.
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617949371344" ID="ID_1122269346" MODIFIED="1617949711030" TEXT="IOC (Immediate-Or-Cancel)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        The key difference between this kind of trade order and the FOK is that this order <b><u>allows partial amounts</u></b>&#160;of the order to be completed.
+      </li>
+      <li>
+        When shares are no longer available at the limit or a better price, buying or selling ends immediately and the order is canceled.
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617949909705" ID="ID_1618812207" MODIFIED="1617950191057" TEXT="Day Order">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        They are good only until the end of the regular trading day at which point they are canceled if not filled.
+      </li>
+      <li>
+        All market orders are placed as day orders.
+      </li>
+    </ul>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1617950193174" ID="ID_1582613217" MODIFIED="1617950294420" TEXT="GTC (Good-Till-Canceled)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A GTC order remains open until 1 of 3 things occurs:
+    </p>
+    <p>
+      
+    </p>
+    <ol>
+      <li>
+        It is completely filled.
+      </li>
+      <li>
+        You cancel the order
+      </li>
+      <li>
+        A certain time period that's determined by your online broker has passed.
+      </li>
+    </ol>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#ff9999" CREATED="1617953247091" ID="ID_836539046" MODIFIED="1617953774760" TEXT="Short Sell Order">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Selling Short or 'Shorting'&#160;&#160;is a practice that can enable you to profit if you can correctly predict that the price of a security <b><u>you don't own</u></b>&#160;will fall
+    </p>
+    <p>
+      &#160;
+    </p>
+    <p>
+      Example,
+    </p>
+    <ul>
+      <li>
+        You think security is overvalued at a price of $12.50.
+      </li>
+      <li>
+        You then sell borrowed shares at $12.50, the price you believe to be inflated.
+      </li>
+      <li>
+        You enter a short sell order for 1,000 shares, borrowing the $12,500 worth of shares (1,000 shares x $12.50 each) from your broker
+      </li>
+      <li>
+        Selling them on the open market, andcollecting the cash.
+      </li>
+      <li>
+        If the stock price does indeed fall, you can use the next type of order to complete your short sale and make a profit.
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node BACKGROUND_COLOR="#33ff00" CREATED="1617953433814" ID="ID_338437128" MODIFIED="1617953873416" TEXT="Buy to Cover Order">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Let's say the security did as you predicted and fell to $10.50 per share:
+    </p>
+    <ul>
+      <li>
+        You would place what's known as a buy to cover order to complete the short sale.
+      </li>
+      <li>
+        Your buy to cover order would repurchase the 1,000 shares for $10,500 and return the borrowed shares to your online broker.
+      </li>
+      <li>
+        Because you bought the shares for $2,000 less than you sold them for, you will have made a $2,000 gain.
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node BACKGROUND_COLOR="#ffcc99" CREATED="1617954251871" ID="ID_1083395197" MODIFIED="1617954411830" TEXT="Considerations">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Important Considerations With Short Selling:
+    </p>
+    <p>
+      
+    </p>
+    <ul>
+      <li>
+        In order to sell short, you must have Margin Privileges in your brokerage account. That means you can trade with more money than you have in your account if you wish. &quot;Buying on margin&#8221; is in effect borrowing.
+      </li>
+      <li>
+        You must maintain enough purchasing power in your account to carry out a buy to cover order on your short sale.
+      </li>
+      <li>
+        If the price of your shorted stock actually increases, doing the opposite of what you thought, and you don't have enough money in your account to buy the shares back at the higher price (Take a Loss), &#8212;a demand by your broker to put more cash or securities in your account to be able to cover the trade.
+      </li>
+      <li>
+        Borrowing money on margin (Leverage) either accelerate gains or accelerate losses
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Example,
+    </p>
+    <ul>
+      <li>
+        In 2020 Many people thought that Tesla (TSLA) stock was way overpriced so they &quot;Shorted&quot; the stock
+      </li>
+      <li>
+        In 2020 Tesla (TSLA) shares rose about 700%
+      </li>
+      <li>
+        Led to headlines like this &quot;Tesla short-sellers have lost more than $39 billion betting against the stock in 2020&quot;
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node BACKGROUND_COLOR="#cc0033" COLOR="#ccccff" CREATED="1617954450440" ID="ID_1781635646" MODIFIED="1617960534775" TEXT="Stop Order">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1617954594551" ID="ID_526334180" MODIFIED="1617959445950" TEXT="Stop Loss">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        A stop order automatically converts into a <b><u>market sell order</u></b>&#160;when a predetermined price, the stop price, is reached.
+      </li>
+      <li>
+        At that point, the ordinary rules of market orders apply: the order is guaranteed to be executed, but you won&#8217;t know the exact price.
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_396064639" ENDARROW="Default" ENDINCLINATION="186;0;" ID="Arrow_ID_1615585542" STARTARROW="None" STARTINCLINATION="186;0;"/>
+</node>
+<node CREATED="1617954599262" ID="ID_119897448" MODIFIED="1617959457231" TEXT="Stop Limit">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        In contrast, a stop limit order automatically converts into a <b><u>limit sell order</u></b>&#160;when the stop price is reached.
+      </li>
+      <li>
+        Minimum price you are willing to accept when selling a security
+      </li>
+      <li>
+        As with other limit orders, your stop limit order may or may not be executed depending upon the price movement of the security.
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1090208818" ENDARROW="Default" ENDINCLINATION="188;0;" ID="Arrow_ID_391080523" STARTARROW="None" STARTINCLINATION="188;0;"/>
+</node>
+<node CREATED="1617954603314" ID="ID_116580370" MODIFIED="1617960141327" TEXT="Stop Trailing">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        One way to protect gains and limit losses automatically is by placing a trailing stop order.
+      </li>
+      <li>
+        With this kind of order, you set a stop price as either a <b><u>fixed amount</u></b>&#160;or <b><u>a percentage</u></b>&#160;of the <b><u>current market price</u></b>.
+      </li>
+      <li>
+        If the security's price does what you hope it would do, your order will sit there (Unexecuted) and automatically adjust upwards as the price increases!
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node BACKGROUND_COLOR="#99ccff" CREATED="1617960504984" ID="ID_1023482656" MODIFIED="1617960745593" TEXT="Bracketed Order">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Bracketed orders go one step further than trailing stop orders:
+    </p>
+    <ul>
+      <li>
+        Just like the trailing type of order, with a bracketed order, you set a trailing stop as either a percentage or fixed amount below the security price.
+      </li>
+      <li>
+        However, you can also establish an upper limit (Take Profit)&#160;&#160;that, when reached, will result in the stock being sold.
+      </li>
+      <li>
+        In effect, setting a profit target and downside loss protection at the same time in one order
+      </li>
+      <li>
+        Not all trading platform offer bracketed order type
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 </map>
