@@ -27,8 +27,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1617688827117" POSITION="right" TEXT="OHLC">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
@@ -656,8 +655,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616298735430" ID="ID_1361277791" MODIFIED="1617688752639" TEXT="Doji">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1692,8 +1690,7 @@
       <font color="#cc0000">Check out subfolder &quot;8. &quot;Patterns&quot; for examples</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616849312090" ID="ID_525602336" MODIFIED="1617688827141" TEXT="Continuation">
 <node CREATED="1616814880611" ID="ID_268401058" MODIFIED="1616819487839" STYLE="bubble" TEXT="Triangle">
 <richcontent TYPE="NOTE"><html>
@@ -1942,8 +1939,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1969,8 +1965,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_542127982" ENDARROW="Default" ENDINCLINATION="-269;0;" ID="Arrow_ID_1890100150" STARTARROW="Default" STARTINCLINATION="-5;-20;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1616907774679" ID="ID_176322901" MODIFIED="1617688827146" TEXT="SMA (Simple MA)">
@@ -1991,8 +1986,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1615842275720" ID="ID_1733555371" MODIFIED="1616909240871" TEXT="Crossover">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2025,8 +2019,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1615842298200" ID="ID_1316263612" MODIFIED="1617154323389" TEXT="Whipsaws">
@@ -2053,8 +2046,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="121;-2;" ID="Arrow_ID_1423119080" SOURCE="ID_335297622" STARTARROW="Default" STARTINCLINATION="216;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -2088,8 +2080,7 @@
       Can call the end of a trend faster than the Crossover rule
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1616997471726" ID="ID_10127478" MODIFIED="1616998167811" TEXT="WMA (Weighted MA)">
@@ -2110,8 +2101,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616997633210" ID="ID_661889823" MODIFIED="1616998193556" TEXT="EMA (Exponential MA)">
 <richcontent TYPE="NOTE"><html>
@@ -2134,8 +2124,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1616997658554" ID="ID_335297622" MODIFIED="1617688827147" TEXT="AMA (Adaptive MA)">
 <richcontent TYPE="NOTE"><html>
@@ -2155,8 +2144,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1316263612" ENDARROW="Default" ENDINCLINATION="121;-2;" ID="Arrow_ID_1423119080" STARTARROW="Default" STARTINCLINATION="216;0;"/>
 <node CREATED="1616998712127" ID="ID_422356093" MODIFIED="1616998904625" TEXT="KAMA (Kaufman AMA)">
 <richcontent TYPE="NOTE"><html>
@@ -2198,8 +2186,7 @@
       More &quot;Daylight&quot; (space between the 2 MAs), more confidence the signal is correct
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617032845303" ID="ID_26114584" MODIFIED="1617046210091" TEXT="MACD">
 <richcontent TYPE="NOTE"><html>
@@ -2248,8 +2235,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617047168998" ID="ID_1450506019" MODIFIED="1617688827150" TEXT="&quot;Magic&quot; MAs">
 <node CREATED="1617047190863" ID="ID_1823146542" MODIFIED="1617047246970" TEXT="20 days">
@@ -2262,8 +2248,7 @@
       Number of trading days per month
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617047201557" ID="ID_831401472" MODIFIED="1617047290169" TEXT="5 days">
 <richcontent TYPE="NOTE"><html>
@@ -2275,8 +2260,7 @@
       Number of trading days per week
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617047208780" ID="ID_176250888" MODIFIED="1617688827151" TEXT="50 days">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_689776620" ENDARROW="Default" ENDINCLINATION="-45;0;" ID="Arrow_ID_1512802905" STARTARROW="Default" STARTINCLINATION="-45;0;"/>
@@ -2298,8 +2282,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617047580924" ID="ID_1957340388" MODIFIED="1617047850617" TEXT="Golden Cross">
 <richcontent TYPE="NOTE"><html>
@@ -2311,8 +2294,7 @@
       When the MA(50) crossing <b><font color="#ff9900">ABOVE</font></b>&#160;the MA(200): Wider Bull market
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1617047213173" ID="ID_1276332823" MODIFIED="1617047216266" TEXT="100 days"/>
@@ -2429,8 +2411,7 @@
       &#160;&#160;&#160;&#160;&#160;* Opportunity cost by delaying for 2% to be in place
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1617154609290" ID="ID_5820406" MODIFIED="1617523037813" TEXT="ROC (Rate Of Change)">
 <richcontent TYPE="NOTE"><html>
@@ -2453,8 +2434,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1615872292824" ID="ID_1912008869" MODIFIED="1617529562051" TEXT="RSI (Relative Strength Index)">
 <richcontent TYPE="NOTE"><html>
@@ -2525,8 +2505,7 @@
       <b>Note:</b>&#160;when trends are strong, stocks can be overbought/oversold for longer periods of time
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1617155609562" ID="ID_874655572" MODIFIED="1617534015341" TEXT="Stochastic Oscillator">
@@ -2589,8 +2568,7 @@
       + <b><font color="#009900">Buy</font></b>: When <b><font color="#009900">%K</font></b>&#160;crosses <b><font color="#009900">above</font></b>&#160;<b><font color="#009900">%D</font></b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ff66ff" CREATED="1617534510962" ID="ID_367347183" MODIFIED="1617535185554" TEXT="RSI vs. Stochastic">
 <richcontent TYPE="NOTE"><html>
@@ -2647,8 +2625,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1617582125096" ID="ID_1955237427" MODIFIED="1617688004705" POSITION="right" TEXT="Volatility">
@@ -2853,8 +2830,7 @@
       + Trading mechanics: Ex, Stop-Loss level setting
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617599772910" TEXT="ATR (Average True Range)">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2901,8 +2877,7 @@
       &#160;&#160;&#160;- Volatility is reducing
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1617599836601" ID="ID_1358444407" MODIFIED="1617603389523" TEXT="Bollinger Bands">
@@ -2963,10 +2938,9 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1617599865778" ID="ID_677901973" MODIFIED="1617688899841" TEXT="Fibonacci">
+<node CREATED="1617599865778" ID="ID_677901973" MODIFIED="1617961275021" TEXT="Fibonacci Retracement">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3057,8 +3031,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-7;59;" ID="Arrow_ID_968318467" STARTARROW="Default" STARTINCLINATION="-285;0;"/>
 </node>
 </node>
@@ -3148,8 +3121,7 @@
       Fibonacci Retracement should be matched up with the timeframe work best for different trading styles
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" SOURCE="ID_1241195952" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <linktarget COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-7;59;" ID="Arrow_ID_968318467" SOURCE="ID_677901973" STARTARROW="Default" STARTINCLINATION="-285;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
@@ -3166,8 +3138,7 @@
       Try to scalp very tiny changes in the fluctuations of the prices
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1617605940757" ID="ID_35291863" MODIFIED="1617605953374" TEXT="Seconds"/>
 <node CREATED="1617605955582" ID="ID_694022184" MODIFIED="1617605959074" TEXT="Minutes"/>
 </node>
@@ -3181,8 +3152,7 @@
       Trading by minutes to hours
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615849481108" ID="ID_1469340120" MODIFIED="1615950111614" TEXT="3 or 5 minutes">
 <font NAME="SansSerif" SIZE="12"/>
@@ -3201,8 +3171,7 @@
       Trading by hours to days
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#6666ff" CREATED="1615849548108" ID="ID_289117767" MODIFIED="1617688827171" TEXT="Position (Active) Traders">
 <richcontent TYPE="NOTE"><html>
@@ -3214,8 +3183,7 @@
       Trading by days to weeks
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink DESTINATION="ID_289117767" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1079727898" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_289117767" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1079727898" SOURCE="ID_289117767" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
@@ -3239,8 +3207,7 @@
       Trading by weeks to months
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1617605975839" ID="ID_687425732" MODIFIED="1617605990587" TEXT="1 to 12 Months"/>
 </node>
 <node BACKGROUND_COLOR="#66ccff" CREATED="1615849569100" ID="ID_868973307" MODIFIED="1617688827175" TEXT="Buy &amp; Hold Investors">
@@ -3253,8 +3220,7 @@
       Entry without much exits
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615849575702" ID="ID_215040844" MODIFIED="1615950111613" TEXT="Watching Short List">
 <font NAME="SansSerif" SIZE="12"/>
@@ -3309,8 +3275,8 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" FOLDED="true" ID="ID_1648067558" MODIFIED="1617776162349" POSITION="left" TEXT="Trading View Platform">
-<node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" ID="ID_253611846" MODIFIED="1617688827191" TEXT="Top Toolbar">
+<node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1618109871960" POSITION="left" TEXT="Trading View Platform">
+<node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" FOLDED="true" ID="ID_253611846" MODIFIED="1618109887929" TEXT="Top Toolbar">
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617417465185" STYLE="fork" TEXT="Symbol">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3321,8 +3287,7 @@
       Where to change security symbol
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617243251350" ID="ID_1512798208" MODIFIED="1617417465185" STYLE="fork" TEXT="Timeframe">
@@ -3585,15 +3550,14 @@
       Use its sync capability to analyzing multiple charts with the same symbol, different timeframes (intervals), timeline, crosshair, and DRAWING TOOLS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617344459856" ID="ID_97848479" MODIFIED="1617417465179" STYLE="fork" TEXT="Chart Settings">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#33ccff" CREATED="1617346028680" ID="ID_1637842746" MODIFIED="1617688827201" TEXT="Right Toolbar">
+<node BACKGROUND_COLOR="#33ccff" CREATED="1617346028680" FOLDED="true" ID="ID_1637842746" MODIFIED="1618109890788" TEXT="Right Toolbar">
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617384179867" ID="ID_1776515588" MODIFIED="1617418376294" STYLE="fork" TEXT="Watch List">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3607,8 +3571,7 @@
       Tag with colors
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617384951670" ID="ID_543918810" MODIFIED="1617418376294" STYLE="fork" TEXT="Alert Info">
@@ -3621,8 +3584,7 @@
       List all alerts have been created
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617414645754" ID="ID_139410270" MODIFIED="1617418376293" STYLE="fork" TEXT="Data Window">
@@ -3635,8 +3597,7 @@
       List of all indicators have been added to TradingView (including showed and hidden ones)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617414951156" ID="ID_1627755908" MODIFIED="1617418376293" STYLE="fork" TEXT="Hot Lists">
@@ -3663,8 +3624,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617415802669" ID="ID_1168756679" MODIFIED="1617418376293" STYLE="fork" TEXT="Economic Calendar">
@@ -3682,8 +3642,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617416815418" ID="ID_1356382334" MODIFIED="1617418376293" STYLE="fork" TEXT="My Published Ideas">
@@ -3714,8 +3673,7 @@
       Try TP and SL tools which TradingView provides help to calculate positions
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617417690950" ID="ID_1996711420" MODIFIED="1617418376287" STYLE="fork" TEXT="Depth of Market">
@@ -3731,15 +3689,14 @@
       List all drawing tools added on the current char
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#33ccff" CREATED="1617418256804" ID="ID_1097964537" MODIFIED="1617418376287" STYLE="fork" TEXT="Help Center">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#3399ff" CREATED="1617418283404" ID="ID_1071593058" MODIFIED="1617688827210" TEXT="Drawing Tools">
+<node BACKGROUND_COLOR="#3399ff" CREATED="1617418283404" FOLDED="true" ID="ID_1071593058" MODIFIED="1618109892293" TEXT="Drawing Tools">
 <node BACKGROUND_COLOR="#3399ff" CREATED="1617419342124" ID="ID_820887774" MODIFIED="1617439639522" STYLE="fork" TEXT="Cursor Options">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
@@ -3774,8 +3731,7 @@
       Good tool to calculate differences in price and percentage
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617438720908" ID="ID_130909394" MODIFIED="1617440320745" STYLE="fork" TEXT="Zoom Tools">
@@ -3791,8 +3747,7 @@
       Click Zoom out to reset to normal chart
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617438908286" ID="ID_1601840904" MODIFIED="1617440320745" STYLE="fork" TEXT="Snap Toggle">
@@ -3805,8 +3760,7 @@
       Use it with other drawing tools to snap start/end points to candlesticks
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617439602776" ID="ID_1884716461" MODIFIED="1617440320744" STYLE="fork" TEXT="Drawing Mode Lock">
@@ -3819,8 +3773,7 @@
       Turn on: to keep the selected drawing tool for placing multiple of them
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617439866690" ID="ID_736171302" MODIFIED="1617440320744" STYLE="fork" TEXT="Lock All Drawings">
@@ -3836,8 +3789,7 @@
       Individual drawing locking can be done via right mouse click or its properties bar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617440073204" ID="ID_735349645" MODIFIED="1617440320744" STYLE="fork" TEXT="Hide Drawings / Indicators">
@@ -3853,8 +3805,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617440252645" ID="ID_1845941285" MODIFIED="1617440320743" STYLE="fork" TEXT="Sync Drawings">
@@ -3867,16 +3818,16 @@
       Sync drawings across multiple panels in the layout if they have the same symbol
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#3366ff" CREATED="1617440112958" ID="ID_893366520" MODIFIED="1617440320743" STYLE="fork" TEXT="Delete Drawings">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617445286502" ID="ID_1399453824" MODIFIED="1617688827214" TEXT="Bottom Tabs">
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617445408129" ID="ID_133094073" MODIFIED="1617447106214" STYLE="fork" TEXT="Screeners">
+<node BACKGROUND_COLOR="#3366ff" COLOR="#ffffff" CREATED="1617445286502" ID="ID_1399453824" MODIFIED="1618109926949" TEXT="Bottom Tabs">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node BACKGROUND_COLOR="#3366ff" COLOR="#ffffff" CREATED="1617445408129" ID="ID_133094073" MODIFIED="1618109947135" STYLE="fork" TEXT="Screeners">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3886,11 +3837,11 @@
       Tools for analyzing different markets: stocks, forex, cryptocurrencies
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617445641748" ID="ID_1274789780" MODIFIED="1617447106214" STYLE="fork" TEXT="Text Notes">
+<node BACKGROUND_COLOR="#3366ff" COLOR="#ffffff" CREATED="1617445641748" ID="ID_1274789780" MODIFIED="1618109947135" STYLE="fork" TEXT="Text Notes">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3900,11 +3851,11 @@
       Keep trading notes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617445675062" ID="ID_1311294777" MODIFIED="1617447106214" STYLE="fork" TEXT="Pine Editor">
+<node BACKGROUND_COLOR="#3366ff" COLOR="#ffffff" CREATED="1617445675062" ID="ID_1311294777" MODIFIED="1618109947135" STYLE="fork" TEXT="Pine Editor">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3914,11 +3865,11 @@
       Create new or edit existing Pine Scripts
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617445780678" ID="ID_1013947790" MODIFIED="1617688827215" STYLE="fork" TEXT="Strategy Tester">
+<node BACKGROUND_COLOR="#3366ff" COLOR="#ffffff" CREATED="1617445780678" ID="ID_1013947790" MODIFIED="1618109947134" STYLE="fork" TEXT="Strategy Tester">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3928,14 +3879,14 @@
       Results returned from an execution of a strategy script
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615842378565" ID="ID_1370438754" MODIFIED="1615950111614" TEXT="Backtesting">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#3366ff" CREATED="1617446277240" ID="ID_183700326" MODIFIED="1617688827217" STYLE="fork" TEXT="Trading Panel">
+<node BACKGROUND_COLOR="#3366ff" COLOR="#ffffff" CREATED="1617446277240" ID="ID_183700326" MODIFIED="1618109947134" STYLE="fork" TEXT="Trading Panel">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3945,9 +3896,9 @@
       Paper and real account trading platforms
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615842361452" ID="ID_534360570" MODIFIED="1615950111614" TEXT="Paper Trading">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -4822,8 +4773,7 @@
       </div>
     </div>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#cccccc" CREATED="1617344328624" ID="ID_1106892845" MODIFIED="1617447166903" TEXT="Mouse">
 <richcontent TYPE="NOTE"><html>
@@ -4835,8 +4785,7 @@
       Ctrl + Drag with Crosshair: Select
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#9966ff" CREATED="1617776091830" ID="ID_1336633593" MODIFIED="1617776134953" POSITION="left" TEXT="Trading Strategy">
@@ -5007,8 +4956,7 @@
       <b>Sell: </b>ONE or MORE indicators show <b><u>opposite</u></b>&#160;sign
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#999999" CREATED="1617776199169" ID="ID_1857100699" MODIFIED="1617785394302" TEXT="Selective Trading Timing">
@@ -5044,8 +4992,7 @@
       Get indication that the Trend Is Ending...you exit all <b><u><font color="#cc0033">at once</font></u></b>&#160; to protect your gain
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_1857100699" ENDARROW="Default" ENDINCLINATION="102;0;" ID="Arrow_ID_1020900555" SOURCE="ID_1380232285" STARTARROW="None" STARTINCLINATION="102;0;"/>
 </node>
 <node BACKGROUND_COLOR="#ff3333" CREATED="1617776530663" ID="ID_1369495998" MODIFIED="1617781235458" TEXT="Setup Trading">
@@ -5130,8 +5077,7 @@
       &#160;&#160;&#160;- Predetermined profit amount: X% of profit and reasonable Stop-Loss
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1617779838427" ID="ID_992993245" MODIFIED="1617780264355" TEXT="Guerilla">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5181,8 +5127,7 @@
       + Sometimes can do this multiple times on the same announcement as the market processes the news
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#00ccff" CREATED="1617781163914" ID="ID_1838155814" MODIFIED="1617784843850" TEXT="Trade Management">
@@ -5196,8 +5141,7 @@
       Conservative
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617784863320" ID="ID_1380232285" MODIFIED="1617788302643" TEXT="Trading Plan">
 <richcontent TYPE="NOTE"><html>
@@ -5226,8 +5170,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1857100699" ENDARROW="Default" ENDINCLINATION="102;0;" ID="Arrow_ID_1020900555" STARTARROW="None" STARTINCLINATION="102;0;"/>
 </node>
 <node CREATED="1617846811800" ID="ID_1505071590" MODIFIED="1617848094082" TEXT="Maximize Profit">
@@ -5313,8 +5256,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617848550621" ID="ID_1519456286" MODIFIED="1617874494042" TEXT="Mimimize Loss">
 <richcontent TYPE="NOTE"><html>
@@ -5552,8 +5494,7 @@
       Buy near a Support Level (Anticipate price rise) but put a Stop Loss below the Support price line in case downward trend breaks through that level
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617874565035" ID="ID_1947280979" MODIFIED="1617875700554" TEXT="Adjust Position">
 <richcontent TYPE="NOTE"><html>
@@ -5608,8 +5549,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1617875680936" ID="ID_912552923" MODIFIED="1617875908290" TEXT="Track Results">
 <richcontent TYPE="NOTE"><html>
@@ -5649,8 +5589,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1617876609178" ID="ID_1441307469" MODIFIED="1617878288551" TEXT="Expectancy Ratio">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5701,8 +5640,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -5884,8 +5822,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node BACKGROUND_COLOR="#33ff00" CREATED="1617953433814" ID="ID_338437128" MODIFIED="1617953873416" TEXT="Buy to Cover Order">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5907,8 +5844,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node BACKGROUND_COLOR="#ffcc99" CREATED="1617954251871" ID="ID_1083395197" MODIFIED="1617954411830" TEXT="Considerations">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5953,8 +5889,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -5975,8 +5910,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_396064639" ENDARROW="Default" ENDINCLINATION="186;0;" ID="Arrow_ID_1615585542" STARTARROW="None" STARTINCLINATION="186;0;"/>
 </node>
 <node CREATED="1617954599262" ID="ID_119897448" MODIFIED="1617959457231" TEXT="Stop Limit">
@@ -5997,8 +5931,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1090208818" ENDARROW="Default" ENDINCLINATION="188;0;" ID="Arrow_ID_391080523" STARTARROW="None" STARTINCLINATION="188;0;"/>
 </node>
 <node CREATED="1617954603314" ID="ID_116580370" MODIFIED="1617960141327" TEXT="Stop Trailing">
@@ -6019,8 +5952,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#99ccff" CREATED="1617960504984" ID="ID_1023482656" MODIFIED="1617960745593" TEXT="Bracketed Order">
@@ -6047,8 +5979,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
