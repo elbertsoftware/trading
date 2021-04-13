@@ -4914,7 +4914,7 @@
   </body>
 </html></richcontent>
 </node>
-<node BACKGROUND_COLOR="#339900" CREATED="1617786145795" ID="ID_238778624" MODIFIED="1617787243545" TEXT="RSI + Stochastic + MACD">
+<node BACKGROUND_COLOR="#339900" CREATED="1617786145795" ID="ID_238778624" MODIFIED="1618196252564" TEXT="RSI + Stochastic + MACD">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -4936,14 +4936,14 @@
       
     </p>
     <p>
-      Buy: OK signal from ALL 3 indicators:
+      <b><font color="#009900">Buy</font></b>: OK signal from ALL 3 indicators:
     </p>
     <ol>
       <li>
         RSI <b><u>above</u></b>&#160;50-line
       </li>
       <li>
-        Stochastic <b><u>above</u></b>&#160;50-line
+        Stochastic <b><u><font color="#ff9933">%D</font></u></b>&#160;<b><u>above</u></b>&#160;50-line
       </li>
       <li>
         MACD line <b><u>above</u></b>&#160;Signal line
@@ -4953,10 +4953,11 @@
       
     </p>
     <p>
-      <b>Sell: </b>ONE or MORE indicators show <b><u>opposite</u></b>&#160;sign
+      <b><font color="#cc0033">Sell</font>: </b>ONE or MORE indicators show <b><u>opposite</u></b>&#160;sign
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#999999" CREATED="1617776199169" ID="ID_1857100699" MODIFIED="1617785394302" TEXT="Selective Trading Timing">
@@ -5258,7 +5259,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1617848550621" ID="ID_1519456286" MODIFIED="1617874494042" TEXT="Mimimize Loss">
+<node BACKGROUND_COLOR="#ff9900" CREATED="1617848550621" ID="ID_1519456286" MODIFIED="1618297204615" TEXT="Mimimize Loss">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -5294,10 +5295,22 @@
       <b><font color="#0066ff">Stop-Loss Strategies</font></b>
     </p>
     <p>
-      
+      See child nodes
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1618296769153" ID="ID_1788549001" MODIFIED="1618296866814" TEXT="2% Rules">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff9900">2% Rules</font></b>&#160;(popularized in the book &quot;The Way of the Turtle&quot; by Curtis Faith
     </p>
     <p>
-      1). <b><font color="#ff9900">2% Rules</font></b>&#160;(popularized in the book &quot;The Way of the Turtle&quot; by Curtis Faith
+      
     </p>
     <p>
       &#160;&#160;&#160;&#160;&#160;+ Stop a loss when it reaches 2% of starting equity (available to trade):
@@ -5320,11 +5333,18 @@
     <p>
       You can afford to lose and would set your Stop-Loss at a $200 loss on each trade
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1618296923814" ID="ID_41711143" MODIFIED="1618296957889" TEXT="Risk Reward Ratio">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      
-    </p>
-    <p>
-      2). <b><font color="#ff9900">Risk Reward Ratio </font></b>
+      <b><font color="#ff9900">Risk Reward Ratio </font></b>
     </p>
     <p>
       
@@ -5352,7 +5372,7 @@
         In essence, willing to lose $10 in order to make $25
       </li>
       <li>
-        Ratio is thus $25 reward: $10 risk or <b>2.5 : 1</b>&#160;(Yes, actually backwards...should be called Reward Risk ratio)
+        Ratio is thus <b>($25 reward) : ($10 risk)</b>&#160;or <b>2.5 : 1</b>&#160;(Yes, actually backwards...should be called Reward Risk ratio)
       </li>
     </ul>
     <p>
@@ -5364,11 +5384,18 @@
     <p>
       Can be complex to calculate
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1618297028316" ID="ID_1558014644" MODIFIED="1618297072479" TEXT="MAE (Maximum Adverse Excursion)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      
-    </p>
-    <p>
-      3). <b><font color="#ff9900">Maximum Adverse Excursion (MAE)</font></b><font color="#000000">&#160;- Developed by John Sweeney </font>
+      <b><font color="#ff9900">Maximum Adverse Excursion (MAE)</font></b><font color="#000000">&#160;- Developed by John Sweeney </font>
     </p>
     <p>
       
@@ -5393,8 +5420,18 @@
     <p>
       
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1618297094022" ID="ID_627668523" MODIFIED="1618297121023" TEXT="Trailing Stops">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      4). <b><font color="#ff9900">Trailing Stops </font></b>
+      <b><font color="#ff9900">Trailing Stops </font></b>
     </p>
     <p>
       
@@ -5438,11 +5475,18 @@
         Random &quot;Noise&quot; activity can activate your stop and get you out before you want
       </li>
     </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1618297133652" ID="ID_1346740932" MODIFIED="1618297157560" TEXT="Last 3-Day Rule">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      
-    </p>
-    <p>
-      5). <b><font color="#ff9900">Last 3-Day Rule </font></b>
+      <b><font color="#ff9900">Last 3-Day Rule </font></b>
     </p>
     <p>
       
@@ -5466,11 +5510,18 @@
         Uptrend would be a series of higher Highs that does not seem to be happening
       </li>
     </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1618297178324" ID="ID_657808425" MODIFIED="1618297210761" TEXT="Pattern Stops">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      
-    </p>
-    <p>
-      6). <b><font color="#ff9900">Pattern Stops</font></b>
+      <b><font color="#ff9900">Pattern Stops</font></b>
     </p>
     <p>
       
@@ -5494,7 +5545,9 @@
       Buy near a Support Level (Anticipate price rise) but put a Stop Loss below the Support price line in case downward trend breaks through that level
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1617874565035" ID="ID_1947280979" MODIFIED="1617875700554" TEXT="Adjust Position">
 <richcontent TYPE="NOTE"><html>
