@@ -3108,7 +3108,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1615849325633" ID="ID_1613524815" MODIFIED="1617688899841" POSITION="left" TEXT="Time Frame">
+<node CREATED="1615849325633" FOLDED="true" ID="ID_1613524815" MODIFIED="1618369469633" POSITION="left" TEXT="Time Frame">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -3275,7 +3275,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" ID="ID_1648067558" MODIFIED="1618109871960" POSITION="left" TEXT="Trading View Platform">
+<node BACKGROUND_COLOR="#0099ff" CREATED="1617242842240" FOLDED="true" ID="ID_1648067558" MODIFIED="1618369475072" POSITION="left" TEXT="Trading View Platform">
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617343105952" FOLDED="true" ID="ID_253611846" MODIFIED="1618109887929" TEXT="Top Toolbar">
 <node BACKGROUND_COLOR="#00ffff" CREATED="1617343060261" ID="ID_692515613" MODIFIED="1617417465185" STYLE="fork" TEXT="Symbol">
 <richcontent TYPE="NOTE"><html>
@@ -4956,8 +4956,7 @@
       <b><font color="#cc0033">Sell</font>: </b>ONE or MORE indicators show <b><u>opposite</u></b>&#160;sign
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#999999" CREATED="1617776199169" ID="ID_1857100699" MODIFIED="1617785394302" TEXT="Selective Trading Timing">
@@ -5298,8 +5297,7 @@
       See child nodes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1618296769153" ID="ID_1788549001" MODIFIED="1618296866814" TEXT="2% Rules">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5334,8 +5332,7 @@
       You can afford to lose and would set your Stop-Loss at a $200 loss on each trade
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618296923814" ID="ID_41711143" MODIFIED="1618296957889" TEXT="Risk Reward Ratio">
 <richcontent TYPE="NOTE"><html>
@@ -5385,8 +5382,7 @@
       Can be complex to calculate
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618297028316" ID="ID_1558014644" MODIFIED="1618297072479" TEXT="MAE (Maximum Adverse Excursion)">
 <richcontent TYPE="NOTE"><html>
@@ -5421,8 +5417,7 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618297094022" ID="ID_627668523" MODIFIED="1618297121023" TEXT="Trailing Stops">
 <richcontent TYPE="NOTE"><html>
@@ -5476,8 +5471,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618297133652" ID="ID_1346740932" MODIFIED="1618297157560" TEXT="Last 3-Day Rule">
 <richcontent TYPE="NOTE"><html>
@@ -5511,8 +5505,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618297178324" ID="ID_657808425" MODIFIED="1618297210761" TEXT="Pattern Stops">
 <richcontent TYPE="NOTE"><html>
@@ -5545,8 +5538,7 @@
       Buy near a Support Level (Anticipate price rise) but put a Stop Loss below the Support price line in case downward trend breaks through that level
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1617874565035" ID="ID_1947280979" MODIFIED="1617875700554" TEXT="Adjust Position">
@@ -6035,6 +6027,36 @@
 </html></richcontent>
 </node>
 </node>
+</node>
+<node BACKGROUND_COLOR="#66ff66" CREATED="1618369489778" ID="ID_1565011190" MODIFIED="1618369521666" POSITION="left" TEXT="Option Trading">
+<node CREATED="1618369537841" ID="ID_1142284602" MODIFIED="1618370095992" TEXT="Daily Watchlist">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Confirm signal in 5' timeframe
+      </li>
+      <li>
+        7 PM PST
+      </li>
+      <li>
+        30' before market opened
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1618369993840" ID="ID_58039452" MODIFIED="1618370012393" TEXT="Breakout CALL"/>
+<node CREATED="1618370002849" ID="ID_1226858534" MODIFIED="1618370008357" TEXT="Breakdown PUT"/>
+<node CREATED="1618370021740" ID="ID_174449559" MODIFIED="1618370031428" TEXT="Resistance Line PUT"/>
+<node CREATED="1618370034148" ID="ID_397465924" MODIFIED="1618370052166" TEXT="Support Line CALL"/>
 </node>
 </node>
 </map>
