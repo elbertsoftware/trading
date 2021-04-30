@@ -29,7 +29,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1615934672539" ID="ID_1241195952" MODIFIED="1617688827117" POSITION="right" TEXT="OHLC">
+<node CREATED="1615934672539" FOLDED="true" ID="ID_1241195952" MODIFIED="1619751958047" POSITION="right" TEXT="OHLC">
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-23;-55;" ID="Arrow_ID_1529966873" STARTARROW="Default" STARTINCLINATION="-116;-90;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1615946114715" ID="ID_104849619" MODIFIED="1617688827121" TEXT="Parts">
@@ -390,7 +390,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1616047231508" ID="ID_1619754521" MODIFIED="1617688754335" POSITION="right" TEXT="Gaps">
+<node CREATED="1616047231508" FOLDED="true" ID="ID_1619754521" MODIFIED="1619751960428" POSITION="right" TEXT="Gaps">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -610,7 +610,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1616298700090" ID="ID_705980829" MODIFIED="1617687898582" POSITION="right" TEXT="Candlesticks">
+<node CREATED="1616298700090" FOLDED="true" ID="ID_705980829" MODIFIED="1619751964165" POSITION="right" TEXT="Candlesticks">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -655,7 +655,8 @@
       </li>
     </ol>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1616298735430" ID="ID_1361277791" MODIFIED="1617688752639" TEXT="Doji">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -1183,7 +1184,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615947384914" ID="ID_1681672627" MODIFIED="1617687887874" POSITION="right" TEXT="Indicators">
+<node CREATED="1615947384914" FOLDED="true" ID="ID_1681672627" MODIFIED="1619751967207" POSITION="right" TEXT="Indicators">
 <font NAME="SansSerif" SIZE="12"/>
 <node BACKGROUND_COLOR="#66cc00" CREATED="1615870648906" ID="ID_986236043" MODIFIED="1617688874125" TEXT="Volume">
 <richcontent TYPE="NOTE"><html>
@@ -1944,7 +1945,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1615842259661" ID="ID_1574234014" MODIFIED="1617688134728" POSITION="right" TEXT="MA (Moving Average)">
+<node CREATED="1615842259661" FOLDED="true" ID="ID_1574234014" MODIFIED="1619751971546" POSITION="right" TEXT="MA (Moving Average)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -6050,13 +6051,128 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1618369993840" ID="ID_58039452" MODIFIED="1618370012393" TEXT="Breakout CALL"/>
 <node CREATED="1618370002849" ID="ID_1226858534" MODIFIED="1618370008357" TEXT="Breakdown PUT"/>
 <node CREATED="1618370021740" ID="ID_174449559" MODIFIED="1618370031428" TEXT="Resistance Line PUT"/>
 <node CREATED="1618370034148" ID="ID_397465924" MODIFIED="1618370052166" TEXT="Support Line CALL"/>
+<node BACKGROUND_COLOR="#66ccff" CREATED="1619752010613" ID="ID_1328746671" MODIFIED="1619753141388" TEXT="Daily Statistics">
+<node CREATED="1619752045816" ID="ID_1877772587" MODIFIED="1619752335877" TEXT="IV">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Implied Volatility (IV):
+    </p>
+    <ul>
+      <li>
+        A measure of market sentiment regarding to the security's potential movement
+      </li>
+      <li>
+        In general, the higher the IV, the higher the option's premium
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1619752060255" ID="ID_1556944862" MODIFIED="1619752358009" TEXT="HV">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Historical Volatility (HV):
+    </p>
+    <ul>
+      <li>
+        Attempts to measure a security's potential price movement based upon the ranges of price movement a security has historically shown
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1619752293778" ID="ID_1251743165" MODIFIED="1619752450604" TEXT="VWAP">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Volume Weighted Average Price (VWAP):
+    </p>
+    <ul>
+      <li>
+        Is a measure of the underlying's price based upon the number of shares or contracts traded at different prices
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#ff6666" CREATED="1619752537502" ID="ID_284256454" MODIFIED="1619753113203" TEXT="Traded at BID or below">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Securities traded at or below their current BID can be reasonably assumed to be initiated by SELLERS
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#66ff66" CREATED="1619752560571" ID="ID_842493286" MODIFIED="1619753126247" TEXT="Traded at ASK or above">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Securities traded at or above their current ASK can be reasonably assumed to be initiated by BUYERS
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1619752787664" ID="ID_1231157475" MODIFIED="1619752911709" TEXT="Sizzle Index">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A ratio of the current day's volume for all options on the underlying against the average of those options previous 5 days volumes
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node BACKGROUND_COLOR="#ff3399" CREATED="1619752914019" ID="ID_578847571" MODIFIED="1619753081749" TEXT="P/C Ratio">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        The PUT/CALL ratio is a popular tool specifically designed to help individual investors gauge the overall sentiment, or mood, of the market
+      </li>
+      <li>
+        If more PUTs are traded than CALLs, this is potentially a BEARISH sentiment, and vice versa
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 </map>
