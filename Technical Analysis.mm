@@ -5808,7 +5808,51 @@
 </richcontent>
 </node>
 </node>
-<node CREATED="1620536064852" ID="ID_1324829584" MODIFIED="1620536068441" TEXT="Beta"/>
+<node BACKGROUND_COLOR="#99ff33" CREATED="1620536064852" ID="ID_1324829584" MODIFIED="1620538875283" TEXT="Beta">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Most common measure of risk, easiest to look up
+      </li>
+      <li>
+        It measures the amount of risk an individual security, mutual fund, or ETF has relative to a BROADER index (S&amp;P 500 for example)
+      </li>
+      <li>
+        The broader market is assigned a beta of 1.0 while cash would have beta of 0.0
+      </li>
+      <li>
+        Evaluate individual stock risk based on relation to that 1.0 market rate
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <b>How to read Beta:</b>
+    </p>
+    <ul>
+      <li>
+        Between 0 and 1.0: The security is less volatile than the market
+      </li>
+      <li>
+        Equals to 1.0: The security mirrors the same volatility of whatever index is used to represent the overall market
+      </li>
+      <li>
+        Greater than 1.0: The stock is more volatile than the market
+      </li>
+      <li>
+        Negative Beta (rare): The stock moves opposite direction of the broader index aka. market. For example: Gold price
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node CREATED="1620536069026" ID="ID_111573927" MODIFIED="1620536071986" TEXT="Alpha"/>
 <node CREATED="1620536072893" ID="ID_254421740" MODIFIED="1620536078664" TEXT="R-Squared"/>
 </node>
