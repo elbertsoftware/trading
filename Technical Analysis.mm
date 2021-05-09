@@ -655,8 +655,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1616298735430" ID="ID_1361277791" MODIFIED="1617688752639" TEXT="Doji">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -2629,7 +2628,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1617582125096" ID="ID_1955237427" MODIFIED="1617688004705" POSITION="right" TEXT="Volatility">
+<node CREATED="1617582125096" ID="ID_1955237427" MODIFIED="1620536958453" POSITION="right" TEXT="Volatility">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2832,6 +2831,7 @@
     </p>
   </body>
 </html></richcontent>
+<linktarget COLOR="#ff0000" DESTINATION="ID_1955237427" ENDARROW="Default" ENDINCLINATION="-170;0;" ID="Arrow_ID_232731586" SOURCE="ID_766424665" STARTARROW="Default" STARTINCLINATION="-353;0;"/>
 <node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617599772910" TEXT="ATR (Average True Range)">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -3063,8 +3063,7 @@
       A large difference between the Trefis estimate stock price and the market price might signal the stock is mispriced by the market
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -5707,6 +5706,112 @@
 </node>
 </node>
 </node>
+<node BACKGROUND_COLOR="#ff9999" CREATED="1620536011203" ID="ID_1668239254" MODIFIED="1620536034050" TEXT="Risk Management">
+<node CREATED="1620536041797" ID="ID_766424665" MODIFIED="1620536958453" TEXT="Standard Deviation">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Monitor volatility
+    </p>
+  </body>
+</html>
+</richcontent>
+<arrowlink COLOR="#ff0000" DESTINATION="ID_1955237427" ENDARROW="Default" ENDINCLINATION="-170;0;" ID="Arrow_ID_232731586" STARTARROW="Default" STARTINCLINATION="-353;0;"/>
+</node>
+<node CREATED="1620536056694" ID="ID_1310393926" MODIFIED="1620538052119" TEXT="Sharpe Ratio">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Above 1.0 is generally considered good because you are getting excess returns relative to its volatility
+      </li>
+      <li>
+        It is good idea to compare Sharpe ration of one portfolio with its peer (similarly same class) of other portfolio
+      </li>
+      <li>
+        Adjusts a portfolio past performance to show expected future performance
+      </li>
+      <li>
+        Excess risk was taken by the investor aka. HOW MUCH ABOVE a &quot;risk free&quot; rate can I get?
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      Example:
+    </p>
+    <ul>
+      <li>
+        Mutual fund returned 15% over the last year.
+      </li>
+      <li>
+        Current risk-free rate (Treasury Bond Yield) is 3.5%
+      </li>
+      <li>
+        Standard Deviation (Volatility measure) 12%
+      </li>
+      <li>
+        Sharpe Ratio calculation is (15% - 3.5%) divided by 12% which equals 95.8% or .985
+      </li>
+      <li>
+        Since less than 1.0 not a great Sharpe Ratio.
+      </li>
+      <li>
+        Taking on more risk relative to returns
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1620537503695" ID="ID_188841358" MODIFIED="1620537696362" TEXT="Sortino Ratio">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        It is a Sharpe Ratio Variation
+      </li>
+      <li>
+        It only considers the Standard Deviation of the downside risk while Sharpe includes the entire (upside and downside) risk
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1620537678717" ID="ID_1478105229" MODIFIED="1620538013030" TEXT="Treyor Ratio">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      It is a Sharpe Ratio Variation
+    </p>
+    <p>
+      It measures how successful an investment is in providing compensation to investors for taking on risk
+    </p>
+    <p>
+      It is related to portfolio's Beta
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1620536064852" ID="ID_1324829584" MODIFIED="1620536068441" TEXT="Beta"/>
+<node CREATED="1620536069026" ID="ID_111573927" MODIFIED="1620536071986" TEXT="Alpha"/>
+<node CREATED="1620536072893" ID="ID_254421740" MODIFIED="1620536078664" TEXT="R-Squared"/>
+</node>
 <node BACKGROUND_COLOR="#ffcc00" CREATED="1617878293514" ID="ID_203135624" MODIFIED="1617878312480" TEXT="Order Type">
 <node BACKGROUND_COLOR="#33ff00" CREATED="1617954474926" ID="ID_1121117939" MODIFIED="1617954508156" TEXT="Buy Order">
 <node BACKGROUND_COLOR="#cc99ff" CREATED="1617946650624" ID="ID_396064639" MODIFIED="1617958358516" TEXT="Market Order">
@@ -6093,8 +6198,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1619752060255" ID="ID_1556944862" MODIFIED="1619752358009" TEXT="HV">
 <richcontent TYPE="NOTE"><html>
@@ -6111,8 +6215,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1619752293778" ID="ID_1251743165" MODIFIED="1619752450604" TEXT="VWAP">
 <richcontent TYPE="NOTE"><html>
@@ -6129,8 +6232,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ff6666" CREATED="1619752537502" ID="ID_284256454" MODIFIED="1619753113203" TEXT="Traded at BID or below">
 <richcontent TYPE="NOTE"><html>
@@ -6142,8 +6244,7 @@
       Securities traded at or below their current BID can be reasonably assumed to be initiated by SELLERS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#66ff66" CREATED="1619752560571" ID="ID_842493286" MODIFIED="1619753126247" TEXT="Traded at ASK or above">
 <richcontent TYPE="NOTE"><html>
@@ -6155,8 +6256,7 @@
       Securities traded at or above their current ASK can be reasonably assumed to be initiated by BUYERS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1619752787664" ID="ID_1231157475" MODIFIED="1619752911709" TEXT="Sizzle Index">
 <richcontent TYPE="NOTE"><html>
@@ -6168,8 +6268,7 @@
       A ratio of the current day's volume for all options on the underlying against the average of those options previous 5 days volumes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node BACKGROUND_COLOR="#ff3399" CREATED="1619752914019" ID="ID_578847571" MODIFIED="1619753081749" TEXT="P/C Ratio">
 <richcontent TYPE="NOTE"><html>
@@ -6186,8 +6285,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
