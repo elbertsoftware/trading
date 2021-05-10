@@ -5914,7 +5914,44 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1620536072893" ID="ID_254421740" MODIFIED="1620536078664" TEXT="R-Squared"/>
+<node CREATED="1620536072893" ID="ID_254421740" MODIFIED="1620621837200" TEXT="R-Squared">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        R-squared values range from 0 to 100.
+      </li>
+      <li>
+        R-squared value between 85 and 100 has a performance record that is closely correlated to the benchmark index
+      </li>
+      <li>
+        R-squared of 70 or less means typically does not perform like the benchmark index
+      </li>
+      <li>
+        So why is this important?<br />If Fund A was an actively managed and had high fees but really was just tracking the benchmark index an investor would be much better off buying a much lower fee Index Fund or Exchange Traded Fund (ETF)
+      </li>
+    </ul>
+    <p>
+      For Example:
+    </p>
+    <ul>
+      <li>
+        An S&amp;P 500 Index Fund (The Benchmark) would have an R-Squared of 100
+      </li>
+      <li>
+        Fund A is at 95: Performs almost exactly like the benchmark
+      </li>
+      <li>
+        Fund B is at 40: Performance is not due as much to general results of the index
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node BACKGROUND_COLOR="#ffcc00" CREATED="1617878293514" ID="ID_203135624" MODIFIED="1617878312480" TEXT="Order Type">
 <node BACKGROUND_COLOR="#33ff00" CREATED="1617954474926" ID="ID_1121117939" MODIFIED="1617954508156" TEXT="Buy Order">
