@@ -5853,7 +5853,67 @@
 </richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1620536069026" ID="ID_111573927" MODIFIED="1620536071986" TEXT="Alpha"/>
+<node CREATED="1620536069026" ID="ID_111573927" MODIFIED="1620619453023" TEXT="Alpha">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Goes hand in hand with Beta. Some times you could have high Alpha but Beta is too much for your investment tastes or goals
+      </li>
+      <li>
+        More of a performance measure
+      </li>
+      <li>
+        Alpha refers to excess returns earned on an investment above the benchmark or index return.
+      </li>
+      <li>
+        Active mutual fund managers seek to generate alpha in diversified portfolios.
+      </li>
+      <li>
+        Represent the value that a portfolio manager adds to or subtracts from a fund's return, beyond what you could get with a passive index fund
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      <b>How to read Alpha:</b>
+    </p>
+    <ul>
+      <li>
+        Positive number means outperformed the broader index
+      </li>
+      <li>
+        Negative number means underperformed the broader index
+      </li>
+      <li>
+        The actual number is the percentage of over or under performance
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      For example: Calculate the return of a stock or mutual fund and subtract the return of the associated index. Make sure using same time periods:
+    </p>
+    <ul>
+      <li>
+        Fund A return is 4% and Index return was 10% then Alpha is &#8212;6% (-.06)
+      </li>
+      <li>
+        Fund B return is 15% and Index return was 10% then Alpha is 5% (.05)
+      </li>
+    </ul>
+    <p>
+      Note: Alpha commonly expressed as a decimal (.05) than as a % (5%)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1620536072893" ID="ID_254421740" MODIFIED="1620536078664" TEXT="R-Squared"/>
 </node>
 <node BACKGROUND_COLOR="#ffcc00" CREATED="1617878293514" ID="ID_203135624" MODIFIED="1617878312480" TEXT="Order Type">
