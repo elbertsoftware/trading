@@ -2832,7 +2832,7 @@
   </body>
 </html></richcontent>
 <linktarget COLOR="#ff0000" DESTINATION="ID_1955237427" ENDARROW="Default" ENDINCLINATION="-170;0;" ID="Arrow_ID_232731586" SOURCE="ID_766424665" STARTARROW="Default" STARTINCLINATION="-353;0;"/>
-<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1617599772910" TEXT="ATR (Average True Range)">
+<node CREATED="1615872508323" ID="ID_1073079081" MODIFIED="1620627292721" TEXT="ATR (Average True Range)">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2863,7 +2863,7 @@
       &#160;&#160;&#160;- Volatility is rising
     </p>
     <p>
-      &#160;&#160;&#160;- Higer Reward...Higher Risk
+      &#160;&#160;&#160;- Higher Reward...Higher Risk
     </p>
     <p>
       
@@ -2878,7 +2878,8 @@
       &#160;&#160;&#160;- Volatility is reducing
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1617599836601" ID="ID_1358444407" MODIFIED="1617603389523" TEXT="Bollinger Bands">
@@ -5706,7 +5707,43 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ff9999" CREATED="1620536011203" ID="ID_1668239254" MODIFIED="1620536034050" TEXT="Risk Management">
+<node BACKGROUND_COLOR="#ff9999" CREATED="1620536011203" ID="ID_1668239254" MODIFIED="1620631081810" TEXT="Risk Management">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Stocks:
+    </p>
+    <ul>
+      <li>
+        finance.yahoo.com
+      </li>
+      <li>
+        investing.com
+      </li>
+      <li>
+        finviz.com
+      </li>
+    </ul>
+    <p>
+      Mutual Funds &amp; ETFs:
+    </p>
+    <ul>
+      <li>
+        finance.yahoo.com
+      </li>
+      <li>
+        marketwatch.com/tools/mutual-fund/compare
+      </li>
+      <li>
+        utimf.com (India)
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1620536041797" ID="ID_766424665" MODIFIED="1620536958453" TEXT="Standard Deviation">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5788,7 +5825,7 @@
 </html>
 </richcontent>
 </node>
-<node CREATED="1620537678717" ID="ID_1478105229" MODIFIED="1620538013030" TEXT="Treyor Ratio">
+<node CREATED="1620537678717" ID="ID_1478105229" MODIFIED="1620628418468" TEXT="Treynor Ratio">
 <richcontent TYPE="NOTE"><html>
   <head>
     
