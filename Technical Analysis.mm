@@ -2878,8 +2878,7 @@
       &#160;&#160;&#160;- Volatility is reducing
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1617599836601" ID="ID_1358444407" MODIFIED="1617603389523" TEXT="Bollinger Bands">
@@ -3036,6 +3035,42 @@
 </html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1613524815" ENDARROW="Default" ENDINCLINATION="-7;59;" ID="Arrow_ID_968318467" STARTARROW="Default" STARTINCLINATION="-285;0;"/>
 </node>
+</node>
+<node CREATED="1620673341373" ID="ID_605439469" MODIFIED="1620702777878" POSITION="right" TEXT="Screeners">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        flowalgo.com
+      </li>
+      <li>
+        finance.yahoo.com/screener: Current Ratio &lt; 1.0; Forward Divident Yield % &gt; 2.0
+      </li>
+      <li>
+        finviz.com (US only)
+      </li>
+      <li>
+        investing.com (US and international)
+      </li>
+      <li>
+        Google for &quot;stock screener vietnam&quot;
+      </li>
+      <li>
+        tradingview.com
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node BACKGROUND_COLOR="#009966" CREATED="1615850350986" ID="ID_1625678265" MODIFIED="1617688827154" POSITION="left" TEXT="Fundamental Analysis">
 <font NAME="SansSerif" SIZE="12"/>
@@ -5742,8 +5777,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1620536041797" ID="ID_766424665" MODIFIED="1620536958453" TEXT="Standard Deviation">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5754,8 +5788,7 @@
       Monitor volatility
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#ff0000" DESTINATION="ID_1955237427" ENDARROW="Default" ENDINCLINATION="-170;0;" ID="Arrow_ID_232731586" STARTARROW="Default" STARTINCLINATION="-353;0;"/>
 </node>
 <node CREATED="1620536056694" ID="ID_1310393926" MODIFIED="1620538052119" TEXT="Sharpe Ratio">
@@ -5805,8 +5838,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1620537503695" ID="ID_188841358" MODIFIED="1620537696362" TEXT="Sortino Ratio">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -5822,8 +5854,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1620537678717" ID="ID_1478105229" MODIFIED="1620628418468" TEXT="Treynor Ratio">
 <richcontent TYPE="NOTE"><html>
@@ -5841,8 +5872,7 @@
       It is related to portfolio's Beta
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#99ff33" CREATED="1620536064852" ID="ID_1324829584" MODIFIED="1620538875283" TEXT="Beta">
@@ -5886,8 +5916,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1620536069026" ID="ID_111573927" MODIFIED="1620619453023" TEXT="Alpha">
@@ -5948,8 +5977,7 @@
       Note: Alpha commonly expressed as a decimal (.05) than as a % (5%)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1620536072893" ID="ID_254421740" MODIFIED="1620621837200" TEXT="R-Squared">
 <richcontent TYPE="NOTE"><html>
@@ -5986,8 +6014,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#ffcc00" CREATED="1617878293514" ID="ID_203135624" MODIFIED="1617878312480" TEXT="Order Type">
